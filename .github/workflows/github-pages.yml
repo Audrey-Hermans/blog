@@ -23,6 +23,9 @@ jobs:
       - name: 🧱 Install dependencies
         run: bundle install
 
+      - name: 🧹 Clean old site
+        run: rm -rf _site
+
       - name: 🛠️ Build site
         run: JEKYLL_ENV=production bundle exec jekyll build
 
