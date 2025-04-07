@@ -115,9 +115,8 @@ analytics:
 author:
   name             : "Audrey Hermans"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "J’écris pour sentir, comprendre, et être. Avec d’un crayon et une flûte en bambou, je trace des notes dans l’air, à l’adresse des rêveurs éveillés.
-"
-  location         : "Belgium"
+  bio              : "Avec un crayon et une flûte en bambou, je trace des notes dans l’air pour les rêveurs éveillés."
+  location         : "Belgique"
   email            :
   links:
     - label: "Email"
