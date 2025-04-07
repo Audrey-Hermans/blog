@@ -21,7 +21,7 @@ title                    : "L’Art d’être"
 title_separator          : "-"
 subtitle                 : "Exploration intime et sensorielle de l’existence" # site tagline that appears below site title in masthead
 name                     : "Audrey Hermans"
-description              : "Comment naviguer l’hypersensibilité et l’hyperstimulation au quotidien, astuces et blog d’Odrey"
+description              : "Comment naviguer l’hypersensibilité et l’hyperstimulation au quotidien, astuces et blog"
 url                      : "https://audrey-hermans.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,8 @@ analytics:
 author:
   name             : "Audrey Hermans"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "J’écris pour sentir, comprendre, et être. Avec d’un crayon et une flûte en bambou, je trace des notes dans l’air, à l’adresse des rêveurs éveillés.
+"
   location         : "Belgium"
   email            :
   links:
