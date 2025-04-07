@@ -15,13 +15,13 @@ theme                  : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "contrast" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "fr-FR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "L’Art d’être"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jerome Mesters"
-description              : "An amazing website."
+subtitle                 : "exploration intime et sensorielle de l’existence" # site tagline that appears below site title in masthead
+name                     : "Audrey Hermans"
+description              : "Comment naviguer l’hypersensibilité et l’hyperstimulation au quotidien, astuces et blog d’Odrey"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
