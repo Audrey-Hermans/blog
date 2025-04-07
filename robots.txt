@@ -1,1 +1,2 @@
-Sitemap: https://audrey-hermans.github.io//Website-2025/sitemap.xml
+User-agent: *
+Disallow: /
