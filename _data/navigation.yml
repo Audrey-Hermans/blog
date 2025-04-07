@@ -1,3 +1,7 @@
 main:
-  - title: "About"
+  - title: "A propos"
     url: /about/
+  - title: "Rituels"
+    url: /rituels/
+  - title: "Galerie"
+    url: /Galerie/
