@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Audrey Hermans"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "/assets/images/Myphoto.jpg"
   bio              : "Ermite des temps modernes, flûtiste contemplative et murmureuse d'images, je vis au rythme des nuages, des chats et du silence."
   location         : "Belgique"
   email            :
