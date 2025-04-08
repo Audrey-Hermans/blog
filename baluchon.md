@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Baluchon"
-permalink: /rituels/
+permalink: /baluchon/
 author_profile: true
 ---
 
