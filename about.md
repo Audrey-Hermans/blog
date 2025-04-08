@@ -1,13 +1,13 @@
 ---
 layout: single
-title: "About"
+title: "A propos"
 permalink: /about/
 author_profile: true
 ---
 Pourquoi ce site?
 
-J’ai longtemps eu l’impression d’avoir raté la distribution du mode d’emploi de la vie, que tout le monde semblait avoir reçu à la naissance.
-Les autres avançaient d’un pas assuré, comme s’ils connaissaient les règles du jeu. Moi ? J’étais toujours à l’arrière de la file en train de fouiller mes poches pour trouver une clé qui n’existait pas, mais que les autres semblaient détenir. Je pavanais dans un monde trop bruyant, trop lumineux, trop compliqué…trop “trop”, en faisant mine d’avoir tout compris, histoire de rester dans le coup.
+J’ai longtemps eu l’impression d’avoir raté la distribution du mode d’emploi de la vie. Vous savez, celui que tout le monde semble recevoir à la naissance.
+Les gens autour de moi avançaient d’un pas assuré, comme s’ils connaissaient les règles du jeu. Moi ? J’étais toujours à l’arrière de la file en train de fouiller mes poches pour trouver une clé qui n’existait pas, mais que les autres semblaient détenir. J'avançais dans un monde trop bruyant, trop lumineux, trop compliqué…trop “trop”, en faisant mine d’avoir tout compris, histoire de rester dans le coup.
 
 Résultat : noyade émotionnelle en eaux troubles. Avec bonus de surcharge mentale.
 A force de boire la tasse, j’ai fini par avoir une révélation.
@@ -25,6 +25,6 @@ C’est justement ce chemin que j’ai envie de partager ici. Pas pour donner de
 
 Alors, avant d’aller plus loin, je vous propose de préparer votre baluchon.
 Dans le mien, il y a :
-– ma flûte, pour ne pas oublier de s’écouter,
-– quelques cartes, pour se lire et se comprendre dans l’instant,
-– un crayon, toujours prêt à esquisser une note ou esquisser une idée qui prendra forme, ou pas.
+- ma flûte, pour ne pas oublier de s’écouter,
+- quelques cartes, pour se lire et se comprendre dans l’instant,
+- un crayon, toujours prêt à tracer une note ou esquisser une idée qui prendra forme, ou pas.
