@@ -24,7 +24,7 @@ Pas du jour au lendemain, bien sûr. Lentement, mais sûrement.<br />
 C'est un chemin sinueux sur lequel on trébuche, les côtes sont abruptes et les pentes vertigineuses. A vrai dire, j'ai souvent le vertige, mais je vous jure que l'aventure en vaut la peine. Les paysages sont grandioses!
 
 Ce sont donc des vues du chemin que j’ai envie de partager, un peu comme des cartes postales.<br />
-Ici, pas de promesses de libération ni de recette miracle — je laisse ça aux gourous auto-proclamés — mais j'arrive plutôt façon voiture-balais, à l'arrière du peloton, avec une bouteille d’eau et un cornet de glace pour ceux et celles qui sont paumé·es et à bout souffle sur le bord du sentier. On avance ensemble à notre rythme en laissant les autres courir devant et on s'encourage mutuellement, parce qu'au fond, on est tous en train de marcher dans la même direction.
+Ici, pas de promesses de libération ni de recette miracle — je laisse ça aux gourous auto-proclamés — mais j'arrive plutôt façon voiture-balai, à l'arrière du peloton, avec une bouteille d’eau et un cornet de glace pour ceux et celles qui sont paumé·es et à bout souffle sur le bord du sentier. On avance ensemble à notre rythme en laissant les autres courir devant et on s'encourage mutuellement, parce qu'au fond, on est tous en train de marcher dans la même direction.
 
 Alors, avant d’aller plus loin, je vous propose de préparer votre baluchon.
 
