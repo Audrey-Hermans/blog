@@ -19,7 +19,7 @@ locale                   : "fr-FR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "L’Art d’être"
 title_separator          : "-"
-subtitle                 : "Exploration poético-pratique de l'existence - en zigzag, en silence et parfois en chaussettes." # site tagline that appears below site title in masthead
+subtitle                 : "Ou comment naviguer le quotidien autrement" # site tagline that appears below site title in masthead
 name                     : "Audrey Hermans"
 description              : "A la recherche du mode d'emploi de l'existence (spoiler : il change tous les jours). Blog, cartes, souffles et surprises."
 url                      : "https://audrey-hermans.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Audrey Hermans"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/Myphoto.jpg"
-  bio              : "Ermite des temps modernes, flûtiste contemplative et murmureuse d'images, je vis au rythme des nuages, des chats et du silence."
-  location         : "Belgique"
+  bio              : "Ermite des temps modernes, flûtiste contemplative et murmureuse d'images, je vis au rythme des nuages et du ronronnement des chats."
+  location         : "Entre deux souffles"
   email            :
   links:
     - label: "Email"
