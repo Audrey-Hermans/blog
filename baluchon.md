@@ -21,7 +21,7 @@ Pour le composer, je vous propose trois questions magiques (pas besoin de baguet
 
 Prenez le temps d’y réfléchir. Et si vous souhaitez creuser la question, j’ai écrit un article de blog sur le sujet (lien à insérer ici avec une cape d’invisibilité optionnelle).
 
-1. Une histoire de shakuhachi (à vos souhaits)
+### Une histoire de shakuhachi (à vos souhaits)
 
 Tout le monde parle de l’importance du souffle. <br />
 Mais très peu de gens pensent à prendre une flûte pour vérifier comment ça marche en vrai.
@@ -33,12 +33,12 @@ Jouer du shakuhachi, c’est apprivoiser son souffle, pas celui qu’on imagine,
 
 Ça peut paraître grandiloquent… mais après tout, notre souffle vient de nos profondeurs, alors pourquoi ne livrerait-il pas quelques vérités au passage ?
 
-Moi, j’ai longtemps eu du mal à reconnaître ce que je ressentais — derrière ce que je devrais être, ou ce que je devrais faire.
+Moi, j’ai longtemps eu du mal à reconnaître ce que je ressentais — derrière ce que je _devrais être_, ou ce que je _devrais faire_.
 
 Le shakuhachi a changé ça. <br />
 Et j’ai même créé une chaîne YouTube pour en parler. C’est dire.
 
-2. Un jeu de cartes
+### Un jeu de cartes
 
 Alors voilà. <br />
 Ne m’envoyez pas au bûcher, mais ma méthode de lâcher-prise passe par… le Tarot de Marseille.
@@ -49,7 +49,7 @@ J’ai toujours un mini tarot dans la poche. C’est mon traducteur personnel qu
 
 Si vous avez parfois du mal à faire la différence entre ce que vous voulez absolument qu’il se passe, et ce qu’il est bon de faire par rapport à la situation actuelle, les images du tarot sont d’une aide précieuse. Elles laissent l’inconscient s’exprimer de vive-voix, comme des rêves qu’on lit à la lumière du jour.  
 
-3. Un crayon pour l’expression spontanée
+### Un crayon pour l’expression spontanée
 
 Un crayon, c’est un peu bête. Mais il m’a appris une chose essentielle :<br />
 _quand on aime faire quelque chose, il faut le faire pour soi._
@@ -57,9 +57,9 @@ _quand on aime faire quelque chose, il faut le faire pour soi._
 Pas pour que ce soit « bien ». Ni pour être validé. <br />
 Juste parce que ça met de la joie dans les tripes.
 
-Je salue au passage Max, Serge et Jérôme, qui m’ont chacun, à leur manière, appris à reconnaître la beauté de l’élan de vie qui s’exprime sans filtre.
+Je salue au passage [Max](https://leshumains.com/max/), [Serge](https://dessinspontane.be/en/) et [Jérôme](https://www.mesters.be), qui m’ont chacun, à leur manière, appris à reconnaître la beauté de l’élan de vie qui s’exprime sans filtre.
 
-4. Le silence au fond des poches
+### Le silence au fond des poches
 
 Si vous êtes comme moi, vos poches contiennent probablement une pierre, un coquillage, ou un bout d’écorce rescapé d’une promenade. <br />
 Peut-être même un livre, si vos poches sont du genre ambitieux.
