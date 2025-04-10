@@ -1,7 +1,8 @@
 ---
 layout: single
 title: "Baluchon"
-permalink: /baluchon/
+lang: fr
+permalink: /fr/baluchon/
 author_profile: true
 ---
 
@@ -74,4 +75,3 @@ Et surtout, à quel point leur absence me rendait vulnérable.
 
 Peut-être que vous en avez aussi, sans y avoir trop réfléchi.
 Au fait… vous êtes-vous déjà posé la question ?
-

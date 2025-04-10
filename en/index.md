@@ -1,7 +1,8 @@
 ---
-title: "The Art of Being - Welcome to my English speaking friends!"
-date: 2025-04-05
 layout: single
+title: "Index"
+lang: en
+permalink: /en/index/
 author_profile: true
 ---
 

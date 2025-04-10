@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "A propos"
-permalink: /about/
+lang: fr
+permalink: /fr/about/
 author_profile: true
 ---
+
 Pourquoi ce site?
 
 J’ai longtemps eu l’impression d’avoir raté la distribution du mode d’emploi de la vie. Vous savez, celui que tout le monde reçoit à la naissance.<br />

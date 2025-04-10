@@ -2,9 +2,10 @@
 layout: home
 author_profile: true
 title: "Bienvenue"
+lang: fr
 ---
 
-[Hop over to the English version](/blog/english-version)
+[Hop over to the English version](/en/index)
 
 L'Art d'être propose une exploration poético-pratique de l'existence - en zigzag, en silence et parfois en chaussettes.
 

@@ -1,7 +1,8 @@
 ---
 layout: single
 title: "Galerie"
-permalink: /galerie/
+lang: fr
+permalink: /fr/galerie/
 author_profile: true
 ---
 
