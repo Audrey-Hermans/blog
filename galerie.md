@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "About"
+title: "Galerie"
 permalink: /galerie/
 author_profile: true
 ---
