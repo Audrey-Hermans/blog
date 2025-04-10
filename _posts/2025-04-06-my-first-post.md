@@ -7,27 +7,23 @@ author_profile: true
 
 # Débusquer l’essentiel dans le chaos : mes outils pour y voir clair
 
-*Il y a tant de choses qu’on croit indispensables… jusqu’à ce qu’on apprenne à écouter ce qui nous nourrit vraiment. Voici les trois questions qui m’aident à faire le tri, et à choisir ce que j’emmène dans mon baluchon intérieur.*
+*Il y a tant de choses qu’on croit indispensables… jusqu’à ce qu’on apprenne à écouter ce qui nous nourrit vraiment. Voici les trois questions qui m’aident à faire le tri.*
 
 Cet article est le prolongement de la page [« Baluchon »](https://www.audreyhermans.be/baluchon/) du site.  
 Si tu ne l’as pas encore lue, je t’invite à y jeter un œil. Sinon, tu risques de me regarder avec des points d’interrogation dans les yeux d’ici quelques lignes…
 
-Quand je parle de « baluchon », je parle de ces choses précieuses, presque invisibles, qui m’accompagnent partout.  
+Quand je parle de « baluchon », je parle de ces choses qui m’accompagnent partout.  
 Ce ne sont ni des objets magiques, ni des routines parfaites, mais plutôt des boussoles intérieures.  
 
 Dans la tempête, elles m’aident à tenir le cap.  
 Quand il pleut sur mes pensées, elles me gardent les pieds au sec et le cœur au chaud.  
-Et quand tout va bien, elles ajoutent ce petit éclat de couleur qui donne au quotidien un goût de cerise sur le gâteau.
+Et quand tout va bien, elles ajoutent ce petit pétillement qui donne encore plus d'éclat au quotidien.
 
-Ces compagnons essentiels sont rares.  
-Ils se cachent souvent sous le bazar des injonctions et des habitudes.  
-Il m’a fallu longtemps pour apprendre à les reconnaître.
+Ces compagnons essentiels se cachent souvent sous le bazar des injonctions et des habitudes.  
+D'ailleurs, il m’a fallu longtemps pour apprendre à les reconnaître.
 
-Longtemps, j’ai cru que me débattre dans les courants suffisait.  
-Mais à force de m’agripper aux ailerons des requins en pensant trouver des bouées, j’ai compris que j’avais besoin d’un autre genre d’outils.
-
-Alors j’ai fini par poser trois questions.  
-Trois petites questions magiques, comme des filtres à lucidité.
+A force de me tromper, j’ai fini par me poser trois questions pour y voir plus clair.  
+On pourrait dire que ce sont mes filtres de lucidité.
 
 ---
 
