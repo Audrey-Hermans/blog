@@ -6,6 +6,7 @@ main:
   - title: "Galerie"
     url: /fr/galerie/
   - title: "English"
+    url: "#"
     children:
       - title: "Index"
         url: /en/index/
