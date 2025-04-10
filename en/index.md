@@ -4,7 +4,6 @@ title: "Index"
 lang: en
 permalink: /en/index/
 author_profile: true
-has_children: true
 ---
 
 *As the site isn’t bilingual, I’ve tucked the English version of the welcome page here — a little pocket of Shakespeare’s language for curious travelers. 

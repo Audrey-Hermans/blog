@@ -5,8 +5,5 @@ main:
     url: /fr/baluchon/
   - title: "Galerie"
     url: /fr/galerie/
-  - title: "English"
+  - title: "🇬🇧 English"
     url: /en/index/
-    children:
-      - title: "About"
-        url: /fr/about/
