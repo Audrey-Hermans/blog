@@ -7,7 +7,7 @@ author_profile: true
 
 *Il y a tant de choses qu’on croit indispensables… jusqu’à ce qu’on apprenne à écouter ce qui nous nourrit vraiment. Voici les trois questions qui m’aident à faire le tri.*
 
-Cet article est le prolongement de la page [« Baluchon »](https://www.audreyhermans.be/baluchon/) du site.  
+Cet article est le prolongement de la page [« Baluchon »](/baluchon/) du site.  
 Si tu ne l’as pas encore lue, je t’invite à y jeter un œil. Sinon, tu risques de me regarder avec des points d’interrogation dans les yeux d’ici quelques lignes…
 
 Quand je parle de « baluchon », je parle de ces choses qui m’accompagnent partout.  
@@ -18,22 +18,22 @@ Quand il pleut sur mes pensées, elles me gardent les pieds au sec et le cœur a
 Et quand tout va bien, elles ajoutent ce petit pétillement qui donne encore plus d'éclat au quotidien.
 
 Ces compagnons essentiels se cachent souvent sous le bazar des injonctions et des habitudes.  
-D'ailleurs, il m’a fallu longtemps pour apprendre à les reconnaître.
+Il m’a d'ailleurs fallu longtemps pour apprendre à les reconnaître.
 
-A force de me tromper, j’ai fini par me poser trois questions pour y voir plus clair.  
+Du coup, j'ai pris l'habitude de me poser trois questions avant d'adopter un nouveau hobby.  
 On pourrait dire que ce sont mes filtres de lucidité.
 
 ---
 
 ## 1. Est-ce que ça me nourrit, ou est-ce que ça me draine ?
 
-Celle-là, c’est ma préférée… et aussi ma plus redoutée.  
+Cette question-là, c’est ma préférée… et aussi ma plus redoutée.  
 Souvent, si je dois me la poser, c’est que je connais déjà la réponse.  
 Il y a cette petite voix — discrète mais honnête — qui sait.
 
-Elle me souffle que courir ce marathon avec une cheville en vrac, c’est peut-être pas une brillante idée.  
+Elle me souffle que faire du skate-board avec une cheville en vrac, c’est peut-être pas une brillante idée.  
 Elle me rappelle que « donner le meilleur de soi » ne veut pas dire « se presser comme un citron ».  
-Parfois, le meilleur, c’est juste… s’arrêter. Respirer. Laisser l’orage passer.
+Parfois, le mieux, c’est juste… s’arrêter. Respirer. Laisser l’orage passer.
 
 ---
 
