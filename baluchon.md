@@ -4,6 +4,7 @@ title: "Baluchon"
 permalink: /baluchon/
 author_profile: true
 ---
+
 ## Comment composer son baluchon de navigation existentielle 
 ### (à l’attention des âmes sensibles et autres navigateurs de l’entropie quotidienne)
 
