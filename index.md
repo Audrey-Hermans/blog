@@ -6,6 +6,8 @@ title: "Bienvenue"
 
 L'Art d'être propose une exploration poético-pratique de l'existence - en zigzag, en silence et parfois en chaussettes.
 
+Ce site s'adresse à celles et ceux qui perçoivent le monde autrement, qui ressentent fort, qui pensent de biais, qui trébuchent sur les normes comme sur des tapis mal fixés. Celles et ceux qui n’ont jamais compris ce que « vivre normalement » signifie, mais qui continuent, vaillamment, à chercher une manière de danser la vie au lieu de la penser.
+
 Dans ce carnet de voyage, vous trouverez quatre pages, ou quatre sentiers pour randonner léger, sans perdre le nord. <br />
 Voici l'ordre dans lequel je vous invite à les découvrir : 
 
