@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Index"
+title: "The Art of Being - Welcome to my English speaking friends!"
 lang: en
 permalink: /en/index/
 author_profile: true
