@@ -17,7 +17,8 @@ For those who’ve never quite understood what “living normally” is supposed
 yet still, bravely, keep trying to dance their way through life, rather than just think it through.
 
 <p align="center"><strong><em>My name's Audrey.<br>Modern-day hermit, contemplative flutist, and image whisperer<br>
-I dwell in the hush between drifting clouds and the hum of purring cats.</strong></em></p>
+I dwell in the hush between drifting clouds and the hum of purring cats.</strong></em></p><br>
+
 
 ## This little travel journal contains four pages.  
 Here’s the order I suggest, to help you find your way:
