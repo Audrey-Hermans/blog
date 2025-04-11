@@ -12,7 +12,7 @@ Follow the links in the text to wander through the rest of the translations.*
 Welcome!
 
 This site is for those who see the world differently.  
-For those who feel deeply, think sideways, and trip over norms like loose rugs.  
+For those who feel deeply, think sideways, and trip over norms like they would over loose rugs.  
 For those who’ve never quite understood what “living normally” is supposed to mean —  
 yet still, bravely, keep trying to dance their way through life, rather than just think it through.
 
@@ -29,8 +29,7 @@ Before setting off on any adventure, it’s wise to check your compass.
 Here, I share the “why” behind the journey.
 
 ### • [Bundle](/en/bundle)
-What I carry in my backpack as an explorer of the present moment —  
-my anchors, to keep from being swept away in life’s whirlwind.
+What I carry in my backpack as an explorer of the present moment : my anchors, to keep from being swept away in life’s whirlwind.
 
 ### • [Blog](/blog)
 This is my logbook.  
