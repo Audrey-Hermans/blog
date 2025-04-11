@@ -25,8 +25,6 @@ Il m’a d'ailleurs fallu longtemps pour apprendre à les reconnaître.
 Du coup, j'ai pris l'habitude de me poser trois questions avant d'adopter un nouveau hobby.  
 On pourrait dire que ce sont mes filtres de lucidité.
 
----
-
 ## 1. Est-ce que ça me nourrit, ou est-ce que ça me draine ?
 
 Cette question-là, c’est ma préférée… et aussi ma plus redoutée.  
@@ -36,8 +34,6 @@ Il y a cette petite voix — discrète mais honnête — qui sait.
 Elle me souffle que faire du skate-board avec une cheville en vrac, c’est peut-être pas une brillante idée.  
 Elle me rappelle que « donner le meilleur de soi » ne veut pas dire « se presser comme un citron ».  
 Parfois, le mieux, c’est juste… s’arrêter. Respirer. Laisser l’orage passer.
-
----
 
 ## 2. Est-ce que je peux m’en passer plus d’une semaine ?
 
@@ -51,8 +47,6 @@ Mais après une pause — une semaine, un mois, six — j’ai découvert que je
 
 Et quand l’envie est revenue, c’était pour faire des petits croquis au bic dans les marges de mon carnet.  
 Léger. Vrai. Pour moi.
-
----
 
 ## 3. Est-ce que ça me donne un sentiment de complétude ?
 
