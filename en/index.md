@@ -24,11 +24,11 @@ I dwell in the hush between drifting clouds and the hum of purring cats.</em></p
 ## This little travel journal contains four pages.  
 Here’s the order I suggest, to help you find your way:
 
-### • [About](/about)
+### • [About](/en/about)
 Before setting off on any adventure, it’s wise to check your compass.  
 Here, I share the “why” behind the journey.
 
-### • [Bundle](/baluchon)
+### • [Bundle](/en/bundle)
 What I carry in my backpack as an explorer of the present moment —  
 my anchors, to keep from being swept away in life’s whirlwind.
 
@@ -37,7 +37,7 @@ This is my logbook.
 I jot down the bumps and potholes, the forks in the road,  
 the unexpected clearings — and the fog of existence.
 
-### • [Gallery](/galerie)
+### • [Gallery](/fr/galerie)
 You know those strange little objects you sometimes find in attics — or dreams?  
 This is where they speak.  
 Welcome to my cabinet of curiosities, where every piece whispers its own story —  
