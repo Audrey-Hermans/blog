@@ -2,7 +2,7 @@
 layout: single
 title: "Why this site?"
 lang: en
-permalink: /en/index/
+permalink: /en/about/
 author_profile: true
 ---
 
