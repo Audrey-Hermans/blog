@@ -3,6 +3,8 @@ title: "Débusquer l'essentiel dans le chaos : mes outils pour y voir clair"
 date: 2025-04-06
 layout: single
 author_profile: true
+header:
+  image: /assets/images/baluchon-blog-2025-04-06.webp
 ---
 
 *Il y a tant de choses qu’on croit indispensables… jusqu’à ce qu’on apprenne à écouter ce qui nous nourrit vraiment. Voici les trois questions qui m’aident à faire le tri.*
