@@ -38,7 +38,7 @@ Jouer du shakuhachi, c’est apprivoiser son souffle, pas celui qu’on imagine,
 Moi, j’ai longtemps eu du mal à reconnaître ce que je ressentais — derrière ce que je _devrais être_, ou ce que je _devrais faire_.
 
 Le shakuhachi a changé ça. <br />
-Et j’ai même créé une chaîne YouTube pour en parler. C’est dire.
+Et j’ai même créé une [chaîne YouTube](https://www.youtube.com/@ShakuhachiDiaries-v4d) pour en parler. C’est dire.
 
 ### Un jeu de cartes
 
