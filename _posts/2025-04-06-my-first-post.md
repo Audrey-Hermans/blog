@@ -7,6 +7,8 @@ author_profile: true
 
 *Il y a tant de choses qu’on croit indispensables… jusqu’à ce qu’on apprenne à écouter ce qui nous nourrit vraiment. Voici les trois questions qui m’aident à faire le tri.*
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/baluchon-blog-2025-04-06.webp){: .align-center}
+
 Cet article est le prolongement de la page [« Baluchon »](/baluchon/) du site.  
 Si tu ne l’as pas encore lue, je t’invite à y jeter un œil. Sinon, tu risques de me regarder avec des points d’interrogation dans les yeux d’ici quelques lignes…
 
