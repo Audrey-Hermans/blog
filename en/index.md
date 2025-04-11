@@ -9,12 +9,15 @@ author_profile: true
 *As the site isn’t bilingual, I’ve tucked the English version of the welcome page here — a little pocket of Shakespeare’s language for curious travelers. 
 Follow the links in the text to wander through the rest of the translations.*
 
-_The Art of Being offers a poetic and practical exploration of existence — in zigzags, in silence, and sometimes, in socks._
+Welcome!
 
 This site is for those who see the world differently.  
 For those who feel deeply, think sideways, and trip over norms like loose rugs.  
 For those who’ve never quite understood what “living normally” is supposed to mean —  
 yet still, bravely, keep trying to dance their way through life, rather than just think it through.
+
+<p align="center"><strong>My name's Audrey. Modern-day hermit, contemplative flutist, and image whisperer</strong><br>
+<em>I dwell in the hush between drifting clouds and the hum of purring cats.</em></p>
 
 ## This little travel journal contains four pages.  
 Here’s the order I suggest, to help you find your way:
