@@ -21,7 +21,7 @@ Pour le composer, je vous propose trois questions magiques (pas besoin de baguet
 - Est-ce que je peux m’en passer pendant plus d’une semaine ?
 - Est-ce que ça me donne un sentiment de complétude (ou au moins d’avoir trouvé deux chaussettes assorties un lundi matin) ?
 
-Prenez le temps d’y réfléchir. Et si vous souhaitez creuser la question, j’ai écrit un article de blog sur le sujet (lien à insérer ici avec une cape d’invisibilité optionnelle).
+Prenez le temps d’y réfléchir. Et si vous souhaitez creuser la question, j’ai écrit un [article de blog sur le sujet] (/débusquer-essentiel-chaos/).
 
 ### Une histoire de shakuhachi (à vos souhaits)
 
