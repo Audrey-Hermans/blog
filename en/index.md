@@ -16,8 +16,8 @@ For those who feel deeply, think sideways, and trip over norms like loose rugs.
 For those who’ve never quite understood what “living normally” is supposed to mean —  
 yet still, bravely, keep trying to dance their way through life, rather than just think it through.
 
-<p align="center"><strong>My name's Audrey. Modern-day hermit, contemplative flutist, and image whisperer</strong><br>
-<em>I dwell in the hush between drifting clouds and the hum of purring cats.</em></p>
+<p align="center"><strong><em>My name's Audrey.<br>Modern-day hermit, contemplative flutist, and image whisperer<br>
+I dwell in the hush between drifting clouds and the hum of purring cats.</strong></em></p>
 
 ## This little travel journal contains four pages.  
 Here’s the order I suggest, to help you find your way:
