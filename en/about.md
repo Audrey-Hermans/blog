@@ -17,7 +17,7 @@ I live in a world that feels too loud, too bright, too complex… _too much_.
 And I pretend to understand it — just enough to keep up appearances.  
 The result? Emotional drowning in murky waters, with a bonus dose of mental overload.
 
-Eventually, after gulping down enough metaphorical seawater, I had a revelation.  
+Eventually, after gulping down enough metaphorical water, I had a revelation.  
 No divine lightning bolt. No harp music in the background.  
 Just a fleeting, lifesaving brainwave whispering:  
 > “Too much. The problem is there’s just too much. You’re overflowing.”
@@ -31,10 +31,10 @@ It’s a winding path, full of stumbles and steep climbs.
 Truth be told, I often get dizzy —  
 but I swear, the journey is worth it. The views are breathtaking.
 
-These are glimpses of that path I want to share — little postcards from the trail.  
+This website gathers glimpses from that path, that I'd like to share with you — little postcards from the trail.  
 No promises of enlightenment or miracle cures (I’ll leave those to the self-declared gurus).  
-I’m more like the sweeper van at the back of the pack,  
-offering a bottle of water and an ice cream cone to the ones out of breath, feeling lost on the roadside.
+I guess you could see me as the broom wagon at the back of the pack,  
+offering a bottle of water and an ice cream cone to fellow travelers catching their breath on the side of the road.
 
 We move together, at our own pace, while the others race ahead.  
 We cheer each other on — because deep down, we’re all walking in the same direction.
