@@ -3,6 +3,8 @@ layout: home
 author_profile: true
 title: "Bienvenue"
 lang: fr
+header:
+  image: /assets/images/header.webp
 ---
 
 [Hop over to the English version](/en/index)
