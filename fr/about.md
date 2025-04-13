@@ -4,6 +4,8 @@ title: "A propos"
 lang: fr
 permalink: /fr/about/
 author_profile: true
+header:
+  image: /assets/images/header.webp
 ---
 
 Pourquoi ce site?
