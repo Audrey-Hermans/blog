@@ -55,7 +55,7 @@ It whispers things like, *“You’re feeling anger, not guilt, you know.”*
 And I go,*“Ah, I see. Thanks.”*
 
 If you sometimes struggle to tell the difference between what you think you want and what you actually need given the circumstances, the tarot can be incredibly helpful to attune yourself to daily situations without losing your mind.  
-It allows the unconscious speak out loud in its favourite language : images.
+It allows the unconscious to speak out loud in its favourite language : images.
 
 ## A Pencil for Spontaneous Expression
 
