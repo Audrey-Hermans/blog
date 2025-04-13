@@ -46,3 +46,5 @@ Here’s what’s in my bundle:
 - a card deck, to read myself in the moment  
 - a pencil, always ready to shape whatever inspiration shows up
 
+[Meet me on the bundle page](/en/bundle/) — I’ll show you how I pack my bag to travel light, without leaving behind what truly matters.
+
