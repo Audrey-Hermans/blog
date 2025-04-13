@@ -4,6 +4,8 @@ title: "Why this site?"
 lang: en
 permalink: /en/about/
 author_profile: true
+header:
+  image: /assets/images/header.webp
 ---
 
 For the longest time, I felt like I’d missed the distribution of life’s instruction manual.  
