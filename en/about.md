@@ -8,13 +8,13 @@ header:
   image: /assets/images/header.webp
 ---
 
-For the longest time, I felt like I’d missed the distribution of life’s instruction manual.  
+For the longest time, I felt like I was missing life’s instruction manual.  
 You know, the one everyone’s supposedly handed at birth.  
-People around me seemed to move forward with steady steps, like they knew the rules of the game.  
-**Me?** I was always at the back of the line, digging through my pockets for a key that didn’t exist — but that everyone else seemed to have.
+People around me seem to move forward with steady steps, like they know the rules of the game.  
+**Me?** I'm always at the back of the line, digging through my pockets for a key that doesn’t exist — but that everyone else appears to have.
 
 I live in a world that feels too loud, too bright, too complex… _too much_.  
-And I pretended to understand it — just enough to keep up appearances.  
+And I pretend to understand it — just enough to keep up appearances.  
 The result? Emotional drowning in murky waters, with a bonus dose of mental overload.
 
 Eventually, after gulping down enough metaphorical seawater, I had a revelation.  
