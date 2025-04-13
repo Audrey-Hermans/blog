@@ -61,35 +61,33 @@ It allows the unconscious speak out loud in its favourite language : images.
 
 A pencil might seem like a silly thing.  
 But it taught me something vital:  
-when you love doing something, do it for yourself.
+*when you love doing something, do it for yourself.*
 
-- Not for it to be “good.”  
+- Not for it to to be "well done".  
 - Not for validation.  
-- Just because it puts joy in your belly.
+- Just because it brings joy to your heart.
 
-A shout-out here to **Max, Serge, and Jérôme**,  
-who each— in their own way—taught me to recognise the beauty of raw, unfiltered aliveness.
+A shout-out here to Max, Serge, and Jérôme, who each— in their own way—taught me to recognise the beauty of raw, unfiltered aliveness.
 
 ## Silence at the Bottom of Your Pockets
 
-If you’re anything like me, your pockets probably hold a stone, a shell, or a bit of bark rescued from a walk.  
+If you’re anything like me, your pockets probably hold a stone, a shell, or a bit of bark brought back from a walk.  
 Maybe even a book, if your pockets are particularly ambitious.
 
 These objects have a quiet but powerful gift: **they bring us back to ourselves through touch**.
 
 Over time, my bundle has become a kind of **anchoring toolkit**.  
-Those who know me know I never leave home without my survival kit:
+Nowadays, I never leave home without my survival kit:
 
 - noise-cancelling headphones  
 - tinted glasses  
 - a scarf  
-- and a beanie
+- and a beanie or hat
 
 Gear to soften sensory overload and create a little cocoon, even in the middle of chaos.
 
-At first, it was a half-conscious defence mechanism.  
-But one day, I realised how much these objects helped me…  
-and just how vulnerable I felt without them.
+At first, it was a semi-conscious defence mechanism.  
+But one day, I realised how much these objects helped me, and just how vulnerable I felt without them.
 
 Maybe you’ve got some of your own, without even thinking about it.  
 Come to think of it… **have you ever asked yourself?**
