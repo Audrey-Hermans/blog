@@ -49,7 +49,7 @@ Oui, je sais. Non, je ne prédis pas l’avenir. Je lis le présent, et croyez-m
 
 J’ai toujours un mini tarot dans la poche. C’est mon traducteur personnel quand je suis paumée dans le brouhaha du quotidien. Il me murmure à l’oreille des trucs comme : _« Tu ressens de la colère, pas de la culpabilité, hein. »_ Et moi je réponds : _« Ah, tiens, merci. »_
 
-Si vous avez parfois du mal à faire la différence entre ce que vous voulez et ce dont vous avez besoin, le tarot est d'une aide précieuse. Il offre à l'inconscient une voie royale pour s'exprimer librement à travers son langage préféré : l'image.
+Si vous avez parfois du mal à faire la différence entre ce que vous pensez vouloir et ce dont vous avez réellement besoin, le tarot est d'une aide précieuse. Il offre à l'inconscient une voie royale pour s'exprimer librement à travers son langage préféré : l'image.
 
 ### Un crayon pour l’expression spontanée
 
