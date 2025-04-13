@@ -11,7 +11,7 @@ header:
 For the longest time, I felt like I was missing life’s instruction manual.  
 You know, the one everyone’s supposedly handed at birth.  
 People around me seem to move forward with steady steps, like they know the rules of the game.  
-**Me?** I'm always at the back of the line, digging through my pockets for a key that doesn’t exist — but that everyone else appears to have.
+Me? I'm always at the back of the line, digging through my pockets for a key that doesn’t exist — but that everyone else appears to have.
 
 I live in a world that feels too loud, too bright, too complex… _too much_.  
 And I pretend to understand it — just enough to keep up appearances.  
@@ -28,8 +28,7 @@ And that’s when everything began to shift.
 Not overnight, of course. But slowly. Surely.
 
 It’s a winding path, full of stumbles and steep climbs.  
-Truth be told, I often get dizzy —  
-but I swear, the journey is worth it. The views are breathtaking.
+Truth be told, I often get dizzy, but I swear that the journey is worth it. The views are breathtaking.
 
 This website gathers glimpses from that path, that I'd like to share with you — little postcards from the trail.  
 No promises of enlightenment or miracle cures (I’ll leave those to the self-declared gurus).  
@@ -39,11 +38,9 @@ offering a bottle of water and an ice cream cone to fellow travelers catching th
 We move together, at our own pace, while the others race ahead.  
 We cheer each other on — because deep down, we’re all walking in the same direction.
 
----
+## Before we set off, let's gather what we need!
 
-## But before we go any further, may I suggest you pack your bundle?
-
-Here’s what’s in mine:
+Here’s what’s in my bundle:
 
 - my flute, to listen to my breath  
 - a card deck, to read myself in the moment  
