@@ -13,8 +13,7 @@ Welcome!
 
 This site is for those who see the world differently.  
 For those who feel deeply, think sideways, and trip over norms like they would over loose rugs.  
-For those who’ve never quite understood what “living normally” is supposed to mean —  
-yet still, bravely, keep trying to dance their way through life, rather than just think it through.
+For those who’ve never quite understood what “living normally” is supposed to mean - yet still, bravely, they keep on trying to dance their way through life, rather than just think it through.
 
 <p align="center"><em>My name's Audrey.<br>
   Modern-day hermit, contemplative flutist, and image whisperer<br>
