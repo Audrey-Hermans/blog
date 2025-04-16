@@ -18,7 +18,8 @@ Résultat : noyade émotionnelle en eaux troubles. Avec bonus de surcharge menta
 A force de boire la tasse, j’ai fini par avoir une révélation.
 
 Pas d’éclair mystique avec une harpe en fond sonore.<br />
-Plutôt une onde cérébrale furtive et salvatrice qui m’a susurré : “Trop, le problème c’est qu’il y a trop, tu débordes.”
+Plutôt une onde cérébrale furtive et salvatrice qui m’a susurré :<br />
+> “Trop, le problème c’est qu’il y a trop, tu débordes.”
 
 Parfois, il faut juste arrêter d’empiler.<br />
 Pas seulement autour de soi. En réalité, c’est surtout à l’intérieur que le grand nettoyage est nécessaire.
