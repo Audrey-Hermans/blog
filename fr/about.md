@@ -36,3 +36,6 @@ Dans le mien, il y a :
 - ma flûte, pour écouter son souffle,
 - quelques cartes, pour se lire et se comprendre dans l’instant,
 - un crayon, toujours prêt à donner forme à l'inspiration du moment.
+
+[Rendez-vous sur la page intilée Baluchon](/fr/baluchon/) — J'y partage le contenu de mon sac de voyage, et comment je m'y prends pour savoir quoi emporter.
+
