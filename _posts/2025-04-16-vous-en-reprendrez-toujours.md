@@ -9,7 +9,7 @@ _On me demande souvent si je ne joue pas un peu trop._
 _Comme si ce n’était qu’une manie charmante, un passe-temps un tantinet envahissant._  
 **Voici ma réponse, posée sur un plateau d’argent et parfumée au bambou.**
 
----
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/buttler-blog-2025-04-16.webp){: .align-center}
 
 Il y a des choses qu’on ne choisit pas vraiment.  
 Elles nous frôlent doucement, l’air de rien, et puis un jour, sans avoir rien demandé, on réalise qu’elles sont devenues indispensables.
