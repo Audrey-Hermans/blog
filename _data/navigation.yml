@@ -3,6 +3,8 @@ main:
     url: /fr/about/
   - title: "Baluchon"
     url: /fr/baluchon/
+  - title: "Blog"
+    url: /blog
   - title: "Galerie"
     url: /fr/galerie/
   - title: "🌐 English"
