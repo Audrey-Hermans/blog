@@ -36,9 +36,10 @@ Quand on est né avec des capteurs très ouverts, et que le monde à plein volum
 Le shakuhachi m’aide à apprivoiser l’univers sonore dans lequel je vis.  
 Il me permet d’accueillir les sons comme des invités imprévisibles : on les a conviés, certes, mais rien ne garantit qu’ils arriveront en costume ni qu’ils auront de bonnes manières.
 
-Alors, pour que ça fonctionne, il faut se rendre disponible. Lâcher le contrôle. Accepter d’être traversé.  
-Autrement dit : se faire élève d’un art étrange et tenace — celui du lâcher-prise.  
-Bref, c’est comme une leçon de zen très condensée !
+Alors, pour que ça fonctionne, il faut se rendre disponible. Lâcher le contrôle. Accepter d’être traversé par ce qui est là, dans l'instant.  
+Autrement dit : se faire élève d’un art ancestral et presqu'insaisissable - celui du lâcher-prise.  
+
+Bref, le shakuhachi, c’est comme une leçon de zen très condensée !
 
 ## Le souffle et le chat
 
