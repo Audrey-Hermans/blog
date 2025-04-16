@@ -55,7 +55,7 @@ S’il refuse de produire un son, inutile de lutter : plus on insiste, plus il s
 _(C’est une image, oui. Mais si tu ne vois pas de quoi je parle, fais un tour à la mer du Nord. L’expérience est assez éloquente.)_
 
 Le shakuhachi est un peu comme un chat.  
-Si tu lui demandes de rapporter une balle, il va te regarder sans ciller, se détourner, et retourner contempler une araignée sur le mur — avec ce mélange d’indifférence et de supériorité naturelle dont il a le secret.
+Si tu lui demandes de rapporter une balle, il va te regarder d'un air surpris, puis te tourner le dos pour contempler une araignée sur le mur, avec ce mélange d’indifférence et de supériorité naturelle dont il a le secret.
 
 Il est libre. Il fait ce qu’il veut.  
 Et moi, au milieu de tout ça, j’apprends à faire pareil.  
