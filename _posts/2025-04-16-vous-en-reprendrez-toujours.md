@@ -48,7 +48,7 @@ Et parfois, ce souffle devient vrai. Pas au sens académique du terme — plutô
 Ou comme un nuage, qui glisse sans effort dans le ciel, toujours exactement là où il doit être.
 
 L’astuce, c’est de s’imprégner de cette idée : peu importe où nous sommes, c’est forcément le bon endroit, au bon moment.  
-Si cette notion t’intrigue, je te recommande *The Power of Now*, d’Eckhart Tolle. Il en parle bien mieux que moi — et avec moins de métaphores florales, promis.
+Si cette notion t’intrigue, je te recommande *Le pouvoir du moment présent*, d’Eckhart Tolle. Il en parle bien mieux que moi — et avec moins de métaphores florales, promis.
 
 Une autre grande leçon que le shakuhachi m’enseigne, jour après jour, c’est qu’on ne le force pas.  
 S’il refuse de produire un son, inutile de lutter : plus on insiste, plus il se tait… ou alors, il se rebelle. Et dans ce cas, il crie comme une mouette en rut.  
@@ -70,11 +70,10 @@ Affolant, non ?
 
 ## Une forme de soin
 
-Ce que certains appellent un « hobby » — ou, parfois, une « obsession » —  
-pour moi, c’est autre chose.  
+Ce que certains appellent un « hobby » ou parfois une « obsession », pour moi c’est autre chose.  
 Ce n’est pas une distraction, ni un passe-temps pour occuper les mains quand l’esprit tourne en rond.  
 C’est un ancrage.  
-Un point fixe dans le mouvement.
+Un point d'équilibre dans le mouvement.
 
 Jouer me fait du bien.  
 Ça m’apaise.  
