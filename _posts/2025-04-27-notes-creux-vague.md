@@ -5,10 +5,10 @@ layout: single
 author_profile: true
 ---
 
-As-tu déjà senti ton refuge se transformer en piège, sans prévenir ?  
-C’est ce qui m’est arrivé avec le shakuhachi.
+*As-tu déjà senti ton refuge se transformer en piège, sans prévenir ?  
+C’est ce qui m’est arrivé avec le shakuhachi.*
 
-Je viens de traverser un de ces épisodes de doute avec mon apprentissage de cette flûte japonaise.  
+Je viens de traverser un de ces épisodes de doute.  
 Et en y regardant de plus près, maintenant que la tempête est passée, c’est devenu évident : ce n’était pas seulement une leçon de musique, c’était aussi une leçon de vie.
 
 Tandis que j’écris ces lignes, je savoure l’accalmie, en sachant très bien que tout ça me rattrapera à nouveau, tôt ou tard.  
