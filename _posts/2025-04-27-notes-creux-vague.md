@@ -29,7 +29,7 @@ Tout à coup, je suis tombée de mon petit nuage rose. Une évidence s’est imp
 **« Maintenant, c’est fini la rigolade. »**
 
 Amis du perfectionnisme exacerbé, bonjour !  
-Je me suis mise à penser que je devais montrer une progression permanente, prouver que je travaillais dur, commencer à choisir les morceaux de mon premier récital — oui, parce qu’il y a un récital pour obtenir l’Okuden, et moi, les gens, tu sais bien…
+Je me suis mise à penser que je devais montrer une progression permanente, prouver que je travaillais dur, commencer à choisir les morceaux de mon premier récital — *oui, parce qu’il y a un récital pour obtenir l’Okuden, et moi, les gens, tu sais bien…*
 
 Bref : panique à bord.  
 Je me suis lancée à corps perdu dans une guerre… qui n’avait plus rien à voir avec ce que j’étais venue chercher dans la musique.
