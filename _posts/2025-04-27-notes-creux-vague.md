@@ -15,7 +15,7 @@ Tandis que j’écris ces lignes, je savoure l’accalmie, en sachant très bien
 Alors semons ensemble quelques petits cailloux — à la manière d’Hansel et Gretel — pour retrouver notre chemin quand le vent se lèvera à nouveau.
 
 Si tu préfères m’écouter raconter tout ça, posée sur mon fidèle tatami, emmitouflée dans ma couverture avec un rhume en prime…  
-➡️ [Regarde la vidéo ici](https://youtube.com/HJIHWdeWp7Q?si=97bqxBz7Q6-x3CLX).
+➡️ [Regarde la vidéo ici](https://youtu.be/HJIHWdeWp7Q?si=zSVPNYsVp9TxK-O2).
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/notesaucreuxdelavague-2025-04-27.webp){: .align-center}
 
@@ -24,12 +24,12 @@ Si tu préfères m’écouter raconter tout ça, posée sur mon fidèle tatami, 
 Tout avait pourtant bien commencé.  
 J’avais un super rythme de croisière. Avec mon « Chuden » (niveau intermédiaire) en poche, me voilà propulsée dans l’étude avancée, le niveau “Okuden”, avec des étoiles plein les yeux.
 
-Enfin… jusqu’à ce que les étoiles se prennent les pieds dans le tapis (le fameux tapis de la vie, vous vous souvenez ?).  
+Enfin… jusqu’à ce que les étoiles se prennent les pieds dans le tapis (le fameux tapis de la vie, tu te souviens ?).  
 Tout à coup, je suis tombée de mon petit nuage rose. Une évidence s’est imprimée dans mon esprit confus :  
 **« Maintenant, c’est fini la rigolade. »**
 
 Amis du perfectionnisme exacerbé, bonjour !  
-Je me suis mise à penser que je devais montrer une progression permanente, prouver que je travaillais dur, commencer à choisir les morceaux de mon premier récital — oui, parce qu’il y a un récital pour obtenir l’Okuden, et moi, les gens, vous savez bien…
+Je me suis mise à penser que je devais montrer une progression permanente, prouver que je travaillais dur, commencer à choisir les morceaux de mon premier récital — oui, parce qu’il y a un récital pour obtenir l’Okuden, et moi, les gens, tu sais bien…
 
 Bref : panique à bord.  
 Je me suis lancée à corps perdu dans une guerre… qui n’avait plus rien à voir avec ce que j’étais venue chercher dans la musique.
@@ -81,7 +81,7 @@ Il sait où l’on va, alors que moi, je n’en ai pas la moindre idée (même s
 À partir de ce moment, j’ai décidé :
 
 - de lâcher la pression,  
-- d’accepter d’avancer même si je ne me sens pas prête,  
+- d’avancer même si je ne me sens pas prête,  
 - de faire confiance.
 
 Si mon professeur estime que je peux passer à l’étape suivante, alors… je passe.  
@@ -101,7 +101,7 @@ Avant de chercher à « faire joli », il faut d’abord apprivoiser son instrum
 Dans la culture japonaise, on accorde une grande valeur au respect des étapes :  
 être présent au cours, persévérer, apprendre avec patience — tout cela fait partie de la musique.
 
-Les morceaux ne sont que des prétextes pour travailler la **forme**, un terme qui reprend à la fois la technique et les habitudes qui accompagnes l'acte musical.  
+Les morceaux ne sont que des prétextes pour travailler la **forme**, un terme qui reprend à la fois la technique et les habitudes qui accompagnent l'acte musical.  
 Le **contenu**, dont la maîtrise fait partie, viendra naturellement plus tard, quand il sera temps d’entrer pleinement dans la musicalité.
 
 *(Et si toi aussi tu avances sur un chemin d’apprentissage, peut-être que cette approche t'apportera un peu plus de légèreté…)*
