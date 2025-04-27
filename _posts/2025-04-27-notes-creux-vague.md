@@ -49,8 +49,7 @@ Jamais voulu impressionner une salle comble (ni même une salle vide, honnêteme
 Je voulais simplement accueillir le son, tel qu’il est.  
 Je voulais que la musique soit un espace pour respirer, pas une course contre moi-même.
 
-*(Peut-être que toi aussi, tu as connu ce moment où ce que tu aimais devient tout à coup une obligation…)*
-
+Peut-être que toi aussi, tu as connu ce moment où ce que tu aimais devient tout à coup une obligation…c'est pas marrant.
 
 ## Le miroir de l’école
 
