@@ -3,6 +3,8 @@ title: "Vous en reprendrez bien un peu? Moi, toujours!"
 date: 2025-04-16
 layout: single
 author_profile: true
+lang: fr
+tags: ["français"]
 ---
 
 _On me demande souvent si je ne joue pas un peu trop._  

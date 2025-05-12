@@ -30,7 +30,7 @@ Here, I share the “why” behind the journey.
 ### • [Bundle](/en/bundle)
 What I carry in my backpack as an explorer of the present moment : my anchors, to keep from being swept away in life’s whirlwind.
 
-### • [Blog](/blog)
+### • [Blog](/tags/#english)
 This is my logbook.  
 I jot down the bumps and potholes, the forks in the road,  
 the unexpected clearings — and the fog of existence.

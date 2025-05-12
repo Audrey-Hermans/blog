@@ -3,6 +3,8 @@ title: "Notes au creux de la vague"
 date: 2025-04-27
 layout: single
 author_profile: true
+lang: fr
+tags: ["français"]
 ---
 
 *As-tu déjà senti ton refuge se transformer en piège, sans prévenir ?  
