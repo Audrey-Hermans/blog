@@ -2,7 +2,7 @@
 layout: single
 title: "Why this site?"
 lang: en
-permalink: /en/about/
+permalink: about/
 author_profile: true
 header:
   image: /assets/images/header.webp
@@ -47,4 +47,3 @@ Here’s what’s in my bundle:
 - a pencil, always ready to shape whatever inspiration shows up
 
 [Meet me on the bundle page](/en/bundle/) — I’ll show you how I pack my bag to travel light, without leaving behind what truly matters.
-

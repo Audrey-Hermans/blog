@@ -166,8 +166,6 @@ include:
   - .htaccess
   - _pages
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
   - vendor
   - .asset-cache
   - .bundle
@@ -193,6 +191,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - .github
 keep_files:
   - .git
   - .svn
@@ -264,6 +263,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-polyglot
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -324,3 +324,14 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# I18n
+languages: ["fr", "en"]
+default_lang: "fr"
+exclude_from_localization: ["javascript", "images", "css", "public", "sitemap", "assets"]
+parallel_localization: false
+url: https://www.audreyhermans.be/
+
+# In Jekyll 4.0 , SCSS source maps will generate improperly due to how Polyglot operates.
+sass:
+    sourcemap: never

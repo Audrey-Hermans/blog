@@ -2,7 +2,7 @@
 layout: single
 title: "Baluchon"
 lang: fr
-permalink: /fr/baluchon/
+permalink: baluchon/
 author_profile: true
 ---
 

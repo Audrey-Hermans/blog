@@ -1,0 +1,11 @@
+main:
+  - title: "A propos"
+    url: /about/
+  - title: "Baluchon"
+    url: /baluchon/
+  - title: "Blog"
+    url: /blog
+  - title: "Galerie"
+    url: /galerie/
+  - title: "English"
+    url: /en/

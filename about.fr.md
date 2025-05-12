@@ -2,7 +2,7 @@
 layout: single
 title: "A propos"
 lang: fr
-permalink: /fr/about/
+permalink: about/
 author_profile: true
 header:
   image: /assets/images/header.webp
@@ -39,4 +39,3 @@ Dans le mien, il y a :
 - un crayon, toujours prêt à donner forme à l'inspiration du moment.
 
 [Rendez-vous sur la page intitulée Baluchon](/fr/baluchon/) — J'y partage le contenu de mon sac de voyage, et comment je m'y prends pour savoir quoi emporter.
-

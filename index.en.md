@@ -1,8 +1,7 @@
 ---
-layout: single
+layout: home
 title: "The Art of Being"
 lang: en
-permalink: /en/index/
 author_profile: true
 ---
 

@@ -2,7 +2,7 @@
 layout: single
 title: "How to Pack Your Existential Navigation Bundle"
 lang: en
-permalink: /en/bundle/
+permalink: baluchon/
 author_profile: true
 ---
 
