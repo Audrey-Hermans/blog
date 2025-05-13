@@ -22,7 +22,7 @@ Mais ce n’était pas un simple instrument de musique. Sa sonorité pâle, éth
 On peut dire qu’ils sont contemporains de cœur, si ce n’est de temps :  
 – Le waka, dans ses mots suspendus.  
 – L'hitoyogiri, dans ses inflexions et sa capacité à se fondre dans la dynamique de l'instant.  
-Tous deux nous invitent à ralentir pour écouter ce qui se passe, chez l'un entre les lignes, chez l'autre entre les souffles.
+Tous deux nous invitent à ralentir pour écouter ce qui se passe, l'un entre les lignes, l'autre entre les souffles.
 
 ## Partage poétique 
 
