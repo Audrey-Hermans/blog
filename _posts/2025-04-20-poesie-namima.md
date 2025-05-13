@@ -39,8 +39,7 @@ Alors alons-y!
 ### ✍️ Note sur le haibun
 
 *La structure que j’utilise ici s’inspire du haibun, une forme japonaise mêlant prose poétique et poème bref.  
-Popularisé par Bashō, le haibun accompagne souvent un moment de voyage intérieur ou extérieur,  
-où le texte en prose prépare le terrain sensible que le poème vient cristalliser.*
+Popularisé par Bashō, le haibun accompagne souvent un moment de voyage intérieur ou extérieur, où le texte en prose prépare le terrain sensible que le poème vient cristalliser.*
 
 **Middelkerke - 20 Avril 2025**
 
