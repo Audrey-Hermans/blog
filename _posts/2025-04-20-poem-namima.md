@@ -42,8 +42,10 @@ Alors alons-y!
 > Au loin, Ostende s'éveille  
 > dans un tourbillon de sable.  
 > Les mouettes rient,  
-> rien ne presse.  
->   
+> rien ne presse.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/namima2-2025-04-20.webp){: .align-center}
+  
 > Timbre du vent,  
 > la ville se pare d'un manteau de sable.  
 > Mon coeur danse, dans l'espace entre les vagues.
