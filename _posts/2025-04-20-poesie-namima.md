@@ -7,9 +7,9 @@ lang: fr
 tags: ["français","poesie"]
 ---
 
-# Entre l'encre et le bambou
+## Entre l'encre et le bambou
 
-Le waka est une forme poétique ancienne, née à l’époque de Heian (794–1185). Il s’agit d’un poème court de 31 syllabes, structuré en 5 vers selon un rythme 5-7-5-7-7. C’est l’ancêtre du tanka, et une forme d’expression prisée par les nobles et les lettrés de cour, pour dire l’amour, le deuil, la beauté d’un instant ou le frémissement d’une intuition.
+Le waka est une forme poétique ancienne, née à l’époque de Heian (794–1185) au Japon. Il s’agit d’un poème court de 31 syllabes, structuré en 5 vers selon un rythme 5-7-5-7-7. C’est l’ancêtre du tanka, et une forme d’expression prisée par les nobles et les lettrés de cour, pour dire l’amour, le deuil, la beauté d’un instant ou le frémissement d’une intuition.
 
 Le waka est un art de l’ellipse et du non-dit, où l’émotion affleure sans se montrer entièrement. Il capte l’éphémère, l’écho d’une pensée dans le vent du soir. Chaque mot est choisi avec soin, chaque image est une porte entrouverte vers un monde intérieur.
 
