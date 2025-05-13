@@ -1,6 +1,6 @@
 ---
 title: "Poème waka - Namima"
-date: 2025-04-27
+date: 2025-04-20
 layout: single
 author_profile: true
 lang: fr
