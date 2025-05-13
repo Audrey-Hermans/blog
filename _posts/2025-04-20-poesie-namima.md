@@ -36,17 +36,27 @@ où le trait se fait image et palpite à travers l’espace et le temps sans rie
 
 Alors alons-y!
 
+### ✍️ Note sur le haibun
+
+*La structure que j’utilise ici s’inspire du haibun, une forme japonaise mêlant prose poétique et poème bref.  
+Popularisé par Bashō, le haibun accompagne souvent un moment de voyage intérieur ou extérieur,  
+où le texte en prose prépare le terrain sensible que le poème vient cristalliser.*
+
 **Middelkerke - 20 Avril 2025**
+
+*Ma mère aimait le bruit des vagues.
+Elle disait qu’il avait le pouvoir de guérir tous les maux.
+C’est sans doute pour ça que je suis venue, aujourd’hui, le jour de son anniversaire.
+Ici, je n’ai pas besoin de la chercher.
+Elle sera toujours là, dans l’espace entre les vagues.*
 
 > **Namima**  
 > Le vent frappe aux vitres.  
 > Dedans, le calme.  
 > Dehors, la mer en folie.  
-> Au loin, Ostende s'éveille  
-> dans un tourbillon de sable.  
-> Les mouettes rient,  
-> rien ne presse.
-  
+> Au loin, Ostende s'éveille dans un tourbillon de sable.  
+> Les mouettes rient, rien ne presse.
+
 > Timbre du vent,  
 > la ville se pare d'un manteau de sable.  
 > Mon coeur danse, dans l'espace entre les vagues.
