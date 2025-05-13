@@ -22,14 +22,14 @@ L'hitoyogiri, rappelons-le brièvement, est le petit ancêtre du shakuhachi né 
 
 Mais ce n’était pas un simple instrument de musique. Sa sonorité pâle, éthérée, un peu brisée… évoque le souffle du vent dans les pins ou le silence entre deux mots. Comme le waka, l'hitoyogiri parle par suggestion. Il ne cherche pas à plaire, mais à faire résonner l’indicible.
 
-On peut dire qu’ils sont contemporains de cœur, si ce n’est de temps :  
+On peut dire qu’ils sont contemporains d'époque et complices de cœur :  
 – Le waka, dans ses mots suspendus.  
 – L'hitoyogiri, dans ses inflexions et sa capacité à se fondre dans la dynamique de l'instant.  
 Tous deux nous invitent à ralentir pour écouter ce qui se passe, l'un entre les lignes, l'autre entre les souffles.
 
 ## Partage poétique 
 
-J’aime les formes poétiques japonaises.
+J’aime les formes poétiques japonaises, tu l'as compris.
 Ce que je cherche à travers elles, ce n’est pas la perfection (je ne respecte pas les canons traditionnels), mais un espace où déposer un souvenir ou un ressenti.
 Ce qui m'intéresse, c’est ce point de bascule où les mots effleurent les sens,
 où le trait se fait image et palpite à travers l’espace et le temps sans rien perdre de sa fraîcheur. 
