@@ -13,6 +13,9 @@ Le waka est une forme poétique ancienne, née à l’époque de Heian (794–11
 
 Le waka est un art de l’ellipse et du non-dit, où l’émotion affleure sans se montrer entièrement. Il capte l’éphémère, l’écho d’une pensée dans le vent du soir. Chaque mot est choisi avec soin, chaque image est une porte entrouverte vers un monde intérieur.
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/namima-long-2025-04-20.webp){: .align-center}
+*Ok, note pour plus tard : la flûte et la tempête, ça marche pas. Mais alors, pas du tout.*
+
 ## Et l'hitoyogiri, dans tout cela ?
 
 L'hitoyogiri, rappelons-le brièvement, est le petit ancêtre du shakuhachi né durant l'époque de Muromachi (1336–1573). Il était souvent associé à la musique de cour et au divertissement raffiné, parfois joué dans l’intimité d’un jardin ou dans la solitude d’un pavillon.
@@ -43,12 +46,9 @@ Alors alons-y!
 > dans un tourbillon de sable.  
 > Les mouettes rient,  
 > rien ne presse.
-
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/namima-2025-04-20.webp){: .align-center}
   
 > Timbre du vent,  
 > la ville se pare d'un manteau de sable.  
 > Mon coeur danse, dans l'espace entre les vagues.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/namima-long-2025-04-20.webp){: .align-center}
-
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/namima-2025-04-20.webp){: .align-center}
