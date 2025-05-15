@@ -1,5 +1,5 @@
 ---
-title: "Poème waka - Namima"
+title: "Waka poetry - Namima"
 date: 2025-04-20
 layout: single
 author_profile: true
