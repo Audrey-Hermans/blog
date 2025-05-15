@@ -13,8 +13,7 @@ tags: ["english","poetry"]
 
 Waka is an art of suggestion, where emotion shimmers just beneath the surface, never fully revealed. It captures the ephemeral: the fluttering of thoughts in the breeze at dusk. Every word is chosen with deliberate care; every image is a door left slightly ajar, a quiet invitation to step into the poet's inner world.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/namima-long-2025-04-20.webp){: .align-center}
-*Ok, point made : hitoyogiri doesn't blend -at all- with sea gales.*
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/namima-long-2025-04-20.webp){: .align-center} *Ok, point made : hitoyogiri doesn't blend -at all- with sea gales.*
 
 ## Wait —Is this still a website about bamboo flutes ?
 
@@ -34,9 +33,7 @@ As you might have guessed, I've got a thing for Japanese poetic forms. What I se
 
 So let us begin.
 
-### A note on the haibun
-
-*## ✍️ A Note on the Haibun
+## A Note on the Haibun
 
 The structure I use here is inspired by the *haibun*, a Japanese form that weaves together poetic prose and a brief poem.  
 Popularized by Bashō, the *haibun* often accompanies a moment of inner or outer journey, with the prose laying a sensitive groundwork that the poem then distills into a crystalline impression.
