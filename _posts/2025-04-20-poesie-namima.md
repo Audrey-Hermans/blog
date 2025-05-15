@@ -4,7 +4,7 @@ date: 2025-04-20
 layout: single
 author_profile: true
 lang: fr
-tags: ["français","poesie"]
+tags: ["français","poésie"]
 ---
 
 ## Entre l'encre et le bambou
