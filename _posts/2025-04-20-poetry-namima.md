@@ -58,7 +58,7 @@ She’ll always live on, in the space between the waves.*
 
 > The wind's faint song,  
 > Buildings wrapped in drifting gold.  
-> My heart will always belong here,
+> My heart will always belong here, <br>
 > Where wave meets wave and disappears.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/namima-2025-04-20.webp){: .align-center}
