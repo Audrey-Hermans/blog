@@ -20,7 +20,7 @@ Waka is an art of suggestion, where emotion shimmers just beneath the surface, n
 Fear not. I'm getting to the point.
 The *hitoyogiri*, let us recall, is the small ancestor of the shakuhachi, born during Japan’s Muromachi period (1336–1573). It was often associated with courtly music and refined entertainment, mostly played in the quiet of a hermitage or the solitude of a tea pavilion (although rumor has it that samuraï would take it along during war campaigns).
 
-But it was never merely a musical instrument. Its pale, ethereal tone—slightly fractured, like a breath caught between two silences—evokes the wind in the pines or the hush between unspoken words. Like the *waka*, the *hitoyogiri* speaks through suggestion. It does not aim to please, but to echo that which cannot be spoken (a gentle wink to our friend Lao Zi).
+But it was never merely a musical instrument. Its vivid, ethereal tone—slightly fractured, like a breath caught between two silences—evokes the wind in the pines or the hush between unspoken words. Like the *waka*, the *hitoyogiri* speaks through suggestion. It does not aim to please, but to echo that which cannot be spoken (a gentle wink to our friend Lao Zi).
 
 One might say they are kindred spirits, born of the same era, and joined at the heart:  
 – *Waka*, with its suspended words.  
