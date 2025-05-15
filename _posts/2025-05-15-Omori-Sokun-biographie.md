@@ -38,7 +38,13 @@ Si par chance vous en savez plus sur la vie d’Ōmori Sōkun, que vous relevez 
 Vous voilà prévenus, on peut y aller.
 
 Bouclez vos ceintures : on décolle. Cap sur le Japon. Mais pas celui des brochures de voyage ! Celui de 1582. La période Sengoku bat son plein, et on pourrait la résumer en deux mots : chaos féodal.
-Nobunaga, le daimyō (seigneur) du clan Oda, surnommé “le roi démon” pour ses méthodes de guerre impitoyables, vient de mourir. Sans entrer dans les détails, disons qu’il n’était pas qu’un chef militaire redoutable : c’était aussi un homme d’affaires visionnaire. Son héritage est plus nuancé qu’il n’y paraît, et sa mort ne bouleverse pas seulement le pays… elle redessine aussi, en coulisse, le destin d’Ōmori Sōkun.
+Nobunaga, le daimyō (seigneur) du clan Oda, surnommé “le roi démon” pour ses méthodes de guerre impitoyables, vient de mourir. 
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-15-nobunaga.webp){: .align-center}
+*Portrait of Oda Nobunaga - By Kanō Eitoku (狩野永徳), ca. 1584. - Photographic reproduction of a hanging scroll at Daitokuji, Kyoto. - Source: Wikimedia Commons (File:Oda Nobunaga by Kano Eitoku (Daitokuji).jpg). Public Domain.*
+
+Sans entrer dans les détails, disons qu’il n’était pas qu’un chef militaire redoutable : c’était aussi un homme d’affaires visionnaire. Son héritage est plus nuancé qu’il n’y paraît, et sa mort ne bouleverse pas seulement le pays… elle redessine aussi, en coulisse, le destin d’Ōmori Sōkun.
+<br>
 Revenons un peu en arrière.
 
 ## Kyōto, 1570.
