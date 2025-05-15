@@ -9,9 +9,9 @@ tags: ["english","poetry"]
 
 ## Tucked between ink and bamboo
 
-**Waka** is an ancient poetic form that blossomed in Japan during the Heian period (794–1185). Composed of 31 syllables arranged across five lines in a 5-7-5-7-7 rhythm, it is the forerunner of the *tanka*. This refined verse was treasured by nobles and scholars alike, a vessel for expressing love, grief, the beauty of a passing moment, or the tremor of an unspoken insight.
+**Waka** is an ancient poetic form that blossomed in Japan during the Heian period (794–1185). Composed of 31 syllables arranged across five lines in a 5-7-5-7-7 rhythm, it is the forerunner of the *tanka*. This refined verse was treasured by nobles and scholars alike, a means of expressing love, grief, the beauty of a passing moment, or the tremor of an unspoken insight.
 
-Waka is an art of suggestion, where emotion shimmers just beneath the surface, never fully revealed. It captures the ephemeral; the fluttering of thoughts in the breeze at dusk. Every word is chosen with deliberate care; every image is a door left slightly ajar, a quiet invitation to step into poet's inner world.
+Waka is an art of suggestion, where emotion shimmers just beneath the surface, never fully revealed. It captures the ephemeral: the fluttering of thoughts in the breeze at dusk. Every word is chosen with deliberate care; every image is a door left slightly ajar, a quiet invitation to step into the poet's inner world.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/namima-long-2025-04-20.webp){: .align-center}
 *Ok, point made : hitoyogiri doesn't blend -at all- with sea gales.*
