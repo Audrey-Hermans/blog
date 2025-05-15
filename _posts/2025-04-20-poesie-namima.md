@@ -58,8 +58,8 @@ Elle sera toujours là, dans l’espace entre les vagues.*
 
 > Rythme des embruns,  
 > Les mouettes s'élancent   
-> A la poursuite, peut-être
-> De mémoires serties dans 
+> A la poursuite, peut-être <br>
+> De mémoires serties dans <br>
 > L'espace entre les vagues.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/namima-2025-04-20.webp){: .align-center}
