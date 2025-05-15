@@ -18,7 +18,7 @@ Le waka est un art de l’ellipse et du non-dit, où l’émotion affleure sans 
 
 ## Et l'hitoyogiri, dans tout cela ?
 
-L'hitoyogiri, rappelons-le brièvement, est le petit ancêtre du shakuhachi né durant l'époque de Muromachi (1336–1573). Il était souvent associé à la musique de cour et au divertissement raffiné, parfois joué dans l’intimité d’un jardin ou dans la solitude d’un pavillon.
+L'hitoyogiri, rappelons-le brièvement, est le petit ancêtre du shakuhachi né durant l'époque de Muromachi (1336–1573). Il était souvent associé à la musique de cour et au divertissement raffiné, parfois joué dans l’intimité d’un pavillon de thé ou dans la solitude d’un ermitage (on raconte aussi que les samouraïs l'emportaient avec eux pendant les campagnes militaires).
 
 Mais ce n’était pas un simple instrument de musique. Sa sonorité pâle, éthérée, un peu brisée… évoque le souffle du vent dans les pins ou le silence entre deux mots. Comme le waka, l'hitoyogiri parle par suggestion. Il ne cherche pas à plaire, mais à faire résonner l’indicible.
 
