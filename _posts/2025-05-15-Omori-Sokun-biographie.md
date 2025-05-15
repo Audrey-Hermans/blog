@@ -7,8 +7,6 @@ lang: fr
 tags: ["français"]
 ---
 
-###Ōmori Sōkun, maître de l’hitoyogiri
-
 Me revoilà, et si tu te demandes ce qui se cache dans ma besace d’ermite flûté, tu as raison de te poser la question! Je t’apporte une histoire. Ou plutôt le récit d’une vie: celle d’un maître dont la voix résonne chaque semaine à travers les notes de mon hitoyogiri.
 “Ton quoi? Tu joues pas du shakuhachi?”
 Si, si. Mais je joue aussi de l’hitoyogiri, l’ancêtre du shakuhachi de Fuke. D’ailleurs, avant que le shakuhachi de Fuke ne devienne LE shakuhachi, l’hitoyogiri s’appellait shakuhachi.
@@ -17,7 +15,7 @@ J’en vois au fond qui sont largués.
 C’est pas grave, on va clarifier ça plus loin.
 Venez!
 
-##Mais quelle note m’a piquée?
+## Mais quelle note m’a piquée?
 
 Peut-être est-ce à force de voir ce nom: “Ōmori Sōkun”, apparaître dans mes cours.
 A force de jouer les musiques de son école, de lire des citations tirées de ses manuscrits, et avec le temps, d’imaginer la main qui a tracé, il y a quatre siècles, les signes que j’apprends à déchiffrer et auxquels je m’évertue à donner une forme sonore.
@@ -43,7 +41,7 @@ Bouclez vos ceintures : on décolle. Cap sur le Japon. Mais pas celui des brochu
 Nobunaga, le daimyō (seigneur) du clan Oda, surnommé “le roi démon” pour ses méthodes de guerre impitoyables, vient de mourir. Sans entrer dans les détails, disons qu’il n’était pas qu’un chef militaire redoutable : c’était aussi un homme d’affaires visionnaire. Son héritage est plus nuancé qu’il n’y paraît, et sa mort ne bouleverse pas seulement le pays… elle redessine aussi, en coulisse, le destin d’Ōmori Sōkun.
 Revenons un peu en arrière.
 
-##Kyōto, 1570.
+## Kyōto, 1570.
 
 Nous sommes à l’aube du XVIIe siècle. Le Japon commence à émerger du tumulte des guerres civiles. Au milieu des conflits et des ambitions féodales, une silhouette se détache.
 Voici notre homme. Ou plutôt, un gamin. Il s’appelle He Shinkurō, parfois aussi Shinjurō.
@@ -103,7 +101,7 @@ Ses proches ont probablement fini par lui inventer un surnom maison - et permane
 
 J’ai lu quelque part (toutes mes sources sont au bas de cet article) que Shuan serait un pseudonyme artistique, tandis que Sokun relèverait d’une forme d’appellation honorifique, soulignant sa distance vis-à-vis de la société séculaire.
 
-##La naissance d’une école
+## La naissance d’une école
 
 La légende raconte que deux générations avant Sokun, un mystérieux étranger aurait enseigné le hitoyogiri à un vieux maître nommé Sosa.
 Celui-ci aurait ensuite transmis son savoir à une poignée de disciples triés sur le volet. Sokun appartiendrait à cette lignée.
@@ -155,7 +153,7 @@ Oh — encore un détail, et non des moindres :
 Et c’est pour cela qu’aujourd’hui encore, nous lisons les notes tracées par Sokun lui-même.
 Je ne sais pas vous, mais moi, je trouve ça grandiose.
 
-##Les écrits de Sokun
+## Les écrits de Sokun
 
 Voici une liste des ouvrages qui nous sont parvenus. Tous ne sont pas encore numérisés, et pour les consulter, il faut se rendre dans des bibliothèques comme Yōmei Bunko ou Geijutsu Daigaku, l’une à Kyoto, l’autre à Tokyo.
 Tanteki Hiden-fu (Notes secrètes de la petite flûte, 1608) : le plus ancien texte connu sur le hitoyogiri, une véritable bible ! Conservé au Musée Miyagi Michio Memorial.
@@ -212,7 +210,7 @@ D’autres figures importantes croisent son chemin, et si tu es un peu nerd du s
 - Inoue Shunzui : lettré, dernier grand passionné connu du hitoyogiri, mort en 1914 — l’un des derniers à en jouer au XIXe siècle.
 
 
-##Crépuscule d’une vie, renaissance d’un art
+## Crépuscule d’une vie, renaissance d’un art
 
 Malgré sa renommée, Sokun semble avoir préféré les pierres moussues de son ermitage aux fastes de la ville.
 Contrairement à d’autres maîtres de son temps, il ne cherche ni poste dans un grand temple, ni rôle officiel dans l’administration shogunale.
@@ -250,8 +248,8 @@ J’espère de tout cœur rejoindre cette danse.
 Offrir, ensemble, un souffle nouveau à ces personnages du passé.
 Car pour moi, c’est une évidence : malgré les siècles, la chanson du hitoyogiri n’a rien perdu de sa force, ni de sa sagesse.
 
-##Sources
-*La liste est en Anglais: mon article de base est en Anglais et je préfère utiliser la langue de Shakespeare pour faire des recherches. Ah, et il y a aussi pas mal de japonais dans le tas.*
+## Sources
+*La liste est en Anglais: mon article de base est en Anglais et je préfère utiliser la langue de Shakespeare pour faire des recherches. Ah, et il y a aussi pas mal de Japonais dans le tas.*
  
 #Japanese Encyclopedias & Biographical Dictionaries
 - **Kotobank** entries for Ōmori Sōkun, referencing:
