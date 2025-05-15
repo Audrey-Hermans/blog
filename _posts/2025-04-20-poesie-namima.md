@@ -50,14 +50,16 @@ Ici, je n’ai pas besoin de la chercher.
 Elle sera toujours là, dans l’espace entre les vagues.*
 
 > **Namima**  
-> Le vent frappe aux vitres.  
-> Dedans, le calme.  
-> Dehors, la mer en folie.  
-> Au loin, Ostende s'éveille dans un tourbillon de sable.  
-> Les mouettes rient, rien ne presse.
+> Raffales sur la vitre.  
+> Dedans, douce langueur.  
+> Dehors, crêtes d'écume.  
+> Ostende s'éveille au loin,  
+> Auréolée de sable.
 
-> Timbre du vent,  
-> la ville se pare d'un manteau de sable.  
-> Mon coeur danse, dans l'espace entre les vagues.
+> Rythme des embruns,  
+> Les mouettes s'élancent   
+> A la poursuite, peut-être
+> De mémoires serties dans 
+> L'espace entre les vagues.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/namima-2025-04-20.webp){: .align-center}
