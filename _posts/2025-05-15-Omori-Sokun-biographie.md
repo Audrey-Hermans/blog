@@ -204,7 +204,7 @@ Si l'on en croit la suite, Goyōzei n’est pas déçu : il lui commande cinq fl
 Ce geste impérial ne fait que renforcer la réputation de Sokun.
 L’une de ces flûtes est entrée dans la légende : sur son fin tube de bambou, une calligraphie tracée de la main de l’empereur lui-même — “reion”, *tonalité spirituelle*.
 
-Conservée avec soin par la famille Tokugawa, cette repose aujourd’hui dans un musée. <br>
+Conservée avec soin par la famille Tokugawa, cette flûte repose aujourd’hui au Metropolitan Museum of Art à New York. <br>
 
 L’école Sosa-ryū connaît alors un essor fulgurant.
 Le son de l'hitoyogiri résonne à travers toutes les strates de la société : des monastères aux pavillons de thé.
