@@ -92,3 +92,11 @@ But eventually, I realised how much these objects helped me...and how vulnerable
 
 Maybe you’ve got a few of your own, without even realising it.  
 Come to think of it… **have you ever asked yourself?**
+
+If these thoughts resonated with you, you might enjoy wandering through the blog.
+That’s where I share what the flute is teaching me, the epiphanies I find in images,
+and the quiet art of living simply, like a hermit listening for true sound.
+
+No mysteries, no grand conclusions. Just notes from the path.
+
+Feel free to explore - take what speaks to you.
