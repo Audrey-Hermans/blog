@@ -270,7 +270,7 @@ Reconstruire, ensemble, l'héritage de ces personnages du passé.<br>
 Car pour moi, c’est une évidence : malgré les siècles, la chanson de l'hitoyogiri n’a rien perdu de sa force, ni de sa sagesse.
 
 ## Sources
-*La liste est en Anglais: mon article de base est en Anglais et je préfère utiliser la langue de Shakespeare pour faire des recherches. Ah, et il y a aussi pas mal de Japonais dans le tas.*
+*Et maintenant, place aux sources — parce que oui, tout ça ne sort pas juste de mon chapeau. La liste est en anglais (ma langue de recherche de prédilection), avec une bonne dose de japonais pour pimenter le tout. Courage si tu veux t’y plonger ! Moi, je vais célébrer la fin de cet article avec un bon thé vert bien mérité. Kanpai !*
  
 #Japanese Encyclopedias & Biographical Dictionaries
 - **Kotobank** entries for Ōmori Sōkun, referencing:
