@@ -118,7 +118,7 @@ J’ai lu quelque part (toutes mes sources sont au bas de cet article) que *Shua
 ## La naissance d’une école
 
 La légende raconte que deux générations avant Sokun, un mystérieux étranger aurait enseigné l'hitoyogiri à un vieux maître nommé Sosa.<br>
-Celui-ci aurait ensuite transmis son savoir à une poignée de disciples triés sur le volet, dont serait Sokun l'héritier.
+Celui-ci aurait ensuite transmis son savoir à une poignée de disciples triés sur le volet, dont Sokun serait l'héritier.
 
 En hommage à son maître, il fonde une école portant son nom : la Sosa-ryū est née, et nous sommes aux alentours de l’an 1600.<br>
 Le Japon entre alors dans ce qui deviendra l’époque Edo.<br>
@@ -140,7 +140,7 @@ D’ailleurs, il finira par mêler les deux en une sorte de théorie unifiée o�
 
 Autant dire qu’Ōmori Sōkun ne chôme pas.
 
-Et pourtant, au coeur d'emploi du temps déjà bien chargé, il trouve encore l'élan de se consacrer à une nouvelle mission, et non des moindres : sauver l’hitoyogiri de l’oubli.
+Et pourtant, au coeur d'un emploi du temps déjà bien chargé, il trouve encore l'élan de se consacrer à une nouvelle mission, et non des moindres : sauver l’hitoyogiri de l’oubli.
 Pour ce faire, il adapte des pièces contemporaines afin de répondre aux sensibilités de l’époque, tout en prenant soin de consigner les compositions anciennes — appelés “te” — dont la transmission s'effrite dangereusement. <br>
 Lentes, méditatives, sans paroles, ces pièces accompagnent le cycle des saisons et visent à favoriser l’éveil spirituel.
 
@@ -188,7 +188,7 @@ Voici une liste des ouvrages qui nous sont parvenus. Tous ne sont pas encore num
 - Shakuhachi Sōden-shū (1624) : recueil de transmission, considéré comme un compendium des savoirs de la lignée.
 
 
-On chez Sokun, dans les dernières années de sa vie, une véritable frénésie d’écriture: ses ultimes textes datent de 1624, et il s'éteint l’année suivante.
+On observe chez Sokun, dans les dernières années de sa vie, une véritable frénésie d’écriture: ses ultimes textes datent de 1624, et il s'éteint l’année suivante.
 
 Au total, il aura consigné pas moins de 70 pièces musicales, réparties selon les cinq *chōshi* (quatre saisons + intersaison). <br>
 Grâce à lui, l'hitoyogiri s'est affranchi de l'oralité pour devenir légende écrite — prête à traverser les siècles avec un souffle intact.
