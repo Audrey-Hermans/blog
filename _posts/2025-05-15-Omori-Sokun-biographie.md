@@ -146,34 +146,35 @@ Lentes, méditatives, sans paroles, ces pièces accompagnent le cycle des saison
 
 Peut-être sont-elles — mais ce n’est qu’une hypothèse — les ancêtres des honkyoku, ces morceaux méditatifs joués plus tard sur le shakuhachi de l’école Fuke.
 
-En 1608, Sokun rassemble ces œuvres dans un manuscrit précieux : le Tanteki Hidenfu (“notes secrètes de la petite flûte”).
-Sans le savoir, il vient de poser sur le papier la plus ancienne trace écrite connue de la musique pour hitoyogiri.
+En 1608, Sokun rassemble ces œuvres dans un manuscrit précieux : le *Tanteki Hidenfu* (“notes secrètes de la petite flûte”). <br>
+Sans le savoir, il inscrit sur le papier la plus ancienne trace écrite connue de la musique pour hitoyogiri.
 
-D’un point de vue ethnomusicologique, ces pièces tracent un pont entre deux univers.
-D’un côté, Yoshinoyama, un hit de l’époque Edo, devient un morceau emblématique du répertoire.
-Comme l’hitoyogiri s’invite dans les pavillons de thé et les jardins des lettrés, on attribue à cette pièce le rôle de muse pour de nombreux poèmes dédiés aux cerisiers en fleurs et à leurs pétales tourbillonnants — qui nous émerveillent encore aujourd’hui.
+D’un point de vue ethnomusicologique, ces pièces jettent un pont subtil entre deux mondes. <br>
+D’un côté, *Yoshinoyama*, un hit de l’époque Edo, s'impose comme un emblème du répertoire.
+Comme l’hitoyogiri s’invite dans les pavillons de thé et les jardins des lettrés, cette mélodie se mue en muse pour d'innombrables poèmes célébrant les cerisiers en fleurs et leurs pétales tourbillonnants — qui nous éblouissent encore aujourd’hui.
 
-À l’autre extrémité du spectre, des morceaux comme Sagariha ou Tsushima, issus du répertoire des samouraïs et des moines, apportent une note méditative qui équilibre les pièces plus légères et dansantes.
-Ce savant dosage entre tradition et modernité assure le succès de l’école.
-Les airs entraînants attirent les débutants de tous horizons, tandis que les pièces profondes nourrissent l’exigence spirituelle.
+À l’autre extrémité du spectre, des morceaux comme *Sagariha* ou *Tsushima*, issus des traditions des samouraïs et des moines, insufflent une touche méditative qui équilibre les airs plus légers et dansants. <br>
+Ce subtil dosage entre légèreté et profondeur contribue à l'essor de l’école.
+Les pièces vives séduisent les novices venus de tous horizons, tandis que les compositions introspectives répondent à l’exigence d'un cheminement spirituel.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-15-yoshinoyama.webp){: .align-center}
 *Cherry Blossoms at Yoshino _By Katsushika Hokusai, ca. 1833._ Woodblock print; ink and color on paper. The Metropolitan Museum of Art (Accession no. JP2923). Public Domain.*
 
-Sokun parvient à créer un équilibre subtil entre art de rue et quête intérieure.
-L’année suivante, il rédige un nouveau traité, le Ritsuryō Bintōshō, un texte érudit sur les douze tons chinois, où il entremêle musique, cosmologie, accords… et présages.
+Sokun parvient à instaurer un riche équilibre entre expression populaire et quête intérieure. <br>
+L’année suivante, il rédige un nouveau traité: le *Ritsuryō Bintōshō*, un texte érudit consacré aux douze tons chinois, où il entremêle musique, cosmologie, accords… et présages.
 Ce que j’appelle sa fameuse “théorie d’unification”.
-Mais ça, ce sera pour un prochain article.
+Mais ceci, c'est une autre histoire, que je vous raconterai dans un prochain article.
 
-Oh — encore un détail, et non des moindres :
-À cette époque, les livres de Sokun n’étaient pas imprimés. Ce sont des livrets manuscrits, rédigés de sa main, qui circulaient parmi les étudiants.
-Et c’est pour cela qu’aujourd’hui encore, nous lisons les notes tracées par Sokun lui-même.
-Je ne sais pas vous, mais moi, je trouve ça grandiose.
+Oh — un dernier détail, et non des moindres :
+À cette époque, les écrits de Sokun n’étaient pas imprimés. Ce sont de fins livrets manuscrits, copiés de sa main, qui circulent parmi ses élèves. <br>
+Et c’est précisément pour cela qu’aujourd’hui encore, nous pouvons lire les notes tracées par Sokun lui-même. <br>
+Je ne sais pas vous, mais moi, je trouve ça absolument bouleversant.
 
 ## Les écrits de Sokun
 
 Voici une liste des ouvrages qui nous sont parvenus. Tous ne sont pas encore numérisés, et pour les consulter, il faut se rendre dans des bibliothèques comme Yōmei Bunko ou Geijutsu Daigaku, l’une à Kyoto, l’autre à Tokyo.
-Tanteki Hiden-fu (Notes secrètes de la petite flûte, 1608) : le plus ancien texte connu sur le hitoyogiri, une véritable bible ! Conservé au Musée Miyagi Michio Memorial.
+
+- Tanteki Hiden-fu (Notes secrètes de la petite flûte, 1608) : le plus ancien texte connu sur le hitoyogiri, une véritable bible ! Conservé au Musée Miyagi Michio Memorial.
 
 - Sosa-ryū Shakuhachi Tesu narabini Shoka Mokuroku (1622) : reprend les pièces et doigtés spécifiques à chaque morceau (et non à chaque note, ce qui est une particularité du hitoyogiri — j’y reviendrai).
 
@@ -187,33 +188,36 @@ Tanteki Hiden-fu (Notes secrètes de la petite flûte, 1608) : le plus ancien te
 - Shakuhachi Sōden-shū (1624) : recueil de transmission, considéré comme un compendium des savoirs de la lignée.
 
 
-On note que Sokun semble pris d’une frénésie d’écriture dans les dernières années de sa vie : ses derniers textes datent de 1624, et il meurt l’année suivante.
+On chez Sokun, dans les dernières années de sa vie, une véritable frénésie d’écriture: ses ultimes textes datent de 1624, et il s'éteint l’année suivante.
 
-Au total, il aura compilé pas moins de 70 pièces musicales, organisées selon les cinq chōshi (quatre saisons + intersaison).
-Grâce à lui, l'hitoyogiri est passé du statut de tradition orale à celui de légende écrite — prête à traverser les siècles.
+Au total, il aura consigné pas moins de 70 pièces musicales, réparties selon les cinq *chōshi* (quatre saisons + intersaison). <br>
+Grâce à lui, l'hitoyogiri s'est affranchi de l'oralité pour devenir légende écrite — prête à traverser les siècles avec un souffle intact.
 
 ##L’héritage d’un ermite superstar
 
-La musique de Sokun franchit les montagnes et éveille bientôt la curiosité de l’empereur Goyōzei.
+La musique de Sokun franchit bientôt les montagnes et éveille la curiosité de l’empereur Goyōzei.
 Nous sommes aux alentours de 1605.
 
-Intrigué par cet ermite excentrique et sa flûte vieillotte remise au goût du jour avec tant d’acharnement, l’empereur l’invite à la cour pour l’entendre jouer.
-À en croire la suite, Goyōzei n’est pas déçu : il lui commande cinq flûtes, chacune correspondant à l’un des cinq modes évoqués plus tôt.
+Intrigué par cet ermite singulier et sa flûte vieillotte, remise au goût du jour avec une ferveur peu commune, l’empereur l’invite à la cour pour l’entendre jouer. <br>
+Si l'on en croit la suite, Goyōzei n’est pas déçu : il lui commande cinq flûtes, chacune correspondant à l’un des cinq modes évoqués plus tôt.
 
-Ce geste officiel renforce encore la réputation de Sokun.
+Ce geste impérial ne fait que renforcer la réputation de Sokun.
 L’une de ces flûtes est entrée dans la légende : sur son fin tube de bambou, une calligraphie tracée de la main de l’empereur lui-même — “reion”, *tonalité spirituelle*.
 
-Cette flûte sera précieusement conservée par la famille Tokugawa, et repose aujourd’hui dans un musée…
-L’école Sosa-ryū connaît un véritable succès.
-Le son de l'hitoyogiri résonne dans toutes les couches de la société : des monastères aux pavillons de thé.
-Sokun décroche des patronages prestigieux.
+Conservée avec soin par la famille Tokugawa, cette repose aujourd’hui dans un musée. <br>
 
-Le maître de la cérémonie du thé, Kobori Enshū (Masakazu), lui commande une flûte baptisée “Ondée nivéale” (traduction libre de “pluie blanche” — choisis celle qui te convient).
+L’école Sosa-ryū connaît alors un essor fulgurant.
+Le son de l'hitoyogiri résonne à travers toutes les strates de la société : des monastères aux pavillons de thé.
+Sokun décroche des patronages prestigieux, et son influence dépasse bientôt le cercle des musiciens.
 
-Le moine-poète Ikkyū succombe au charme de la petite flûte, et il se murmure même que Sokun aurait enseigné le hitoyogiri à quelques “superstars” de son temps — peut-être même Tokugawa Ieyasu, voire Oda Nobunaga lui-même.
+Le maître de la cérémonie du thé, Kobori Enshū (Masakazu), lui commande une flûte baptisée *Ondée nivéale* (ma traduction libre de “pluie blanche” — choisis celle qui te convient).
 
-Ce qui, s’il est vrai, confirmerait que Sokun jouait déjà remarquablement bien dans sa jeunesse — et, sur un plan plus ethnomusicologique, cela accrédite l’idée que les samouraïs emportaient leur hitoyogiri en campagne.
-…Mais restons prudents. J’ai tout de même quelques doutes sur la capacité de Nobunaga à remarquer, au milieu de ses troupes, un petit page jouant de la flûte dans un coin.
+Le moine-poète Ikkyū succombe, lui aussi, au charme de la petite flûte. <br>
+Et il se murmure même que Sokun aurait enseigné l'hitoyogiri à quelques “superstars” de son temps — peut-être même Tokugawa Ieyasu, voire Oda Nobunaga lui-même.
+
+Ce qui, s’il est vrai, confirmerait que Sokun jouait déjà remarquablement bien dans sa jeunesse.
+Et, sur un plan plus ethnomusicologique, cela accrédite l’idée que les samouraïs emportaient leur hitoyogiri en campagne militaire. <br>
+…Mais restons prudents. J’ai tout de même quelques doutes sur la probabilité que Nobunaga remarque, au milieu de ses troupes, un petit page jouant de la flûte dans un coin.
 
 D’autres figures importantes croisent son chemin, et si tu es un peu nerd du shakuhachi (je le suis aussi — et c’est un compliment), certains noms te diront peut-être quelque chose :
 - Nakamura Sōzan (ou Soza) : publie en 1664 le Shichiku Shoshin-shū, l’un des premiers manuels imprimés pour hitoyogiri (à ne pas confondre avec l’ouvrage de Juntei, du XVIIIe siècle, qui porte le même titre).
@@ -229,41 +233,41 @@ D’autres figures importantes croisent son chemin, et si tu es un peu nerd du s
 
 ## Crépuscule d’une vie, renaissance d’un art
 
-Malgré sa renommée, Sokun semble avoir préféré les pierres moussues de son ermitage aux fastes de la ville.
-Contrairement à d’autres maîtres de son temps, il ne cherche ni poste dans un grand temple, ni rôle officiel dans l’administration shogunale.
+Malgré sa renommée, Sokun semble avoir toujours préféré les pierres moussues de son ermitage aux fastes de la ville.
+Contrairement à d’autres maîtres de son temps, il ne cherche ni poste dans un grand temple, ni fonction au sein de l’administration shogunale.
 
-Il reçoit tout de même le titre honorifique de Hokkyo (Pont du Dharma) — sans doute en reconnaissance de son talent plus que d’un rang religieux.
-Tout dans sa vie laisse penser qu’il a préféré la liberté à la hiérarchie.
-Jusqu’à la fin, il consigne avec minutie la tradition orale du hitoyogiri — peut-être guidé par une intuition sombre, une prémonition.
+Il reçoit tout de même le titre honorifique de *Hokkyo* (Pont du Dharma) — sans doute en reconnaissance de son talent plus que d’un rang religieux. <br>
+Tout dans sa vie laisse penser qu’il a choisi la liberté plutôt que la hiérarchie.
+Jusqu’au bout, il consigne avec minutie la tradition orale de l'hitoyogiri — peut-être guidé par une intuition sombre, une prémonition.
 
 Sōkun s’éteint en 1625, à Murakami, à l’âge de 56 ans.
 
-On raconte que cette année-là, il quitte son ermitage pour répondre à l’invitation du Lord Hori Naogori, l’un de ses élèves.
-En route, sa santé décline. Il meurt à Murakami, dans la province d’Echigo, le 10 avril 1625.
-Certains disent qu’il avait tout prévu avant de partir… au cas où il ne reviendrait pas.
-Son école lui survit encore quelque temps, portée par deux de ses disciples.
+On raconte que cette année-là, il quitte son ermitage pour répondre à l’invitation du Lord Hori Naogori.<br>
+En chemin, sa santé décline. Il meurt à Murakami, dans la province d’Echigo, le 10 avril 1625.<br>
+Certains disent qu’il avait tout prévu avant de partir… au cas où il ne reviendrait pas.<br>
+Son école lui survit quelque temps, portée par deux de ses disciples.
 Leurs écrits nous sont parvenus.
 
-L’un d’eux, Yamamoto Mantsu, écrira en 1813 :
-“Le premier Sokun était un maître. Celui du milieu avait de multiples talents. Le dernier… n’était pas aussi doué.
-Mais tous deux furent indispensables au développement du hitoyogiri.”
+Yamamoto Mantsu écrira à leur sujet, en 1813 :
+*“Le premier Sokun (Omori) était un maître. Celui du milieu avait de multiples talents. Le dernier… n’était pas aussi doué.
+Mais tous deux furent indispensables au développement de l'hitoyogiri.”*
 
-Malheureusement, les vents tournent.
-Le shakuhachi de l’école Fuke, plus moderne, plus modulable, finit par éclipser définitivement le hitoyogiri.
-Malgré quelques tentatives isolées de renaissance, la petite flûte tombe lentement dans l’oubli.
+Malheureusement, les vents tournent. <br>
+Le shakuhachi de l’école Fuke, plus moderne, plus modulable, finit par éclipser définitivement l'hitoyogiri.<br>
+Malgré quelques tentatives isolées de renaissance, la petite flûte tombe lentement dans l’oubli.<br>
 Au début du XXe siècle, elle a disparu.
 
-Pourtant…
-Tu l’auras deviné : l’histoire ne s’arrête pas là.
+Pourtant…<br>
+Tu l’auras deviné : l’histoire ne s’arrête pas là.<br>
 
-Une poignée de passionnés — musiciens, chercheurs, curieux — se sont mis en quête.
-Ils ont rouvert les manuscrits, dépoussiéré les flûtes, et redonné forme à cet instrument oublié.
-Grâce à leur travail minutieux, la voix des samouraïs, des moines, des ermites et des poètes commence à résonner à nouveau.
+Une poignée de passionnés — musiciens, chercheurs, curieux — se sont mis en quête.<br>
+Ils ont rouvert les manuscrits, dépoussiéré les flûtes, et redonné un souffle nouveau à cet instrument oublié.<br>
+Grâce à leur travail minutieux, la voix des samouraïs, des moines, des ermites et des poètes commence à résonner à nouveau.<br>
 Joie.
 
 J’espère de tout cœur rejoindre cette danse.
-Offrir, ensemble, un souffle nouveau à ces personnages du passé.
-Car pour moi, c’est une évidence : malgré les siècles, la chanson du hitoyogiri n’a rien perdu de sa force, ni de sa sagesse.
+Reconstruire, ensemble, l'héritage de ces personnages du passé.<br>
+Car pour moi, c’est une évidence : malgré les siècles, la chanson de l'hitoyogiri n’a rien perdu de sa force, ni de sa sagesse.
 
 ## Sources
 *La liste est en Anglais: mon article de base est en Anglais et je préfère utiliser la langue de Shakespeare pour faire des recherches. Ah, et il y a aussi pas mal de Japonais dans le tas.*
