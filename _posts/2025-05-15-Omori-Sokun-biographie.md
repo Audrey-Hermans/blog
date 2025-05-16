@@ -37,7 +37,7 @@ Si par chance vous en savez plus sur la vie d’Ōmori Sōkun, que vous relevez 
 
 Vous voilà prévenus, on peut y aller.
 
-Bouclez vos ceintures : on décolle. Cap sur le Japon. Mais pas celui des brochures de voyage ! Celui de 1582. La période Sengoku bat son plein, et on pourrait la résumer en deux mots : chaos féodal.
+Bouclez vos ceintures : on décolle. Cap sur le Japon. Mais pas celui des brochures de voyage ! Celui de 1582. La période Sengoku bat son plein, et on pourrait la résumer en deux mots : *chaos féodal*.
 Nobunaga, le daimyō (seigneur) du clan Oda, surnommé “le roi démon” pour ses méthodes de guerre impitoyables, vient de mourir. 
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-15-nobunaga.webp){: .align-center}
@@ -49,98 +49,100 @@ Revenons un peu en arrière.
 
 ## Kyōto, 1570.
 
-Nous sommes à l’aube du XVIIe siècle. Le Japon commence à émerger du tumulte des guerres civiles. Au milieu des conflits et des ambitions féodales, une silhouette se détache.
-Voici notre homme. Ou plutôt, un gamin. Il s’appelle He Shinkurō, parfois aussi Shinjurō.
+Nous sommes à l’aube du XVIIe siècle. Le Japon commence à émerger du tumulte des guerres civiles. Au milieu des conflits et des ambitions féodales, une silhouette se détache. <br>
+Voici notre homme. Ou plutôt, un gamin. <br>
+Il s’appelle He Shinkurō, parfois aussi Shinjurō.<br>
 Apprenti samouraï. Stratège à ses heures perdues. Musicien confirmé.
-Mais ce n’est pas encore l’Ōmori Sōkun que l’Histoire retiendra.
-Né le 15 mars 1570 à Kyōto, dans une famille modeste d’origine guerrière, Shinkurō grandit dans l’ombre d’un ancêtre célèbre : Ōmori Hikoshichi.
 
+Mais ce n’est pas encore l’Ōmori Sōkun que l’Histoire retiendra.<br>
+
+Né le 15 mars 1570 à Kyōto, dans une famille modeste d’origine guerrière, Shinkurō grandit dans l’ombre d’un ancêtre célèbre : Ōmori Hikoshichi.
 La légende raconte qu’Hikoshichi aurait affronté le mythique Kusunoki Masashige, symbole de la loyauté samouraï. On comprend vite que le poids des lignées et des histoires héroïques plane sur l’enfance du jeune flûtiste.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-15-masashige.webp){: .align-center}
 *Kusunoki Masashige (楠正成) - par Utagawa Kuniyoshi, 1843–44. Woodblock print (oban tate-e). British Museum (Accession no. 2008,3037.15307). Public domain.*
 
-Pendant que cette marmite historique mijote, Shinkurō (futur Sōkun) révèle très tôt un talent pour la musique. Il s’initie à la flûte hitoyogiri auprès de plusieurs moines, notamment du temple Myōken-ji.
-En parallèle, il suit un enseignement bouddhiste zen auprès de Tenshuku Sōgan, maître de la lignée Rinzai, dans un autre temple que l’on peut encore visiter aujourd’hui : le Daitoku-ji.
+Pendant que cette marmite historique mijote, Shinkurō (futur Sōkun) révèle très tôt un talent pour la musique. Il s’initie à une flûte appelée "hitoyogiri" auprès de plusieurs moines, notamment du temple Myōken-ji. <br>
+En parallèle, il suit un enseignement bouddhiste zen auprès de Tenshuku Sōgan, un maître de la lignée Rinzai, dans un autre temple que l’on peut encore visiter aujourd’hui : le Daitoku-ji.
 
-Shinkurō hérite ainsi d’un solide bagage : une formation musicale rigoureuse, une base spirituelle ancrée dans le zen, et l’héritage martial d’une lignée de samuraï (devenus rōnin, ou samouraïs sans maître, après la guerre d’Ōnin).
+Shinkurō hérite ainsi d’un solide bagage : une formation musicale rigoureuse, une base spirituelle ancrée dans le zen, et l’héritage martial d’une lignée de samouraïs (devenus rōnin, ou samouraïs sans maître, après la guerre d’Ōnin).<br>
 Des qualités précieuses sur un CV de l’époque.
 
 Et justement, c’est avec ce profil qu’il entre au service de Nobunaga, probablement comme page ou jeune vassal.
-Mais les tambours de guerre battent le tempo de l’Histoire, et en 1582, tout bascule. Le maître du clan Oda est assassiné lors de l’incident de Honnō-ji.
+Mais les tambours de guerre battent le tempo de l’Histoire, et en 1582, tout bascule. Le maître du clan Oda perd la vie lors de l’incident de Honnō-ji.
 
-Shinkurō n’a que douze ans. Le voilà sans patron, sans emploi, et à un carrefour décisif.
+Shinkurō n’a que douze ans. Le voilà sans patron, sans emploi, et à un carrefour décisif.<br>
 Au lieu de poursuivre une carrière militaire ou administrative au service d’un autre seigneur, il choisit… le retrait.
 
-Une reconversion professionnelle radicale, avouons-le.
-Pourquoi ? J’aimerais bien le savoir. Malgré mes recherches, le mystère reste entier.
+Une reconversion professionnelle radicale, avouons-le.<br>
+Pourquoi ? J’aimerais bien le savoir. Malgré mes recherches, le mystère reste entier.<br>
 Tout ce que l’on sait, c’est qu’il se retire du monde pour devenir ermite.
 
-Loin des sabres et des arquebuses (eh oui, le Japon du XVIe siècle connaît déjà les armes à feu), Shinkurō s’installe sur les hauteurs de Kyōto, loin du tumulte de la ville.
+Loin des sabres et des arquebuses (eh oui, le Japon du XVIe siècle connaît déjà les armes à feu), Shinkurō s’installe sur les hauteurs de Kyōto, loin du tumulte de la ville.<br>
 C’est là qu’on l’imagine facilement, figé en méditation à l’entrée d’une caverne, grognant dès qu’un badaud s’approche trop près.
 
 Une caricature, bien sûr — et très loin de la réalité.
 
-Certes, Sokun passe les premières années de sa nouvelle vie en réclusion. Mes sources évoquent un mode de vie ascétique, en tant qu’ermite “laïque” (ou kojin) : il ne rejoint aucun ordre bouddhiste officiel, mais suit rigoureusement les pratiques zen de son enfance.
+Certes, Sokun passe les premières années de sa nouvelle vie en réclusion. Son mode de vie est ascétique, c'est un ermite “laïque” (ou *kojin*), c'est à dire qu'il ne rejoint aucun ordre bouddhiste officiel, mais suit rigoureusement les pratiques zen de son enfance.
 
-D’ailleurs, il adopte le nom de Shuan, qui signifie “ermitage sur le pic de la montagne”. Histoire de ne laisser aucun doute sur la nature de sa retraite.
+D’ailleurs, il adopte le nom de *Shuan*, qui signifie “ermitage sur le pic de la montagne”...histoire de ne laisser aucun doute sur la nature de sa retraite.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-15-liubei.webp){: .align-center}
 *Liu Bei Visits Zhuge Liang in His Hermitage Three Times (草廬三顧)** - Yosa Buson (与謝蕪村), ca. 1750–1784. Folding screen (two-panel byōbu). Nomura Art Museum, Kyoto. Source: Wikimedia Commons. Public Domain.*
 
-Lors de ses excursions dans la trépidante Kyōto, Sokun croise la route d’autres moines, venus de toutes les écoles : Shingon, Tendai, Nichiren…
+Lors de ses excursions dans la trépidante Kyōto, Sokun croise la route d’autres moines, venus de toutes les écoles : Shingon, Tendai, Nichiren… <br>
 On discute, on médite, on joue de la musique. Des échanges spirituels… et sonores.
 Car la musique est au cœur des préoccupations de notre ermite. Et plus précisément, l’hitoyogiri, cette petite flûte de bambou qui l’accompagne depuis l’enfance.
 
-Sokun s’y consacre corps et âme. Il recopie les pièces anciennes, adapte les mélodies contemporaines, tente de tout sauvegarder, transmettre, et réinventer.
-Mais il faut bien se rendre à l’évidence : la flûte qui rythme ses journées ne fait plus recette en ville. Les citadins lui préfèrent un instrument flambant neuf, tout droit venu de l’école Fuke.
+Sokun s’y consacre corps et âme. Il recopie les pièces anciennes, adapte les mélodies contemporaines, tente de tout sauvegarder avant qu'il soit trop tard. <br>
+Car il faut bien se rendre à l’évidence : la flûte qui rythme ses journées ne fait plus recette en ville. Les citadins lui préfèrent un instrument flambant neuf, tout droit venu de la tradition de Fuke.
 
-Pendant près de trois siècles pourtant, l’hitoyogiri avait été l’instrument de prédilection des samouraïs et des lettrés. Mais aujourd’hui, elle peine à survivre.
-Son registre est limité: une octave et demie tout au plus. Son volume discret peine à se faire entendre face aux koto ou shamisen des “guitar heroes” de la fin du XVIe siècle.
+Pendant près de trois siècles pourtant, l’hitoyogiri avait été l’instrument de prédilection des samouraïs et des lettrés. <br>
+Ce revirement du destin s'explique par son registre limité -une octave et demie tout au plus, et son volume discret qui peine à se faire entendre face aux koto ou shamisen des “guitar heroes” de la fin du XVIe siècle. <br>
 En face, le shakuhachi de Fuke débarque en fanfare, avec ses sonorités profondes et sa capacité à porter la voix des temps nouveaux.
 
 Mais Sokun n’a pas dit son dernier mot. Il est convaincu que les deux instruments peuvent cohabiter, et il compte bien le prouver.
 
-À vingt-deux ans, ses prouesses à l’hitoyogiri sont connues dans toute la région. Sa réputation lui ouvre les portes des salons d’érudits et des pavillons de thé, où l’on improvise des performances musicales entre deux poèmes et quelques débats philosophiques.
-Malgré son mode de vie austère, Sokun semble évoluer sans peine au milieu de cette effervescence intellectuelle. Il se lie avec des officiers de l’État, des samouraïs de haut rang, et même avec le gouverneur de Kyōto.
+À vingt-deux ans, ses prouesses à l’hitoyogiri sont connues dans toute la région. Sa réputation lui ouvre les portes des salons d’érudits et des pavillons de thé, où l’on apprécie ses performances musicales entre deux poèmes et quelques débats philosophiques. <br>
+Malgré son mode de vie austère, Sokun semble évoluer sans peine au milieu de cette effervescence intellectuelle. Il se lie avec des officiers de l’État, des samouraïs de haut rang, et même avec le gouverneur de Kyōto. <br>
 On rapporte qu’il se déplace à cheval en leur compagnie : un signe clair de sa proximité avec l’élite de son époque.
 
-Et comme toute grande ascension s’accompagne de changements de noms (nous sommes au Japon, après tout), Sokun ajuste aussi son identité.
-Vers 1590, il prend le nom de Soku, tout en gardant Shuan pour ses activités artistiques.
-Plus tard, autour de la quarantaine, il adopte définitivement Sokun, sans totalement abandonner Shuan, qu’il utilise encore de temps à autre.
+Et comme toute grande ascension s’accompagne d'un décorum adéquat (nous sommes au Japon, après tout), Sokun ajuste aussi son identité publique.
+Vers 1590, il prend le nom de *Soku*, tout en gardant *Shuan* pour ses activités artistiques.
+Plus tard, autour de la quarantaine, il adopte définitivement *Sokun*...sans totalement abandonner *Shuan*, qu’il utilise encore de temps à autre.
 
-Ses proches ont probablement fini par lui inventer un surnom maison - et permanent- histoire d’éviter le casse-tête.
+Ses proches ont probablement fini par lui inventer un surnom maison -et permanent- histoire d’éviter le casse-tête.
 
-J’ai lu quelque part (toutes mes sources sont au bas de cet article) que Shuan serait un pseudonyme artistique, tandis que Sokun relèverait d’une forme d’appellation honorifique, soulignant sa distance vis-à-vis de la société séculaire.
+J’ai lu quelque part (toutes mes sources sont au bas de cet article) que *Shuan* serait un pseudonyme artistique, tandis que *Sokun* relèverait d’une forme d’appellation honorifique, soulignant sa distance vis-à-vis de la société séculaire.
 
 ## La naissance d’une école
 
-La légende raconte que deux générations avant Sokun, un mystérieux étranger aurait enseigné le hitoyogiri à un vieux maître nommé Sosa.
-Celui-ci aurait ensuite transmis son savoir à une poignée de disciples triés sur le volet. Sokun appartiendrait à cette lignée.
+La légende raconte que deux générations avant Sokun, un mystérieux étranger aurait enseigné l'hitoyogiri à un vieux maître nommé Sosa.<br>
+Celui-ci aurait ensuite transmis son savoir à une poignée de disciples triés sur le volet, dont serait Sokun l'héritier.
 
-En hommage à son maître, il fonde une école portant son nom : la Sosa-ryū est née, et nous sommes en l’an 1600.
-Le Japon entre alors dans ce qui deviendra l’époque Edo.
-Quant à Sokun, il est désormais reconnu comme un flûtiste émérite, et les élèves affluent pour apprendre l’art du hitoyogiri à ses côtés.
+En hommage à son maître, il fonde une école portant son nom : la Sosa-ryū est née, et nous sommes aux alentours de l’an 1600.<br>
+Le Japon entre alors dans ce qui deviendra l’époque Edo.<br>
+Quant à Sokun, il est désormais reconnu comme un flûtiste émérite, et les élèves affluent pour apprendre l’art de l'hitoyogiri à ses côtés.
 
-L’instrument, pourtant, est discret. Presque banal.
-De nos jours, on le reléguerait peut-être au rang des flûtes à bec (une injustice envers un instrument bien sympa - salutations à mes amis flûtistes, j’en ai moi-même joué pendant une bonne décennie). Et pourtant… il suffit de l’avoir en main pour réaliser sa complexité.
+L’instrument, pourtant, est discret. Presque banal.<br>
+De nos jours, on le reléguerait peut-être au rang des flûtes à bec (*une injustice envers un instrument bien sympa - salutations à mes amis flûtistes, j’en ai moi-même joué pendant une bonne décennie*). Et pourtant… il suffit de l’avoir en main pour réaliser sa complexité.
 
 Non seulement il est imprégné de pensée taoïste, mais il exige une maîtrise particulière : chaque note doit être ajustée “à la bouche”, selon non pas une mais cinq échelles musicales, chacune associée à une saison — comme dans le gagaku, la musique de cour impériale.
 
-J’y consacrerai au moins un article… ou, me connaissant, plusieurs. Le contexte culturel qui entoure l’hitoyogiri est tout simplement fascinant !
+J’y consacrerai au moins un article… ou, me connaissant, plusieurs. Le contexte culturel qui entoure l’hitoyogiri est tout simplement *fascinant* !
 
-Sosa, dit-on, enseignait principalement selon l’un de ces cinq modes : Oshiki, lié à l’été et à une longueur de flûte bien spécifique (car l’hitoyogiri existe en cinq longueurs différentes).
+Sokun enseigne principalement selon l’un de ces cinq modes : Oshiki, lié à l’été et à une longueur de flûte bien spécifique, car l’hitoyogiri existe en cinq longueurs différentes.<br>
 Et ce détail a son importance.
 
-Car Sokun, depuis son ermitage, ne se contente pas de consigner la musique : il fabrique aussi les flûtes.
+Car Sokun, depuis son ermitage, ne se contente pas de coucher la tradition orale sur papier: il façonne aussi les flûtes de son école, et l'on raconte qu'elles sont d'une qualité rare.
 Parallèlement, il lit les classiques chinois, médite, et continue de potasser… l’art militaire.
-D’ailleurs, il finira par mêler les deux en une sorte de théorie unifiée où musique et stratégie dialoguent — comme un oracle sonore. (Je vous en reparlerai, promis.)
+D’ailleurs, il finira par mêler les deux en une sorte de théorie unifiée où musique et stratégie dialoguent — comme un oracle sonore. 
 
 Autant dire qu’Ōmori Sōkun ne chôme pas.
 
-Et pourtant, dans cet emploi du temps chargé, il trouve encore le temps de se lancer dans une nouvelle mission, et pas des moindres : sauver l’hitoyogiri de l’oubli.
-Pour cela, il adapte des pièces contemporaines pour répondre aux goûts de l’époque, mais prend aussi soin de consigner les morceaux anciens — appelés “te” — qui commencent à disparaître.
-Ces pièces lentes, méditatives, sans paroles, accompagnent le cycle des saisons et visent à faciliter l’éveil spirituel.
+Et pourtant, au coeur d'emploi du temps déjà bien chargé, il trouve encore l'élan de se consacrer à une nouvelle mission, et non des moindres : sauver l’hitoyogiri de l’oubli.
+Pour ce faire, il adapte des pièces contemporaines afin de répondre aux sensibilités de l’époque, tout en prenant soin de consigner les compositions anciennes — appelés “te” — dont la transmission s'effrite dangereusement. <br>
+Lentes, méditatives, sans paroles, ces pièces accompagnent le cycle des saisons et visent à favoriser l’éveil spirituel.
 
 Peut-être sont-elles — mais ce n’est qu’une hypothèse — les ancêtres des honkyoku, ces morceaux méditatifs joués plus tard sur le shakuhachi de l’école Fuke.
 
