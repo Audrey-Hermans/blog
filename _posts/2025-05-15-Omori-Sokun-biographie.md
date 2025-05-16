@@ -85,6 +85,9 @@ Certes, Sokun passe les premières années de sa nouvelle vie en réclusion. Mes
 
 D’ailleurs, il adopte le nom de Shuan, qui signifie “ermitage sur le pic de la montagne”. Histoire de ne laisser aucun doute sur la nature de sa retraite.
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-15-liubei.webp){: .align-center}
+*Liu Bei Visits Zhuge Liang in His Hermitage Three Times (草廬三顧)** - Yosa Buson (与謝蕪村), ca. 1750–1784. Folding screen (two-panel byōbu). Nomura Art Museum, Kyoto. Source: Wikimedia Commons. Public Domain.*
+
 Lors de ses excursions dans la trépidante Kyōto, Sokun croise la route d’autres moines, venus de toutes les écoles : Shingon, Tendai, Nichiren…
 On discute, on médite, on joue de la musique. Des échanges spirituels… et sonores.
 Car la musique est au cœur des préoccupations de notre ermite. Et plus précisément, l’hitoyogiri, cette petite flûte de bambou qui l’accompagne depuis l’enfance.
