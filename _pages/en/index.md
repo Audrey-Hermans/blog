@@ -33,7 +33,7 @@ What I carry in my backpack as an explorer of the present moment : a handful of 
 ### • [Blog](/tags/#english)
 This is my logbook.
 Notes from the winding road: stumbles and surprises,
-foggy mornings, sudden sunrises, and small wonders I don’t want to forget.
+foggy mornings, eddies in the water, stormy nights, and small wonders I don’t want to forget.
 
 ### • [Gallery](/fr/galerie)  
 You know those strange little treasures tucked away in attics — or dreams?
