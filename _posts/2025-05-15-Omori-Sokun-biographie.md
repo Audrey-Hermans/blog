@@ -7,12 +7,12 @@ lang: fr
 tags: ["français"]
 ---
 
-Me revoilà, et si tu te demandes ce qui se cache dans ma besace d’ermite flûté, tu as raison de te poser la question! Je t’apporte une histoire. Ou plutôt le récit d’une vie: celle d’un maître dont la voix résonne chaque semaine à travers les notes de mon hitoyogiri.
-“Ton quoi? Tu joues pas du shakuhachi?”
-Si, si. Mais je joue aussi de l’hitoyogiri, l’ancêtre du shakuhachi de Fuke. D’ailleurs, avant que le shakuhachi de Fuke ne devienne LE shakuhachi, l’hitoyogiri s’appellait shakuhachi.
+Me revoilà, et si tu te demandes ce qui se cache dans ma besace d’ermite flûté, tu as raison de te poser la question! <br> Je t’apporte une histoire. Ou plutôt le récit d’une vie: celle d’un maître dont la voix résonne chaque semaine à travers les notes de mon hitoyogiri. <br>
+*“Ton quoi? Tu joues pas du shakuhachi?”* <br>
+Si, si. Mais je joue aussi de *l’hitoyogiri*, l’ancêtre du *shakuhachi de Fuke*. D’ailleurs, avant que le *shakuhachi de Fuke* ne devienne LE shakuhachi, *l’hitoyogiri* s’appellait shakuhachi.
 
-J’en vois au fond qui sont largués.
-C’est pas grave, on va clarifier ça plus loin.
+J’en vois au fond qui sont largués. <br>
+C’est pas grave, on va clarifier ça plus loin. <br>
 Venez!
 
 ## Mais quelle note m’a piquée?
@@ -20,7 +20,7 @@ Venez!
 Peut-être est-ce à force de voir ce nom: “Ōmori Sōkun”, apparaître dans mes cours.
 A force de jouer les musiques de son école, de lire des citations tirées de ses manuscrits, et avec le temps, d’imaginer la main qui a tracé, il y a quatre siècles, les signes que j’apprends à déchiffrer et auxquels je m’évertue à donner une forme sonore.
 
-A vrai dire, je soupçonne Omori Sokun d’être tapis à la lisière entre les mondes, l’oreille tendue, à l'affût de la moindre fausse note. Ou peut-être en quête de ceux qui auraient envie de savoir qui il était, au-delà des manuscrits scolaires qu’il a passé tant d’années à rédiger.
+A vrai dire, je soupçonne Omori Sokun d’être tapis à la lisière entre les mondes, l’oreille tendue, à l'affût de la moindre fausse note. Ou peut-être en quête de ceux qui auraient envie de savoir qui il était, au-delà des manuscrits scolaires qu’il a passé tant d’années à rédiger. <br>
 Si c’est le cas, il a fait mouche.
 
 Petit à petit, il s’est installé dans mon quotidien comme une présence fantomatique et insistante. Malgré les 400 ans qui nous séparent, je me suis lancé le défi de remonter le temps pour faire sa connaissance.
@@ -33,7 +33,7 @@ Il m’a fallu quelques jours de plus pour mettre tout ça en…musique, si vous
 
 Mes sources sont listées au bas de cet article et vous verrez qu’elles se contredisent parfois sur certains points (par exemple, sur la façon dont l’ancêtre de Sokun aurait occi Masashige). Dans ce cas, je laisse flotter un flou artistique plutôt que de colporter une information incorrecte. Et quand je mentionne “les sources”, je n’en parle pas comme une pythie, mais à force de couper et recouper les notes de l’un et de l’autre, j’ai un peu perdu le fil de qui a dit quoi. Du coup, tout est en bas de page et vous pouvez vous amuser, si le coeur vous en dit, à attribuer chaque note à une personne spécifique. 
 
-Si par chance vous en savez plus sur la vie d’Ōmori Sōkun, que vous relevez une erreur dans ce que j’ai écrit, ou si vous avez un manuscrit secret en votre possession qui relate les menus détails de son quotidien,  je serai ravie de corriger les éventuelles coquilles glissées entre ces lignes (et absolument extatique d’en savoir plus sur ce personnage dont j’ai passé tant d’heure à ramener à la vie!).
+Si par chance vous en savez plus sur la vie d’Ōmori Sōkun, que vous relevez une erreur dans ce que j’ai écrit, ou si vous avez un manuscrit secret en votre possession qui relate les menus détails de son quotidien,  je serai ravie de corriger les éventuelles coquilles glissées entre ces lignes (et absolument extatique d’en savoir plus sur ce personnage que j’ai passé tant d’heures à ramener à la vie!).
 
 Vous voilà prévenus, on peut y aller.
 
