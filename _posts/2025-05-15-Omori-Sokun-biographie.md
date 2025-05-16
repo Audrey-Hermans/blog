@@ -155,6 +155,9 @@ Comme l’hitoyogiri s’invite dans les pavillons de thé et les jardins des le
 Ce savant dosage entre tradition et modernité assure le succès de l’école.
 Les airs entraînants attirent les débutants de tous horizons, tandis que les pièces profondes nourrissent l’exigence spirituelle.
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-15-yoshinoyama.webp){: .align-center}
+*Cherry Blossoms at Yoshino _By Katsushika Hokusai, ca. 1833._ Woodblock print; ink and color on paper. The Metropolitan Museum of Art (Accession no. JP2923). Public Domain.*
+
 Sokun parvient à créer un équilibre subtil entre art de rue et quête intérieure.
 L’année suivante, il rédige un nouveau traité, le Ritsuryō Bintōshō, un texte érudit sur les douze tons chinois, où il entremêle musique, cosmologie, accords… et présages.
 Ce que j’appelle sa fameuse “théorie d’unification”.
