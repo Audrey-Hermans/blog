@@ -193,7 +193,7 @@ On observe chez Sokun, dans les dernières années de sa vie, une véritable fr�
 Au total, il aura consigné pas moins de 70 pièces musicales, réparties selon les cinq *chōshi* (quatre saisons + intersaison). <br>
 Grâce à lui, l'hitoyogiri s'est affranchi de l'oralité pour devenir légende écrite — prête à traverser les siècles avec un souffle intact.
 
-##L’héritage d’un ermite superstar
+## L’héritage d’un ermite superstar
 
 La musique de Sokun franchit bientôt les montagnes et éveille la curiosité de l’empereur Goyōzei.
 Nous sommes aux alentours de 1605.
