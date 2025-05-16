@@ -57,6 +57,9 @@ Né le 15 mars 1570 à Kyōto, dans une famille modeste d’origine guerrière, 
 
 La légende raconte qu’Hikoshichi aurait affronté le mythique Kusunoki Masashige, symbole de la loyauté samouraï. On comprend vite que le poids des lignées et des histoires héroïques plane sur l’enfance du jeune flûtiste.
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-15-masashige.webp){: .align-center}
+*Kusunoki Masashige (楠正成) - par Utagawa Kuniyoshi, 1843–44. Woodblock print (oban tate-e). British Museum (Accession no. 2008,3037.15307). Public domain.*
+
 Pendant que cette marmite historique mijote, Shinkurō (futur Sōkun) révèle très tôt un talent pour la musique. Il s’initie à la flûte hitoyogiri auprès de plusieurs moines, notamment du temple Myōken-ji.
 En parallèle, il suit un enseignement bouddhiste zen auprès de Tenshuku Sōgan, maître de la lignée Rinzai, dans un autre temple que l’on peut encore visiter aujourd’hui : le Daitoku-ji.
 
