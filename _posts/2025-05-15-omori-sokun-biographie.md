@@ -140,7 +140,7 @@ D’ailleurs, il finira par mêler les deux en une sorte de théorie unifiée o�
 
 Autant dire qu’Ōmori Sōkun ne chôme pas.
 
-Et pourtant, au coeur d'un emploi du temps déjà bien chargé, il trouve encore l'élan de se consacrer à une nouvelle mission, et non des moindres : sauver l’hitoyogiri de l’oubli.
+Et pourtant, au coeur d'un emploi du temps déjà bien chargé, il trouve encore l'élan de se consacrer à cette mission qui, on l'a vu plus haut, ne peut attendre: sauver l’hitoyogiri de l’oubli.
 Pour ce faire, il adapte des pièces contemporaines afin de répondre aux sensibilités de l’époque, tout en prenant soin de consigner les compositions anciennes — appelés “te” — dont la transmission s'effrite dangereusement. <br>
 Lentes, méditatives, sans paroles, ces pièces accompagnent le cycle des saisons et visent à favoriser l’éveil spirituel.
 
