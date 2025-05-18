@@ -231,11 +231,12 @@ The kind that makes your heart wobble and your eyes go a bit funny.
 
 Here’s a list of the surviving works attributed to Sokun.
 Not all of them have been digitised yet, and consulting them often means visiting libraries like Yōmei Bunko in Kyōto or Geijutsu Daigaku in Tōkyō.
-	•	Tanteki Hidenfu (Secret Notes of the Little Flute, 1608): the earliest known text on the hitoyogiri—a true bible!Preserved at the Miyagi Michio Memorial Museum.
-	•	Sosa-ryū Shakuhachi Tesu narabini Shoka Mokuroku (1622): outlines the pieces and fingering systems specific to each piece (not each note—a unique feature of the hitoyogiri, which I’ll return to in another post).
-	•	Shakuhachi Hiden-roku (Secret Records of the Shakuhachi, 1623): little information is available about this manuscript—most likely a collection of oral teachings intended for advanced students.
-	•	Shakuhachi Tesu Mokuroku (1624): a catalogue of pieces for shakuhachi; a signed copy in Sokun’s own hand survives in a private collection known as Fushin’an Bunko.
-	•	Shakuhachi Sōden-shū (1624): a transmission anthology, considered a compendium of lineage knowledge.
+
+- Tanteki Hidenfu (Secret Notes of the Little Flute, 1608): the earliest known text on the hitoyogiri—a true bible!Preserved at the Miyagi Michio Memorial Museum.
+- Sosa-ryū Shakuhachi Tesu narabini Shoka Mokuroku (1622): outlines the pieces and fingering systems specific to each piece (not each note—a unique feature of the hitoyogiri, which I’ll return to in another post).
+- Shakuhachi Hiden-roku (Secret Records of the Shakuhachi, 1623): little information is available about this manuscript—most likely a collection of oral teachings intended for advanced students.
+- Shakuhachi Tesu Mokuroku (1624): a catalogue of pieces for shakuhachi; a signed copy in Sokun’s own hand survives in a private collection known as Fushin’an Bunko.
+- Shakuhachi Sōden-shū (1624): a transmission anthology, considered a compendium of lineage knowledge.
 
 
 In the final years of his life, Sokun enters a kind of writing frenzy: his last known texts date from 1624, and he passes away the following year.
@@ -278,11 +279,11 @@ I do have a few doubts about Nobunaga picking out a small page playing the flute
 
 
 Other key figures crossed his path—and if you happen to be a bit of a shakuhachi nerd (I am too *—and I mean that as the highest compliment*), a few of these names might ring a bell:
-	•	Nakamura Sōzan (or Soza): published the Shichiku Shoshin-shū in 1664, one of the first printed manuals for hitoyogiri (not to be confused with the later work by Juntei in the 18th century, which bears the same title).
-	•	Murata Sōsei: compiled a collection of pieces in 1669, the Dōshokyoku, published in Kyōto—a sign that the Sosa-ryū tradition was still very much alive in the Kansai region during the 17th century.
-	•	Sashida Ichion (“Shida”): an active performer in Edo (Tokyo), and founder of the Sashida-ryū school.
-	•	Hara Zesai (†1669): shakuhachi player, flute maker, and self-declared heir to the Sosa-ryū lineage.
-	•	Inoue Shunzui: a scholar and the last known passionate advocate for the hitoyogiri; he passed away in 1914 and was one of the last musicians to play the instrument in the 19th century.
+- Nakamura Sōzan (or Soza): published the Shichiku Shoshin-shū in 1664, one of the first printed manuals for hitoyogiri (not to be confused with the later work by Juntei in the 18th century, which bears the same title).
+- Murata Sōsei: compiled a collection of pieces in 1669, the Dōshokyoku, published in Kyōto—a sign that the Sosa-ryū tradition was still very much alive in the Kansai region during the 17th century.
+- Sashida Ichion (“Shida”): an active performer in Edo (Tokyo), and founder of the Sashida-ryū school.
+- Hara Zesai (†1669): shakuhachi player, flute maker, and self-declared heir to the Sosa-ryū lineage.
+- Inoue Shunzui: a scholar and the last known passionate advocate for the hitoyogiri; he passed away in 1914 and was one of the last musicians to play the instrument in the 19th century.
 
 ## Twilight of a soul, rebirth of an Art
 
