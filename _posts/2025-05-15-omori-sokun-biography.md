@@ -280,9 +280,9 @@ Other key figures crossed his path—and if you happen to be a bit of a shakuhac
 - Nakamura Sōzan (or Soza): published the Shichiku Shoshin-shū in 1664, one of the first printed manuals for hitoyogiri (not to be confused with the later work by Juntei in the 18th century, which bears the same title).
 - Murata Sōsei: compiled a collection of pieces in 1669, the Dōshokyoku, published in Kyōto—a sign that the Sosa-ryū tradition was still very much alive in the Kansai region during the 17th century.
 - Sashida Ichion (“Shida”): an active performer in Edo (Tokyo), and founder of the Sashida-ryū school.
-- Hara Zesai (†1669): shakuhachi player, flute maker, and self-declared heir to the Sosa-ryū lineage.
+- Hara Zesai (†1669): shakuhachi player, flute maker, and self-declared heir to the Sosa-ryū lineage. <br>
 And closer to us :
-- Inoue Shunzui: a scholar and passionate advocate for the hitoyogiri during the 19th Century, even though the little flute was already extinct.
+- Inoue Shunzui: a scholar and passionate advocate for the hitoyogiri during the 19th Century, even though by this time, the little flute was already extinct.
 
 ## Twilight of a soul, rebirth of an Art
 
