@@ -41,15 +41,15 @@ The computer overheated, my brain did too. <br>
 And here we are.
 
 My sources are listed at the bottom of this article, and you’ll see they sometimes contradict one another (for instance, about how Sōkun’s ancestor may or may not have dispatched Masashige). In such cases, I prefer to let a bit of artistic blur remain rather than risk passing on misinformation.
-And when I mention “the sources,” I don’t mean that in some prophetic or all-knowing sense—after so much cross-checking and note-cutting, I honestly lost track of who said what. So everything’s down at the bottom, and if you feel like playing detective, you’re more than welcome to match each detail to its original author.
+And when I mention “the sources,” I don’t mean that in some prophetic or all-knowing sense —after so much cross-checking and note-cutting, I honestly lost track of who said what. So everything’s down at the bottom, and if you feel like playing detective, you’re more than welcome to match each detail to its original author.
 
-If, by any chance, you know more about the life of Ōmori Sōkun—if you spot an error in what I’ve written, or (dare I dream?) if you happen to own a secret manuscript detailing the finer points of his daily life—I’d be delighted to correct any slip-ups that found their way in. And absolutely ecstatic to learn more about this figure I’ve spent so many hours trying to bring back to life.
+If, by any chance, you know more about the life of Ōmori Sōkun —if you spot an error in what I’ve written, or (dare I dream?) if you happen to own a secret manuscript detailing the finer points of his daily life— I’d be delighted to correct any slip-ups that found their way in. And absolutely ecstatic to learn more about this figure I’ve spent so many hours trying to bring back to life.
 
 Ready? Let’s go.
 
 Buckle up—we’re taking off. Destination: Japan.
 But not the Japan of travel brochures.
-We’re heading to 1582. The Sengoku period is in full swing, and it can be summed up in two words: feudal chaos.
+We’re heading to 1582. The Sengoku period is in full swing, and it can be summed up in two words: *feudal chaos*.
 
 Nobunaga, the daimyō (warlord) of the Oda clan—nicknamed “the Demon King” for his ruthless military campaigns—has just died.
 
@@ -72,19 +72,19 @@ Or rather—there’s the boy we’re looking for.
 
 His name is He Shinkurō, sometimes written Shinjurō.
 A samurai in the making.
-An mind tuned to tactics.
+A mind tuned to tactics.
 A musician with a growing voice.
 
 But he’s not yet the Ōmori Sōkun that history will remember.
 
 Born on March 15, 1570, in Kyōto, into a modest family of warrior lineage, Shinkurō grew up in the shadow of a famous ancestor: Ōmori Hikoshichi.
-Legend has it that Hikoshichi once crossed blades with the legendary Kusunoki Masashige—a symbol of unwavering samurai loyalty.
-The weight of his bloodline hangs over Shinkuro like a distant drumbeat—felt more than heard—as the young flutist begins to find his path.
+Legend has it that Hikoshichi once crossed blades with the legendary Kusunoki Masashige —a symbol of unwavering samurai loyalty.
+The weight of his bloodline hangs over Shinkuro like a distant drumbeat —felt more than heard— as the young flutist begins to find his path.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-15-masashige.webp){: .align-center}
 *Kusunoki Masashige (楠正成) - by Utagawa Kuniyoshi, 1843–44. Woodblock print (oban tate-e). British Museum (Accession no. 2008,3037.15307). Public domain.*
 
-While this historical stew bubbles away, Shinkurō—the future Sōkun—is already showing a remarkable gift for music.
+While this historical stew bubbles away, Shinkurō —the future Sōkun— is already showing a remarkable gift for music.
 His instrument of choice is the hitoyogiri, which he studies under the guidance of several monks, most notably at the temple of Myōken-ji.
 At the same time, he receives a Zen Buddhist training from Tenshuku Sōgan, a Rinzai master, at another temple you can still visit today: Daitoku-ji.
 
@@ -107,20 +107,20 @@ All we know is that he withdraws from the world to become a hermit.
 
 Far from swords and arquebuses (yes, 16th-century Japan already had firearms), Shinkurō retreats to the hills above Kyōto, away from the noise and chaos of the city.
 
-It’s easy to picture him there—frozen in meditation at the mouth of a cave, grumbling whenever a passerby gets too close.
+It’s easy to picture him there —frozen in meditation at the mouth of a cave, grumbling whenever a passerby gets too close.
 
-A caricature, of course—nowhere near the truth.
+A caricature, of course —nowhere near the truth.
 
 Granted, Sokun does spend the early years of his new life in seclusion.
-His lifestyle is austere. He becomes a secular hermit (kojin)—that is, he doesn’t join any official Buddhist order, but rigorously follows the Zen practices he learned in his youth.
+His lifestyle is austere. He becomes a secular hermit (koji)—that is, he doesn’t join any official Buddhist order, but rigorously follows the Zen practices he learned in his youth.
 
-He even adopts a new name: Shuan, meaning “Hermitage on the Mountain Peak.”
+He even adopts a new name: *Shuan*, meaning “Hermitage on the Mountain Peak.”
 Just in case there was any doubt about the nature of his retreat.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-15-liubei.webp){: .align-center}
 *Liu Bei Visits Zhuge Liang in His Hermitage Three Times (草廬三顧)** - Yosa Buson (与謝蕪村), ca. 1750–1784. Folding screen (two-panel byōbu). Nomura Art Museum, Kyoto. Source: Wikimedia Commons. Public Domain.*
 
-During his excursions into bustling Kyōto, Sokun crosses paths with monks from every school—Shingon, Tendai, Nichiren…
+During his excursions into bustling Kyōto, Sokun crosses paths with monks from every school —Shingon, Tendai, Nichiren…
 They talk, they meditate, they play music -trading thoughts on spirit and sound alike.
 
 Music lies at the very heart of our hermit’s concerns.
@@ -133,12 +133,12 @@ The problem? the flute that gives rhythm to his days has fallen out of favor in 
 Urban audiences now prefer a shiny new instrument fresh from the Fuke tradition.
 
 And yet, for nearly three centuries, the hitoyogiri has been the instrument of choice for samurai and scholars alike.
-Its fall from grace is easy enough to explain: a limited range—an octave and a half at best—and a modest volume that struggles to stand out against the koto or shamisen played by the “guitar heroes” of the late 16th century.
+Its fall from grace is easy enough to explain: a limited range —an octave and a half at best— and a modest volume that struggles to stand out against the koto or shamisen played by the “guitar heroes” of the late 16th century.
 
-By contrast, the Fuke-style shakuhachi arrives with a bang — boasting a whopping three scales, deeper tones, greater resonance, and a voice that suits the new age.
+By contrast, the Fuke-style shakuhachi arrives with a bang —boasting a whopping three scales, deeper tones, greater resonance, and a voice that suits the new age.
 
 But Sokun isn’t giving up.
-He’s convinced the two instruments can coexist—and he intends to prove it.
+He’s convinced the two instruments can coexist —and he intends to prove it.
 
 By the age of twenty-two, Sokun’s skill with the hitoyogiri is known throughout the region.
 His growing reputation opens the doors of literary salons and tea pavilions, where audiences savor his performances between poetry readings and philosophical debates.
@@ -148,21 +148,19 @@ He forms close ties with state officials, high-ranking samurai—and even the go
 It’s said he travels on horseback in their company: a clear sign of his proximity to the elite of his time.
 
 And, as every great ascent demands the proper decorum (this is Japan, after all), Sokun begins to refine his public identity.
-Around 1590, he adopts the name Soku, while continuing to use Shuan for his artistic endeavors.
-Later, in his forties, he formally settles on Sokun —though he doesn’t completely let go of Shuan, which still makes the occasional appearance.
+In his forties, he formally settles on *Sokun*: the "kun" (勲) in "Omori Sokun" is an honorary title indicating his service to the emperor - but we'll get to that), while continuing to use *Shuan* for his artistic endeavors.
 
 *His inner circle probably ended up inventing a nickname of their own—something permanent—just to avoid the whole naming headache.*
 
-I read somewhere (you’ll find all my sources at the end of this article) that Shuan may have been a kind of artistic pseudonym, while Sokun functioned more like an honorary title: one that reflected his distance from secular society.
-
 ## The birth of a school
 
-Legend has it that two generations before Sokun, a mysterious stranger taught the hitoyogiri to an old master named Sosa.
-That master, in turn, passed his knowledge on to a small group of carefully chosen disciples—among whom Sokun is said to be the heir.
+Legend has it that, at the dawn of the 16th century, a mysterious stranger appeared and taught the art of the hitoyogiri to an aging master named Sosa.
+In time, Sosa founded a school bearing his name and passed on his knowledge to a select group of disciples.
 
-In honor of his teacher, Sokun founds a school bearing his name: the Sosa-ryū is born, sometime around the year 1600.
-Japan is entering what will become the Edo period.
-As for Sokun, he is now widely recognized as a master flutist, and students begin flocking to him to study the art of the hitoyogiri.
+Among them —or perhaps later— Sokun inherited this legacy. 
+He would go on to build upon the foundations laid by the Sosa-ryū (“Sosa school”), refining and expanding the tradition.
+
+Our story now brings us to this very moment, around the year 1600, when Sokun is now widely recognized as a master of the hitoyogiri, drawing students from far and wide who seek to study under his guidance..
 
 Yet, the instrument itself is modest. Almost ordinary.
 Today, it might well be lumped in with the humble recorder—(*which would be unfair to a truly charming instrument—shoutout to my fellow recorder players; I played for a good decade myself*).
@@ -199,10 +197,10 @@ Unknowingly, he commits to paper the earliest known written record of music for 
 
 From an ethnomusicological perspective, this book brings together two opposite worlds.
 
-On one side, Yoshinoyama—a hit of the Edo period—emerges as a signature piece of the repertoire.
+On one side, *Yoshinoyama* —a hit of the Edo period— emerges as a signature piece of the repertoire.
 As hitoyogiri music seeps into tea pavilions and scholars’ gardens, this melody becomes a muse for countless poems celebrating cherry blossoms and their swirling petals —still dazzling us today.
 
-At the other end of the spectrum, pieces like *Sagariha* or *Tsushima*, drawn from samurai and monastic traditions, bring a meditative depth that balances the lighter, lilting tunes.
+At the other end of the spectrum, pieces like *Tsushima*, drawn from samurai and monastic traditions, bring a meditative depth that balances the lighter, lilting tunes.
 
 This careful interplay between entertainment and introspection fuels the school’s appeal:
 the lively pieces captivate beginners from all walks of life, while the contemplative works speak to the deeper demands of a spiritual path.
@@ -235,15 +233,14 @@ Not all of them have been digitised yet, and consulting them often means visitin
 - Tanteki Hidenfu (Secret Notes of the Little Flute, 1608): the earliest known text on the hitoyogiri—a true bible!Preserved at the Miyagi Michio Memorial Museum.
 - Sosa-ryū Shakuhachi Tesu narabini Shoka Mokuroku (1622): outlines the pieces and fingering systems specific to each piece (not each note—a unique feature of the hitoyogiri, which I’ll return to in another post).
 - Shakuhachi Hiden-roku (Secret Records of the Shakuhachi, 1623): little information is available about this manuscript—most likely a collection of oral teachings intended for advanced students.
-- Shakuhachi Tesu Mokuroku (1624): a catalogue of pieces for shakuhachi; a signed copy in Sokun’s own hand survives in a private collection known as Fushin’an Bunko.
+- Shakuhachi Tekasu Mokuroku (1624): a catalogue of pieces for shakuhachi; a signed copy in Sokun’s own hand survives in a private collection known as Fushin’an Bunko.
 - Shakuhachi Sōden-shū (1624): a transmission anthology, considered a compendium of lineage knowledge.
 
 
 In the final years of his life, Sokun enters a kind of writing frenzy: his last known texts date from 1624, and he passes away the following year.
-
 In total, he commits no fewer than 70 musical pieces to paper, organised according to the five chōshi (the four seasons, plus the interseason).
 
-Thanks to him, the hitoyogiri broke free from its oral roots to become a written legend—ready to carry its breath across the centuries, unbroken.
+Thanks to him, the hitoyogiri broke free from its oral roots to become a written legend —ready to carry its breath across the centuries, unbroken.
 
 ## The legacy of a Superstar Hermit
 
@@ -256,20 +253,21 @@ Clearly, Goyōzei was impressed: he commissions five flutes from Sokun, each cra
 
 This imperial gesture adds to Sokun’s growing reputation.
 Believe it or not, one of those very flutes has since entered legend.
-The emperor, charmed by its ethereal tone, lightly brushed a calligraphy onto its slender bamboo body: reion—spiritual tone.
+The emperor, charmed by its ethereal tone, lightly brushed a calligraphy onto its slender bamboo body: *reion* —spiritual tone.
+
 Insignificant little flute player that I am, I must say… *I couldn’t agree more*.
 
 Actually, a few flutes made by Ōmori Sōkun have survived the centuries and reached us.
 One is held at the Metropolitan Museum of Art in New York, while two others are on display at the Tokugawa Art Museum in Nagoya, Japan.
 
 Meanwhile, the Sosa-ryū school experiences a meteoric rise.
-The sound of the hitoyogiri resonates across all levels of society—from monasteries to tea pavilions.
-Sokun gains prestigious patronage, and his influence soon reaches the inner circle of Tokugawa Ieyasu himself—shogun, and de facto ruler of Japan.
+The sound of the hitoyogiri resonates across all levels of society —from monasteries to tea pavilions.
+Sokun gains prestigious patronage, and his influence soon reaches the inner circle of Tokugawa Ieyasu himself —shogun, and de facto ruler of Japan.
 
 For instance,the tea ceremony master Kobori Enshū (Masakazu) commissions a flute from him, one he named "White Rain".
 
 Even the monk-poet Ikkyū, known for his sharp wit and wild spirit, is said to have fallen under the spell of the little flute.
-It’s even whispered that Sokun may have taught the hitoyogiri to Tokugawa Ieyasu—or Oda Nobunaga himself (though that would have been at a rather tender age… *doubtful rise of left eyebrow*).
+It’s even whispered that Sokun may have taught the hitoyogiri to Tokugawa Ieyasu —or Oda Nobunaga himself (though that would have been at a rather tender age… *doubtful rise of left eyebrow*).
 
 If true, it would suggest that Sokun was already a remarkable player in his youth.
 And from an ethnomusicological perspective, it would support the idea that samurai carried their hitoyogiri with them on military campaigns.
@@ -283,11 +281,12 @@ Other key figures crossed his path—and if you happen to be a bit of a shakuhac
 - Murata Sōsei: compiled a collection of pieces in 1669, the Dōshokyoku, published in Kyōto—a sign that the Sosa-ryū tradition was still very much alive in the Kansai region during the 17th century.
 - Sashida Ichion (“Shida”): an active performer in Edo (Tokyo), and founder of the Sashida-ryū school.
 - Hara Zesai (†1669): shakuhachi player, flute maker, and self-declared heir to the Sosa-ryū lineage.
-- Inoue Shunzui: a scholar and the last known passionate advocate for the hitoyogiri; he passed away in 1914 and was one of the last musicians to play the instrument in the 19th century.
+And closer to us :
+- Inoue Shunzui: a scholar and passionate advocate for the hitoyogiri during the 19th Century, even though the little flute was already extinct.
 
 ## Twilight of a soul, rebirth of an Art
 
-From everything I’ve read—and perhaps this is part of why I feel so drawn to him—Sokun, despite his prestigious connections, always chose to return to the moss-covered stones of his hermitage, rather than surrender to the splendour and luxury of a city life he had more than earned.
+From everything I’ve read so far —and perhaps this is part of why I feel so drawn to him— Sokun, despite his prestigious connections, always chose to return to the moss-covered stones of his hermitage, rather than surrender to the splendour and luxury of a city life he had more than earned.
 
 Unlike other masters of his time, he sought neither a post at a grand temple nor a position within the shogunal administration.
 
@@ -316,7 +315,7 @@ Yamamoto Mantsu wrote of them, in 1813:
 “The first Sokun (Ōmori) was a master. The one in the middle had many talents. The last… was not so gifted.
 But both were essential to the development of the hitoyogiri.”
 
-But the winds shifted.
+The winds shifted.
 
 The shakuhachi of the Fuke school —more modern, more adaptable— eventually eclipsed the hitoyogiri.
 Despite a few isolated efforts to revive it, the little flute slipped quietly into obscurity.
@@ -396,9 +395,11 @@ nor its wisdom.
 - **『邦楽百年史』** by 山田抄太郎 –  
   - Historical documentation of traditional music and flute traditions
 
-#Specialist Blogs & Online Research
+#Specialist Websites, Blogs & Online Research
+-**Hon-on.com** by Nick Bellando
+  -About hitoyogiri playing, making and old style shakuhachi
 - **Suichiku Hōgo (水竹芳語)** by Kunimi Masashi –  
-  - Blog series deeply analyzing Sōkun’s manuscripts, lineage, and teachings
+  -Blog series deeply analyzing Sōkun’s manuscripts, lineage, and teachings
 - **komuso.com** –  
   - Resource on shakuhachi and komusō history, with a profile on Ōmori Sōkun
 - **Biglobe Ne.jp (盲人文化史年表)** –  
