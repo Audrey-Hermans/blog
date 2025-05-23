@@ -208,7 +208,7 @@ the lively pieces captivate beginners from all walks of life, while the contempl
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-15-yoshinoyama.webp){: .align-center}
 *Cherry Blossoms at Yoshino _By Katsushika Hokusai, ca. 1833._ Woodblock print; ink and color on paper. The Metropolitan Museum of Art (Accession no. JP2923). Public Domain.*
 
-The following year, he composes a new treatise: the *Ritsuryō Bintōshō* —a scholarly text on the twelve Chinese tones, in which he weaves together music, cosmology, tuning systems… and omens.
+The following year, he composes a new treatise: the *Ritsuryō Bintōshō* —a scholarly text on the twelve Chinese tones, in which he weaves together music, cosmology, tuning systems… and something that looks a little like what you would find in the YiJing.
 
 It's hard to say exactly what he was aiming for. *I* like to call it his “unified theory.”
 But that’s another story, for another article.
