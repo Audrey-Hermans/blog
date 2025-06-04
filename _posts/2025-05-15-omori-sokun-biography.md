@@ -160,4 +160,4 @@ Week by week, I find new threads, stumble across new sources, and revisit old on
 The research has grown so extensive, I had to split this article in two—otherwise, we’d be venturing into novella territory.
 
 And yet, the journey is far from over. <br>
-Join me in Part 2 to continue exploring the remarkable legacy of Ōmori Sokun.
+Join me in [part 2](/sokun-part2/) to continue exploring the remarkable legacy of Ōmori Sokun.
