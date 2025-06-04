@@ -32,7 +32,7 @@ A space opened -just wide enough for a ghostly suggestion to seep in.
  
 Despite the 400 years that separate us, I set myself the challenge of reaching back through time to make his acquaintance.
 
-Lacking a machine to catapult me into the 16th century, I gathered what I had from class, then set off digging (thank you, Internet, labyrinth of knowledge) to piece together the story of his life.
+Lacking a machine to catapult me into the 16th century, I gathered the information I had from class, then set off digging (thank you, Internet, labyrinth of knowledge) to piece together the story of his life.
 At the end of a long day hunched over my computer, I emerged from my den hungry, dehydrated… and triumphant—like an archaeologist waving a shard of pottery from a forgotten civilization.
 
 A character was finally beginning to emerge from between the lines, and with him, the outline of a fascinating journey.
@@ -40,7 +40,8 @@ It took a few more days to put all that into… music -pun very much intended. <
 The computer overheated, my brain did too. <br>
 And here we are.
 
-My sources are listed at the bottom of this article, and you’ll see they sometimes contradict one another (for instance, about how Sōkun’s ancestor may or may not have dispatched Masashige). In such cases, I prefer to let a bit of artistic blur remain rather than risk passing on misinformation.
+This article is a work in progress: I keep refining it as I find more information.
+My sources are listed at the bottom of this article, and you’ll see that they sometimes contradict one another (for instance, about how Sōkun’s ancestor may or may not have dispatched Masashige). In such cases, I prefer to let a bit of artistic blur remain rather than risk passing on misinformation.
 And when I mention “the sources,” I don’t mean that in some prophetic or all-knowing sense —after so much cross-checking and note-cutting, I honestly lost track of who said what. So everything’s down at the bottom, and if you feel like playing detective, you’re more than welcome to match each detail to its original author.
 
 If, by any chance, you know more about the life of Ōmori Sōkun —if you spot an error in what I’ve written, or (dare I dream?) if you happen to own a secret manuscript detailing the finer points of his daily life— I’d be delighted to correct any slip-ups that found their way in. And absolutely ecstatic to learn more about this figure I’ve spent so many hours trying to bring back to life.
