@@ -71,7 +71,7 @@ Let’s get closer.
 There he is.
 Or rather—there’s the boy we’re looking for.
 
-His name is He Shinkurō, sometimes written Shinjurō.
+His name is Taira Shinkurō (平 新九郎), sometimes written Shinjurō.
 A samurai in the making.
 A mind tuned to tactics.
 A musician with a growing voice.
