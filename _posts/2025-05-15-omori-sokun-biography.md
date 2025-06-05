@@ -48,8 +48,9 @@ If, by any chance, you know more about the life of Ōmori Sōkun —if you spot 
 
 Ready? Let’s go.
 
-Buckle up—we’re taking off. Destination: Japan.
-But not the Japan of travel brochures.
+Buckle up—we’re taking off. <br>
+Destination: Japan. <br>
+But not the Japan of travel brochures. <br>
 We’re heading to 1582. The Sengoku period is in full swing, and it can be summed up in two words: *feudal chaos*.
 
 Nobunaga, the daimyō (warlord) of the Oda clan—nicknamed “the Demon King” for his ruthless military campaigns—has just died.
@@ -57,7 +58,7 @@ Nobunaga, the daimyō (warlord) of the Oda clan—nicknamed “the Demon King”
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-15-nobunaga.webp){: .align-center}
 *Portrait of Oda Nobunaga by Kanō Eitoku (狩野永徳), ca 1584. - Photographic reproduction of a hanging scroll at Daitokuji, Kyoto. - Source: Wikimedia Commons. Public Domain.*
 
-Without getting lost in the details, let’s just say he was more than a fearsome commander. Visionary strategist and shrewd businessman, his legacy runs deeper than it seems.
+Without getting lost in the details, let’s just say he was more than a fearsome commander. Visionary strategist and shrewd businessman, his legacy runs deeper than it seems. <br>
 And his death didn’t just rattle the nation —it shifted the course of Ōmori Sōkun's story, too.
 
 But before we get to that, let’s rewind a little.
