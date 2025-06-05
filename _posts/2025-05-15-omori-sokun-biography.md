@@ -119,7 +119,7 @@ From temple diaries and personal records that have survived, we can draw the fol
 
 - Temple Patronage: Records in the Rokuon-nichiroku (鹿苑日録, Keiun-era diaries of Daitoku-ji) show Sōkun performing regularly at high-profile ritual banquets and celebrations. This indicates that he was well integrated into the ritual and cultural life of Kyoto, rather than living in isolation.<br>
 
-- No Fixed Hermitage Mentioned: Although he distanced himself from worldly affairs, no extant source identifies a permanent hermitage (山居, sankyo). Instead, he seems to have alternated between Kyoto’s temple quarters —where he wrote manuscripts and taught— and periods of travel.
+- No Fixed Hermitage Mentioned: Although he distanced himself from worldly affairs, no extant source identifies a permanent hermitage (山居, sankyo). Instead, he seems to have alternated between Kyoto’s temple quarters —where he wrote manuscripts and taught— and periods that, to this day, remain lost in the mist of history.
 
 In short: the young Taira Shinkurō rooted himself in Kyoto’s Zen-temple circles, but adopted a semi-wandering lifestyle after 1582, focusing exclusively on hitoyogiri. There is no definitive record of a remote hermitage; instead, he appears to have moved between monastic residences and daimyō patronage sites in the greater Kyoto area.
 
