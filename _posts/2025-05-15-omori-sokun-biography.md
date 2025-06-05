@@ -97,26 +97,33 @@ He enters the service of Oda Nobunaga, likely as a page or young vassal.
 But the war drums beat the tempo of history, and in 1582, everything falls apart.
 The head of the Oda clan loses his life in the Incident at Honnō-ji.
 
-Shinkurō is only twelve years old.
-Suddenly, he finds himself without a lord, without a job —and at a decisive crossroads.
+Shinkurō is only twelve years old. Suddenly, he finds himself without a lord, without a job —and at a decisive crossroads.
 
-Instead of pursuing a military or administrative career under another warlord, he chooses… retreat.
+Instead of pursuing a military or administrative career under another warlord, he chooses retreat.
+One source suggests that the young boy opted for a life of renunciation after hearing a Zen anecdote known in Japanese as Saikō-sui (西江水), literally “West River water.” I’ve been unable to trace the origin of this account, so I’ll explore that theory more fully in a separate article.
 
-A radical career move, let’s be honest.
-Why? I wish I knew. 
-All we know is that he withdraws from the world to become a hermit.
+One thing’s for sure: Shinkurō leaves secular life to embark on a hermit’s journey.
 
-Far from swords and arquebuses (yes, 16th-century Japan already had firearms), Shinkurō retreats to the hills above Kyōto, away from the noise and chaos of the city.
+In the first iteration of this article, I assumed —based on the information I had gathered—that he had chosen a “classic” form of seclusion away from the hustle and bustle of the city: a hermitage in the hills around Kyoto.
 
-It’s easy to picture him there —frozen in meditation at the mouth of a cave, grumbling whenever a passerby gets too close.
+But that couldn’t be further from the truth.
+Research into hermitic trends in medieval Japan has revealed a very different picture —one in which spiritual life and worldly engagement were not always mutually exclusive.
+A very inspiring one, at that.
 
-A caricature, of course —nowhere near the truth.
+From temple diaries and personal records that have survived, we can draw the following conclusions:<br>
 
-Granted, Sokun does spend the early years of his new life in seclusion.
-His lifestyle is austere. He becomes a secular hermit (koji)—that is, he doesn’t join any official Buddhist order, but rigorously follows the Zen practices he learned in his youth.
+- Between Hermit and Wandering Devotee (浪蕩): After Honnōji, Shinkuro is described as abandoning secular life (“省みて世事を捨て浪蕩し、寸暇を惜しんで尺八に沒頭し…”), implying a semi-itinerant or reclusive existence —at least for certain periods— during which he prioritized spiritual and musical practice over material or official duties. <br>
 
-He even adopts a new name: *Shuan*, meaning “Hermitage on the Mountain Peak.”
-Just in case there was any doubt about the nature of his retreat.
+- #A Kyoto Base#: Most biographical traces place Sōkun in and around Kyoto’s temple districts throughout his life. His early training in temples suggests he maintained close ties to Zen-affiliated monastic communities.<br>
+
+- #Temple Patronage#: Records in the Rokuon-nichiroku (鹿苑日録, Keiun-era diaries of Daitoku-ji) show Sōkun performing regularly at high-profile ritual banquets and celebrations. This indicates that he was well integrated into the ritual and cultural life of Kyoto, rather than living in isolation.<br>
+
+- #No Fixed Hermitage Mentioned#: Although he distanced himself from worldly affairs, no extant source identifies a permanent hermitage (山居, sankyo). Instead, he seems to have alternated between Kyoto’s temple quarters —where he wrote manuscripts and taught— and periods of travel.
+
+In short: the young Taira Shinkurō rooted himself in Kyoto’s Zen-temple circles, but adopted a semi-wandering lifestyle after 1582, focusing exclusively on hitoyogiri. There is no definitive record of a remote hermitage; instead, he appears to have moved between monastic residences and daimyō patronage sites in the greater Kyoto area.
+
+At this point, he adopts a new name: Shuan, meaning “Hermitage on the Mountain Peak.” Just in case there was any doubt about the nature of his endeavor.
+This would remain his artistic name until his death.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-15-liubei.webp){: .align-center}
 *Liu Bei Visits Zhuge Liang in His Hermitage Three Times (草廬三顧)** - Yosa Buson (与謝蕪村), ca. 1750–1784. Folding screen (two-panel byōbu). Nomura Art Museum, Kyoto. Source: Wikimedia Commons. Public Domain.*
