@@ -115,11 +115,11 @@ From temple diaries and personal records that have survived, we can draw the fol
 
 - Between Hermit and Wandering Devotee (浪蕩): After Honnōji, Shinkuro is described as abandoning secular life (“省みて世事を捨て浪蕩し、寸暇を惜しんで尺八に沒頭し…”), implying a semi-itinerant or reclusive existence —at least for certain periods— during which he prioritized spiritual and musical practice over material or official duties. <br>
 
-- #A Kyoto Base#: Most biographical traces place Sōkun in and around Kyoto’s temple districts throughout his life. His early training in temples suggests he maintained close ties to Zen-affiliated monastic communities.<br>
+- A Kyoto Base: Most biographical traces place Sōkun in and around Kyoto’s temple districts throughout his life. His early training in temples suggests he maintained close ties to Zen-affiliated monastic communities.<br>
 
-- #Temple Patronage#: Records in the Rokuon-nichiroku (鹿苑日録, Keiun-era diaries of Daitoku-ji) show Sōkun performing regularly at high-profile ritual banquets and celebrations. This indicates that he was well integrated into the ritual and cultural life of Kyoto, rather than living in isolation.<br>
+- Temple Patronage: Records in the Rokuon-nichiroku (鹿苑日録, Keiun-era diaries of Daitoku-ji) show Sōkun performing regularly at high-profile ritual banquets and celebrations. This indicates that he was well integrated into the ritual and cultural life of Kyoto, rather than living in isolation.<br>
 
-- #No Fixed Hermitage Mentioned#: Although he distanced himself from worldly affairs, no extant source identifies a permanent hermitage (山居, sankyo). Instead, he seems to have alternated between Kyoto’s temple quarters —where he wrote manuscripts and taught— and periods of travel.
+- No Fixed Hermitage Mentioned: Although he distanced himself from worldly affairs, no extant source identifies a permanent hermitage (山居, sankyo). Instead, he seems to have alternated between Kyoto’s temple quarters —where he wrote manuscripts and taught— and periods of travel.
 
 In short: the young Taira Shinkurō rooted himself in Kyoto’s Zen-temple circles, but adopted a semi-wandering lifestyle after 1582, focusing exclusively on hitoyogiri. There is no definitive record of a remote hermitage; instead, he appears to have moved between monastic residences and daimyō patronage sites in the greater Kyoto area.
 
@@ -139,7 +139,7 @@ Sokun devotes himself to it, body and soul.
 He copies old pieces by hand, adapts contemporary melodies, and tries to preserve everything...before it’s too late.
 
 The problem? the flute that gives rhythm to his days has fallen out of favor in the city.
-Urban audiences now prefer a shiny new instrument fresh from the Fuke tradition.
+Urban audiences now prefer a shiny new instrument fresh from the Fuke tradition, nowadays'"shakuhachi".
 
 And yet, for nearly three centuries, the hitoyogiri has been the instrument of choice for samurai and scholars alike.
 Its fall from grace is easy enough to explain: a limited range —an octave and a half at best— and a modest volume that struggles to stand out against the koto or shamisen played by the “guitar heroes” of the late 16th century.
