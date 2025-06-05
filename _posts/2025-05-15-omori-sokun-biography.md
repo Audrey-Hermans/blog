@@ -149,17 +149,17 @@ By contrast, the Fuke-style shakuhachi arrives with a bang —boasting a whoppin
 But Sokun isn’t giving up.
 He’s convinced the two instruments can coexist —and he intends to prove it.
 
-By the age of twenty-two, Sokun’s skill with the hitoyogiri is known throughout the region.
-His growing reputation opens the doors of literary salons and tea pavilions, where audiences savor his performances between poetry readings and philosophical debates.
+By the age of twenty-two, Sōkun’s skill with the hitoyogiri is known throughout the region.
+His growing reputation opens the doors of literary salons and tea pavilions, where audiences savor his performances between poetry recitations and philosophical debates.
 
-Despite his austere lifestyle, Sokun seems perfectly at ease amid this intellectual buzz.
+By his thirties, diary entries from Zen priests serving as temple stewards at Rokuon-in (Shōkoku-ji) record him playing the flute late into the night at gatherings that could best be described as banquets awash in sake—though whether he joined in the merrymaking or remained a sober virtuoso remains unclear.
+
+Despite leading a relatively austere life, Sōkun appears perfectly at ease amid this swirl of intellectual and spiritual ferment.
 He forms close ties with state officials, high-ranking samurai—and even the governor of Kyōto.
-It’s said he travels on horseback in their company: a clear sign of his proximity to the elite of his time.
+It is said he traveled on horseback in their company: a clear sign of his proximity to the elite of his time.
 
 And, as every great ascent demands the proper decorum (this is Japan, after all), Sokun begins to refine his public identity.
 In his forties, he formally settles on *Sokun*: the "kun" (勲) in "Omori Sokun" is an honorary title indicating his service to the emperor - but we'll get to that), while continuing to use *Shuan* for his artistic endeavors.
-
-*His inner circle probably ended up inventing a nickname of their own—something permanent—just to avoid the whole naming headache.*
 
 ## Join me for part 2 of this article
 
