@@ -18,6 +18,11 @@ google_fonts:
   - family: "Source Code Pro"
     variants: "400,700"
 
+font:
+  name: "Source Code Pro"
+  heading: "Source Code Pro"
+  monospace: "Source Code Pro"
+
 # Site Settings
 locale                   : "fr-FR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
