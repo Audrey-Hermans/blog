@@ -9,7 +9,7 @@ tags: ["english"]
 
 # The Zen koan that — may have — turned a samurai into a hermit
 
-While recounting the story of my favorite hermit (and — dare I say it — possible role model *sigh*), I mentioned how, as a boy of just twelve, he abruptly left the samurai path to live as a lay hermit.
+While recounting [the story of my favorite hermit](/omori-sokun-biography/) (and — dare I say it — possible role model *sigh*), I mentioned how, as a boy of just twelve, he abruptly left the samurai path to live as a lay hermit.
 
 That moment always stayed with me. What could have led someone so young, in the rigid world of warrior training, to make such a radical turn? Especially in 1582 — two decades *before* the Tokugawa era began, when Japan would enter a long period of peace and many samurai, no longer needed for warfare, turned to spiritual or artistic pursuits, like the *komusō* monks.
 
