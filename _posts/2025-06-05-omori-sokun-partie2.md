@@ -27,10 +27,11 @@ J’espère que vous prendrez autant de plaisir à explorer ce recoin oublié de
 
 ## La naissance d’une école
 
-La légende raconte que deux générations avant Sokun, un mystérieux étranger aurait enseigné l'hitoyogiri à un vieux maître nommé Sosa.<br>
-Celui-ci aurait ensuite transmis son savoir à une poignée de disciples triés sur le volet, dont Sokun serait l'héritier.
+La légende raconte qu’à l’aube du XVIᵉ siècle, un mystérieux étranger aurait initié un vieux maître nommé Sosa à l’art de l'*hitoyogiri*.  
+Celui-ci aurait ensuite transmis son savoir à une poignée de disciples triés sur le volet — dont Sōkun serait l’héritier.
 
-En hommage à son maître, il fonde une école portant son nom : la Sosa-ryū est née, et nous sommes aux alentours de l’an 1600.<br>
+En hommage à son maître, il fonde une école qui portera son nom : la **Sosa-ryū** est née.  
+Nous sommes aux alentours de l’an 1600, soit un siècle après l’émergence des premiers enseignements de cette tradition musicale.<br>
 Le Japon entre alors dans ce qui deviendra l’époque Edo.<br>
 Quant à Sokun, il est désormais reconnu comme un flûtiste émérite, et les élèves affluent pour apprendre l’art de l'hitoyogiri à ses côtés.
 
@@ -44,7 +45,7 @@ J’y consacrerai au moins un article… ou, me connaissant, plusieurs. Le conte
 Sokun enseigne principalement selon l’un de ces cinq modes : Oshiki, lié à l’été et à une longueur de flûte bien spécifique, car l’hitoyogiri existe en cinq longueurs différentes.<br>
 Et ce détail a son importance.
 
-Car Sokun, depuis son ermitage, ne se contente pas de coucher la tradition orale sur papier: il façonne aussi les flûtes de son école, et l'on raconte qu'elles sont d'une qualité rare.
+Car Sokun ne se contente pas de coucher la tradition orale sur papier: il façonne aussi les flûtes de son école, et l'on raconte qu'elles sont d'une qualité rare.
 Parallèlement, il lit les classiques chinois, médite, et continue de potasser… l’art militaire.
 D’ailleurs, il finira par mêler les deux en une sorte de théorie unifiée où musique et stratégie dialoguent — comme un oracle sonore. 
 
@@ -143,7 +144,7 @@ D’autres figures importantes croisent son chemin, et si tu es un peu nerd du s
 
 ## Crépuscule d’une vie, renaissance d’un art
 
-Malgré sa renommée, Sokun semble avoir toujours préféré les pierres moussues de son ermitage aux fastes de la ville.
+Malgré sa renommée, Sokun semble avoir toujours préféré les pierres moussues des temples aux fastes de la ville.
 Contrairement à d’autres maîtres de son temps, il ne cherche ni poste dans un grand temple, ni fonction au sein de l’administration shogunale.
 
 Il reçoit tout de même le titre honorifique de *Hokkyo* (Pont du Dharma) — sans doute en reconnaissance de son talent plus que d’un rang religieux. <br>
@@ -152,7 +153,7 @@ Jusqu’au bout, il consigne avec minutie la tradition orale de l'hitoyogiri —
 
 Sōkun s’éteint en 1625, à Murakami, à l’âge de 56 ans.
 
-On raconte que cette année-là, il quitte son ermitage pour répondre à l’invitation du Lord Hori Naogori.<br>
+On raconte que cette année-là, se met en route pour Murikama, en réponse à l’invitation du Lord Hori Naogori.<br>
 En chemin, sa santé décline. Il meurt à Murakami, dans la province d’Echigo, le 10 avril 1625.<br>
 Certains disent qu’il avait tout prévu avant de partir… au cas où il ne reviendrait pas.<br>
 Son école lui survit quelque temps, portée par deux de ses disciples.
