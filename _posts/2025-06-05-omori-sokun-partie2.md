@@ -8,7 +8,7 @@ tags: ["français"]
 ---
 **Bienvenue dans la suite de la saga Ōmori Sōkun.** 
 
-Lorsque je me suis lancée le pari de rapiécer les fragments épars de sa vie — ces éclats portés par le vent, semés au fil des siècles et déposés ça et là, comme autant de témoignages oubliés — je n’imaginais pas qu’ils me conduiraient dans un tel labyrinthe.
+Lorsque je me suis [lancée le pari de rapiécer les fragments épars de sa vie](/omori-sokun-biographie/) — ces éclats portés par le vent, semés au fil des siècles et déposés ça et là, comme autant de témoignages oubliés — je n’imaginais pas qu’ils me conduiraient dans un tel labyrinthe.
 
 Et pourtant, me voilà — penchée sur des journaux de temples, à retracer des lignées oubliées et à plonger dans des manuscripts numérisés aussi obscurs que fascinants.  
 Je ne suis pas seule dans cette quête : les conseils de mon professeur, les travaux d’autres chercheurs — blogueurs, universitaires, archivistes discrets — ont chacun à leur façon contribué à éclairer le chemin.  
