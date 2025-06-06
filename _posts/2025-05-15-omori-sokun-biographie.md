@@ -87,48 +87,66 @@ Le maître du clan Oda périt dans l’incident de Honnō-ji.
 Shinkurō n’a que douze ans. <br>
 Le voilà sans maître, sans emploi, et face à un carrefour décisif.<br>
 
-Au lieu de poursuivre une carrière militaire ou administrative au service d’un autre seigneur, il choisit… le retrait.
+Au lieu de poursuivre une carrière militaire ou administrative auprès d’un autre seigneur de guerre, il choisit le retrait. <br>
+Une source suggère que le jeune garçon aurait opté pour une vie de renoncement après avoir entendu une anecdote zen connue au Japon sous le nom de Saikō-sui (西江水), littéralement « l’eau de la rivière de l’Ouest ».
+J’explorerai cette hypothèse plus en détail dans un article à part.
 
-Une reconversion professionnelle radicale, avouons-le.<br>
-Pourquoi ? J’aimerais bien le savoir. Malgré mes recherches, le mystère reste entier.<br>
-Tout ce que l’on sait, c’est qu’il se retire du monde pour devenir ermite.
+Une chose est certaine : Shinkurō quitte la vie séculière pour emprunter une voie de retrait et de contemplation, sans pour autant revêtir l’habit monastique.
 
-Loin des sabres et des arquebuses (eh oui, le Japon du XVIe siècle connaît déjà les armes à feu), Shinkurō s’installe sur les hauteurs de Kyōto, loin du tumulte de la ville.<br>
-C’est là qu’on l’imagine facilement, figé en méditation à l’entrée d’une caverne, grognant dès qu’un badaud s’approche trop près.
+Dans la première version de cet article, je supposais — sur la base des éléments que j’avais alors réunis — qu’il avait choisi une forme de retraite “classique”, loin du tumulte urbain : un ermitage niché dans les collines de Kyōto.
 
-Une caricature, bien sûr — et très loin de la réalité.
+Mais la réalité est tout autre.
+Mes recherches sur les formes de l’érémitisme dans le Japon médiéval m'ont dévoilé un paysage bien différent — où vie spirituelle et engagement dans le monde ne s’excluent pas forcément.
+Et cette vision-là est, il faut le dire, bien plus conforme aux témoignages qui nous sont parvenus sur la vie d'Omori Sokun.
 
-Certes, Sokun passe les premières années de sa nouvelle vie en réclusion. Son mode de vie est ascétique, c'est un ermite “laïque” (ou *kojin*), c'est à dire qu'il ne rejoint aucun ordre bouddhiste officiel, mais suit rigoureusement les pratiques zen de son enfance.
+Voici les informations que j'ai pu récolter à partir de journaux monastiques et d’écrits de l'entourage de Sokun, conservés jusqu’à aujourd’hui:
 
-D’ailleurs, il adopte le nom de *Shuan*, qui signifie “ermitage sur le pic de la montagne”...histoire de ne laisser aucun doute sur la nature de sa retraite.
+# Entre ermite et dévot errant (rōtō, 浪蕩) :
+Après Honnō-ji, Shinkurō est décrit comme ayant renoncé aux affaires mondaines (“省みて世事を捨て浪蕩し、寸暇を惜しんで尺八に沒頭し…”), ce qui suggère une existence semi-itinérante ou recluse — du moins par périodes — durant laquelle il privilégie la pratique spirituelle et musicale aux fonctions officielles ou matérielles.
+
+# Un ancrage kyōtoïte :
+La majorité des traces biographiques situent Sōkun dans les quartiers monastiques de Kyōto tout au long de sa vie. Son nom, fréquemment mentionné dans les journaux des temples, indique qu’il a maintenu des liens étroits avec les communautés zen de la ville.
+
+# Le patronage des temples :
+Les Rokuon-nichiroku (鹿苑日録, journaux du Daitoku-ji à l’époque Keiun) mentionnent Sōkun se produisant régulièrement lors de banquets rituels ou de célébrations d’envergure. Cela témoigne d’une intégration profonde à la vie culturelle et religieuse de Kyōto, loin de l’image d’un ermite isolé.
+
+# Aucun ermitage permanent attesté :
+Bien qu’il se soit détourné des affaires du monde, aucune source connue ne mentionne de résidence fixe en ermitage (sankyō, 山居). Il semble plutôt avoir alterné entre les quartiers monastiques de Kyōto — où il rédigeait des manuscrits et enseignait — et des périodes de retrait dont l’histoire a perdu la trace.
+
+En résumé :
+Le jeune Taira Shinkurō s’est enraciné dans les cercles zen de Kyōto, tout en adoptant, après 1582, un mode de vie semi-nomade centré sur l'hitoyogiri.
+Aucun témoignage n’atteste d’une retraite dans un ermitage isolé : il semble plutôt avoir circulé entre les résidences monastiques et les lieux de patronage de daimyōs dans la région du grand Kyōto.
+
+D’ailleurs, il adopte le nom de *Shuan*, qui signifie “ermitage sur le pic de la montagne”...histoire de ne laisser aucun doute sur la nature de sa vocation.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-15-liubei.webp){: .align-center}
 *Liu Bei Visits Zhuge Liang in His Hermitage Three Times (草廬三顧)** - Yosa Buson (与謝蕪村), ca. 1750–1784. Folding screen (two-panel byōbu). Nomura Art Museum, Kyoto. Source: Wikimedia Commons. Public Domain.*
 
-Lors de ses excursions dans la trépidante Kyōto, Sokun croise la route d’autres moines, venus de toutes les écoles : Shingon, Tendai, Nichiren… <br>
+Lors de ses excursions dans la trépidante Kyōto, Sokun croise la route de moines issus de toutes les écoles : Shingon, Tendai, Nichiren… <br>
 On discute, on médite, on joue de la musique. Des échanges spirituels… et sonores.
+
 Car la musique est au cœur des préoccupations de notre ermite. Et plus précisément, l’hitoyogiri, cette petite flûte de bambou qui l’accompagne depuis l’enfance.
 
-Sokun s’y consacre corps et âme. Il recopie les pièces anciennes, adapte les mélodies contemporaines, tente de tout sauvegarder avant qu'il soit trop tard. <br>
-Car il faut bien se rendre à l’évidence : la flûte qui rythme ses journées ne fait plus recette en ville. Les citadins lui préfèrent un instrument flambant neuf, tout droit venu de la tradition de Fuke.
+Sokun s’y consacre corps et âme. Il recopie à la main les pièces anciennes, adapte les mélodies contemporaines, tente de tout préserver...avant qu'il soit trop tard. <br>
+
+Car il faut bien se rendre à l’évidence : la flûte qui rythme ses journées ne fait plus recette en ville. Les citadins lui préfèrent désormais un instrument flambant neuf, tout droit venu de la tradition de Fuke: *le shakuhachi*.
 
 Pendant près de trois siècles pourtant, l’hitoyogiri avait été l’instrument de prédilection des samouraïs et des lettrés. <br>
-Ce revirement du destin s'explique par son registre limité -une octave et demie tout au plus, et son volume discret qui peine à se faire entendre face aux koto ou shamisen des “guitar heroes” de la fin du XVIe siècle. <br>
-En face, le shakuhachi de Fuke débarque en fanfare, avec ses sonorités profondes et sa capacité à porter la voix des temps nouveaux.
+Sa disgrâce s'explique assez facilement : une tessiture limitée -une octave et demie tout au plus, et un volume discret qui peine à se faire entendre face au koto ou au shamisen des “guitar heroes” de la fin du XVIe siècle. <br>
 
-Mais Sokun n’a pas dit son dernier mot. Il est convaincu que les deux instruments peuvent cohabiter, et il compte bien le prouver.
+En comparaison, le shakuhachi de l'école Fuke débarque en fanfare, avec ses sonorités profondes, trois octaves résonantes et sa capacité à porter la voix des temps nouveaux.
 
-À vingt-deux ans, ses prouesses à l’hitoyogiri sont connues dans toute la région. Sa réputation lui ouvre les portes des salons d’érudits et des pavillons de thé, où l’on apprécie ses performances musicales entre deux poèmes et quelques débats philosophiques. <br>
-Malgré son mode de vie austère, Sokun semble évoluer sans peine au milieu de cette effervescence intellectuelle. Il se lie avec des officiers de l’État, des samouraïs de haut rang, et même avec le gouverneur de Kyōto. <br>
-On rapporte qu’il se déplace à cheval en leur compagnie : un signe clair de sa proximité avec l’élite de son époque.
+Mais Sokun n’a pas dit son dernier mot. <br>
+Il est convaincu que les deux instruments peuvent cohabiter, et il entend bien le prouver.
 
-Et comme toute grande ascension s’accompagne d'un décorum adéquat (nous sommes au Japon, après tout), Sokun ajuste aussi son identité publique.
-Vers 1590, il prend le nom de *Soku*, tout en gardant *Shuan* pour ses activités artistiques.
-Plus tard, autour de la quarantaine, il adopte définitivement *Sokun*...sans totalement abandonner *Shuan*, qu’il utilise encore de temps à autre.
+À vingt-deux ans, ses prouesses à l’hitoyogiri sont connues dans toute la région. 
+Sa réputation grandissante lui ouvre les portes des salons littéraires et des pavillons de thé, où l’on savoure ses performances musicales entre deux poèmes et quelques joutes philosophiques. <br>
 
-Ses proches ont probablement fini par lui inventer un surnom maison -et permanent- histoire d’éviter le casse-tête.
+Dans la décennie suivante, des manuscripts conservés au temple de Rokuon-in le décrivent jouant de la flûte jusqu’au cœur de la nuit, lors de réunions que l’on pourrait qualifier, sans trop exagérer, de banquets arrosés de saké — même si l’on ignore s’il levait son verre avec les autres, ou s’il se contentait de souffler dans sa flûte, imperturbable...
 
-J’ai lu quelque part (toutes mes sources sont au bas de cet article) que *Shuan* serait un pseudonyme artistique, tandis que *Sokun* relèverait d’une forme d’appellation honorifique, soulignant sa distance vis-à-vis de la société séculaire.
+Cet exemple illustre à quel point Sōkun semble à l’aise dans ce tourbillon d’effervescence intellectuelle et spirituelle.
+Il tisse des liens étroits avec des fonctionnaires d’État, de hauts samouraïs — et même le gouverneur de Kyōto.
+On raconte qu’il voyageait à cheval en leur compagnie : un signe clair de sa proximité avec l’élite de son époque.
 
 ## La naissance d’une école
 
