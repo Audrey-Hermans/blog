@@ -70,7 +70,11 @@ In other words, Mazu implies that enlightenment is not found by escaping the wor
 
 Faced with this challenge, Pang suddenly attained great insight.
 
----
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-06-06-to-swallow-a-river.webp){: .align-center}
+*Danxia Tianran visits Layman Pang 丹霞天然問龐居士圖 - Attributed to Li Gonglin 李公麟 (d. 1106), 13th or possibly early 14th century
+Handscroll, ink and light clours on silk, 35.2 x 52.1 cm - Public domain.
+Image source: Terebess Asia Online.**
+
 
 ## Layman Pang’s Inspiring Perspective
 
