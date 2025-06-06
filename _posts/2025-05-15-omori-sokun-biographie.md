@@ -31,13 +31,17 @@ Au terme d’une longue journée recroquevillée devant mon ordinateur, je suis 
 Un personnage commençait enfin à émerger d’entre les mots, et avec lui, l’ébauche d’une belle aventure.
 Il m’a fallu quelques jours de plus pour mettre tout ça en…musique, si vous me permettez le jeu de mot. L’ordinateur a chauffé, ma cervelle aussi, et voilà le résultat.
 
-Mes sources sont listées au bas de cet article et vous verrez qu’elles se contredisent parfois sur certains points (par exemple, sur la façon dont l’ancêtre de Sokun aurait occi Masashige). Dans ce cas, je laisse flotter un flou artistique plutôt que de colporter une information incorrecte. Et quand je mentionne “les sources”, je n’en parle pas comme une pythie, mais à force de couper et recouper les notes de l’un et de l’autre, j’ai un peu perdu le fil de qui a dit quoi. Du coup, tout est en bas de page et vous pouvez vous amuser, si le coeur vous en dit, à attribuer chaque note à une personne spécifique. 
+**Cet article est un chantier perpétuel** : je l’enrichis au gré de mes découvertes, au fil des lectures et des croisements de sources.  
+Quant à ces dernières, vous les trouverez à la fin de cette série consacrée à Ōmori Sōkun.  
+Au fait, vous constaterez qu’elles se contredisent parfois sur certains points (par exemple, sur la façon dont l’ancêtre de Sōkun aurait occi Masashige). Dans ce cas, je laisse flotter un flou artistique plutôt que de colporter une information incorrecte. Et quand je mentionne “les sources”, je n’en parle pas comme une pythie, mais à force de couper et recouper les notes de l’un et de l’autre, j’ai un peu perdu le fil de qui a dit quoi. Du coup, tout est en bas de page et vous pouvez vous amuser, si le cœur vous en dit, à attribuer chaque note à une personne spécifique.
 
-Si par chance vous en savez plus sur la vie d’Ōmori Sōkun, que vous relevez une erreur dans ce que j’ai écrit, ou si vous avez un manuscrit secret en votre possession qui relate les menus détails de son quotidien,  je serai ravie de corriger les éventuelles coquilles glissées entre ces lignes (et absolument extatique d’en savoir plus sur ce personnage que j’ai passé tant d’heures à ramener à la vie!).
+Si par chance vous en savez plus sur la vie d’Ōmori Sōkun, que vous relevez une erreur dans ce que j’ai écrit, ou si vous avez un manuscrit secret en votre possession, qui relate les menus détails de son quotidien, je serai ravie de corriger les éventuelles coquilles glissées entre ces lignes (et absolument extatique d’en savoir plus sur ce personnage que j’ai passé tant d’heures à ramener à la vie !)
 
-Vous voilà prévenus, on peut y aller.
+Vous voilà prévenu·e·s, on peut y aller.
 
-Bouclez vos ceintures : on décolle. Cap sur le Japon. Mais pas celui des brochures de voyage ! Celui de 1582. La période Sengoku bat son plein, et on pourrait la résumer en deux mots : *chaos féodal*.
+Bouclez vos ceintures : on décolle. <br>
+Cap sur le Japon. <br>
+Mais pas celui des brochures de voyage ! Celui de 1582. La période Sengoku bat son plein, et on pourrait la résumer en deux mots : *chaos féodal*.<br>
 Nobunaga, le daimyō (seigneur) du clan Oda, surnommé “le roi démon” pour ses méthodes de guerre impitoyables, vient de mourir. 
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-15-nobunaga.webp){: .align-center}
@@ -49,29 +53,40 @@ Revenons un peu en arrière.
 
 ## Kyōto, 1570.
 
-Nous sommes à l’aube du XVIIe siècle. Le Japon commence à émerger du tumulte des guerres civiles. Au milieu des conflits et des ambitions féodales, une silhouette se détache. <br>
+Nous sommes à l’aube du XVIIe siècle. 
+Le Japon commence tout juste à émerger du tumulte des guerres civiles. 
+Regardez bien. <br>
+Au milieu des conflits et des ambitions féodales, une silhouette se détache. <br>
 Voici notre homme. Ou plutôt, un gamin. <br>
-Il s’appelle He Shinkurō, parfois aussi Shinjurō.<br>
-Apprenti samouraï. Stratège à ses heures perdues. Musicien confirmé.
+
+Il s’appelle Taira Shinkurō (平 新九郎), parfois orthographié Shinjurō.<br>
+Apprenti samouraï. <br>
+Stratège à ses heures perdues. <br>
+Musicien confirmé. <br>
 
 Mais ce n’est pas encore l’Ōmori Sōkun que l’Histoire retiendra.<br>
 
-Né le 15 mars 1570 à Kyōto, dans une famille modeste d’origine guerrière, Shinkurō grandit dans l’ombre d’un ancêtre célèbre : Ōmori Hikoshichi.
-La légende raconte qu’Hikoshichi aurait affronté le mythique Kusunoki Masashige, symbole de la loyauté samouraï. On comprend vite que le poids des lignées et des histoires héroïques plane sur l’enfance du jeune flûtiste.
+Né le 15 mars 1570 à Kyōto, au sein d'une famille modeste d’origine guerrière, Shinkurō grandit dans l’ombre d’un ancêtre célèbre : Ōmori Hikoshichi.
+La légende raconte que ce dernier aurait jadis aurait affronté le mythique Kusunoki Masashige, symbole absolu de la loyauté samouraï. 
+On comprend vite que le poids des lignées et des histoires héroïques plane sur l’enfance du jeune flûtiste.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-15-masashige.webp){: .align-center}
 *Kusunoki Masashige (楠正成) - par Utagawa Kuniyoshi, 1843–44. Woodblock print (oban tate-e). British Museum (Accession no. 2008,3037.15307). Public domain.*
 
-Pendant que cette marmite historique mijote, Shinkurō (futur Sōkun) révèle très tôt un talent pour la musique. Il s’initie à une flûte appelée "hitoyogiri" auprès de plusieurs moines, notamment du temple Myōken-ji. <br>
+Pendant que cette marmite historique mijote, Shinkurō (futur Sōkun) révèle déjà un talent remarquable pour la musique. 
+Son instrument de prédilection est l'"hitoyogiri" qu'il étudie sous la direction de plusieurs moines, notamment au temple de Myōken-ji. <br>
 En parallèle, il suit un enseignement bouddhiste zen auprès de Tenshuku Sōgan, un maître de la lignée Rinzai, dans un autre temple que l’on peut encore visiter aujourd’hui : le Daitoku-ji.
 
 Shinkurō hérite ainsi d’un solide bagage : une formation musicale rigoureuse, une base spirituelle ancrée dans le zen, et l’héritage martial d’une lignée de samouraïs (devenus rōnin, ou samouraïs sans maître, après la guerre d’Ōnin).<br>
 Des qualités précieuses sur un CV de l’époque.
 
-Et justement, c’est avec ce profil qu’il entre au service de Nobunaga, probablement comme page ou jeune vassal.
-Mais les tambours de guerre battent le tempo de l’Histoire, et en 1582, tout bascule. Le maître du clan Oda perd la vie lors de l’incident de Honnō-ji.
+Et justement, c’est avec ce profil qu’il entre au service de Nobunaga, probablement en tant que page ou jeune vassal.
+Mais le tambour de la guerre impose sont propre rythme à l’Histoire, et en 1582, tout s'effondre. <br>
+Le maître du clan Oda périt dans l’incident de Honnō-ji.
 
-Shinkurō n’a que douze ans. Le voilà sans patron, sans emploi, et à un carrefour décisif.<br>
+Shinkurō n’a que douze ans. <br>
+Le voilà sans maître, sans emploi, et face à un carrefour décisif.<br>
+
 Au lieu de poursuivre une carrière militaire ou administrative au service d’un autre seigneur, il choisit… le retrait.
 
 Une reconversion professionnelle radicale, avouons-le.<br>
