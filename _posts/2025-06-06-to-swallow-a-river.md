@@ -116,3 +116,15 @@ The *West River* kōan may have affirmed what he already sensed:
 That meaning is not found in titles or wealth, but in the quiet, persistent act of breathing into the world — one note at a time.
 
 And that’s quietly profound, isn’t it?
+
+# Sources
+“Rokuon Nichiroku”, the official temple diary kept at Rokuon‐in, a subtemple of Shōkoku‐ji in Kyoto. 
+鹿苑日録 (Keichō 15 閏二月二十日)
+(i.e. the entry dated the 20th day of the intercalary 2nd month, Keichō 15 [1610])
+
+西江水の話に省みて世事を捨て浪蕩、寸暇を惜しんで尺八に没頭。
+
+“Upon hearing reports of Xiejie Shui (西江水) in China, he abandoned worldly affairs to wander recklessly, immersing himself in shakuhachi without sparing a moment”. 
+
+This quote is also cited in Kisokuseikan's blog: https://kisokuseikan.seesaa.net/
+
