@@ -11,7 +11,7 @@ tags: ["english"]
 
 While recounting [the story of my favorite hermit](/omori-sokun-biography/) (and — dare I say it — possible role model *sigh*), I mentioned how, as a boy of just twelve, he abruptly left the samurai path to live as a lay hermit.
 
-That moment always stayed with me. What could have led someone so young, in the rigid world of warrior training, to make such a radical turn? Especially in 1582 — two decades *before* the Tokugawa era began, when Japan would enter a long period of peace and many samurai, no longer needed for warfare, turned to spiritual or artistic pursuits, like the *komusō* monks.
+What could have led someone so young, in the rigid world of warrior training, to make such a radical turn? Especially in 1582 — two decades *before* the Tokugawa era began, when Japan would enter a long period of peace and many samurai, no longer needed for warfare, turned to administrative work or spiritual pursuits, like the *komusō* monks.
 
 I haven’t found a definitive answer. But I did come across a possible clue — a Zen fable, known as *Saikō-sui* (西江水), or “West River Water,” which may have played a role in his transformation.
 
