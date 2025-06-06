@@ -8,21 +8,22 @@ tags: ["français"]
 ---
 **Bienvenue dans la suite de la saga Ōmori Sōkun.** 
 
-Lorsque je me suis lancée dans l’aventure de reconstituer sa vie à partir des fragments épars laissés à travers les siècles et les continents, je n’imaginais pas être entraînée dans un tel labyrinthe.
+Lorsque je me suis lancée le pari de rapiécer les fragments épars de sa vie — ces éclats portés par le vent, semés au fil des siècles et déposés ça et là, comme autant de témoignages oubliés — je n’imaginais pas qu’ils me conduiraient dans un tel labyrinthe.
 
 Et pourtant, me voilà — penchée sur des journaux de temples, à retracer des lignées oubliées et à plonger dans des manuscripts numérisés aussi obscurs que fascinants.  
 Je ne suis pas seule dans cette quête : les conseils de mon professeur, les travaux d’autres chercheurs — blogueurs, universitaires, archivistes discrets — ont chacun à leur façon contribué à éclairer le chemin.  
-Chaque découverte ne fait qu’épaissir le mystère, et pour chaque réponse trouvée, une douzaine de nouvelles questions surgissent.  
+
+Et pour chaque réponse mise au jour, une douzaine de nouvelles questions surgissent, comme autant de pièces d’un puzzle plus vaste que je n’aurais pu l’imaginer.  
 
 **Et c’est bien là toute la beauté de la chose (*sourire en coin*).**
 
-Ce qui avait commencé comme l’étude d’un homme et de sa flûte s’est transformé en quelque chose de bien plus vaste : une immersion dans un monde disparu, peuplé de figures lumineuses, de traditions ésotériques et d’une richesse culturelle qui ne cesse de m’émerveiller.
+Ce qui avait commencé comme l’étude d’un homme et de sa flûte s’est transformé en une immersion dans un monde disparu — peuplé de figures lumineuses, de traditions insaisissables, et d’une richesse culturelle qui continue de me laisser sans voix.
 
 Alors, suivez-moi.  
-Voici la deuxième partie de mon exploration de la vie et de l’héritage d’Ōmori Sōkun — une histoire qui continue d’évoluer au fil des indices.  
+Voici la deuxième partie de mon exploration de la vie et de l’héritage d’Ōmori Sōkun — une histoire qui ne cesse de se réécrire au gré des indices.  
 Comme toujours, j’ai tenté de documenter mes sources du mieux possible, à la fin de cette série en constante expansion.
 
-J’espère que vous prendrez autant de plaisir à explorer ce recoin oublié de l’Histoire que j’en ai à le déterrer.
+J’espère que vous prendrez autant de plaisir à explorer ce recoin oublié de l’Histoire que j’en ai à le révéler, page après page.
 
 ## La naissance d’une école
 
