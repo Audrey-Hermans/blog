@@ -101,16 +101,16 @@ Et cette vision-là est, il faut le dire, bien plus conforme aux témoignages qu
 
 Voici les informations que j'ai pu récolter à partir de journaux monastiques et d’écrits de l'entourage de Sokun, conservés jusqu’à aujourd’hui:
 
-# Entre ermite et dévot errant (rōtō, 浪蕩) :
+### Entre ermite et dévot errant (rōtō, 浪蕩) :
 Après Honnō-ji, Shinkurō est décrit comme ayant renoncé aux affaires mondaines (“省みて世事を捨て浪蕩し、寸暇を惜しんで尺八に沒頭し…”), ce qui suggère une existence semi-itinérante ou recluse — du moins par périodes — durant laquelle il privilégie la pratique spirituelle et musicale aux fonctions officielles ou matérielles.
 
-# Un ancrage kyōtoïte :
+### Un ancrage kyōtoïte :
 La majorité des traces biographiques situent Sōkun dans les quartiers monastiques de Kyōto tout au long de sa vie. Son nom, fréquemment mentionné dans les journaux des temples, indique qu’il a maintenu des liens étroits avec les communautés zen de la ville.
 
-# Le patronage des temples :
+### Le patronage des temples :
 Les Rokuon-nichiroku (鹿苑日録, journaux du Daitoku-ji à l’époque Keiun) mentionnent Sōkun se produisant régulièrement lors de banquets rituels ou de célébrations d’envergure. Cela témoigne d’une intégration profonde à la vie culturelle et religieuse de Kyōto, loin de l’image d’un ermite isolé.
 
-# Aucun ermitage permanent attesté :
+### Aucun ermitage permanent attesté :
 Bien qu’il se soit détourné des affaires du monde, aucune source connue ne mentionne de résidence fixe en ermitage (sankyō, 山居). Il semble plutôt avoir alterné entre les quartiers monastiques de Kyōto — où il rédigeait des manuscrits et enseignait — et des périodes de retrait dont l’histoire a perdu la trace.
 
 En résumé :
