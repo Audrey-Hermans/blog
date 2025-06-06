@@ -185,56 +185,39 @@ Car pour moi, c’est une évidence : malgré les siècles, la chanson de l'hito
  
 #Japanese Encyclopedias & Biographical Dictionaries
 - **Kotobank** entries for Ōmori Sōkun, referencing:
-  - 『日本人名大辞典』（講談社）
-  - 『朝日日本歴史人物事典』
-  - 『世界大百科事典』
+  - 日本人名大辞典（講談社）
+  - 朝日日本歴史人物事典
+  - 世界大百科事典
 - **世界大百科事典 第２版 (Sekai Dai-Hyakka Jiten)**  
-  - Entries on 尺八 and 一節切 with references to Sōkun’s craftsmanship and court service
+  - Entries on 尺八 and 節切 with references to Sōkun’s craftsmanship and court service
 
 #Primary Historical Manuscripts (Referenced in Research)
-- **短笛秘伝譜 (Tanteki Hidenfu)** – Dated 1608, attributed to Ōmori Sōkun  
-  - Held at 宮城道雄記念館 (Miyagi Michio Memorial Museum)
-- **宗左流尺八手数并唱歌目録** – Sōsa-ryū repertoire catalog (c. 1624)  
+- **短笛秘伝譜 (Tanteki Hidenfu)**, dated 1608, attributed to Ōmori Sōkun, Held at 宮城道雄記念館 (Miyagi Michio Memorial Museum)
+- **宗左流尺八手数并唱歌目録** Sōsa-ryū repertoire catalog (c. 1624)  
   - Preserved at 東京芸術大学附属図書館 (Tokyo University of the Arts)
-- **尺八秘伝録 / 尺八手数目録 / 尺八相伝集** – Supplementary mokuroku manuscripts  
-  - Held in collections such as 陽明文庫 (Yōmei Bunko) and 富士信庵文庫 (Fushin’an)
+- **尺八秘伝録 / 尺八手数目録 / 尺八相伝集** Supplementary mokuroku manuscripts, Held in collections such as 陽明文庫 (Yōmei Bunko) and 富士信庵文庫 (Fushin’an)
 
 #Academic Articles & Musicological Research
-- **Mabuchi Usaburō 馬淵卯三郎** –  
-  - Article on 17th-century hitoyogiri repertoire and two-tiered structure  
-  - Published in 音楽芸術論集（大阪芸術大学）
-- **加藤いつみ (Kato Itsumi)** –  
-  - Studies on early Edo-period hitoyogiri performance and notation  
-  - Published in 名古屋文理大学紀要
-- **上田良三 (Ueda Ryōzō)** –  
-  - Research on Sōkun and Sōkū in 尺八史研究 (Shakuhachi history publications)
+- **Mabuchi Usaburō 馬淵卯三郎** – Article on 17th-century hitoyogiri repertoire and two-tiered structure, Published in 音楽芸術論集（大阪芸術大学）
+- **加藤いつみ (Kato Itsumi)** Studies on early Edo-period hitoyogiri performance and notation, Published in 名古屋文理大学紀要
+- **上田良三 (Ueda Ryōzō)** Research on Sōkun and Sōkū in 尺八史研究 (Shakuhachi history publications)
 
 #Museums and Libraries
-- **The Metropolitan Museum of Art (New York)** –  
-  - Holds a hitoyogiri flute attributed to Ōmori Sōkun
-- **Cleveland Museum of Art / Museum of Fine Arts, Boston** –  
-  - Preserve historical examples of lacquered hitoyogiri flutes
-- **東京芸術大学附属図書館** –  
-  - Hosts original mokuroku and notation books attributed to Sōkun
+- **The Metropolitan Museum of Art (New York)** Holds a hitoyogiri flute attributed to Ōmori Sōkun
+- **Cleveland Museum of Art / Museum of Fine Arts, Boston** Preserve historical examples of lacquered hitoyogiri flutes
+- **東京芸術大学附属図書館** Hosts original mokuroku and notation books attributed to Sōkun
 
 #Early Printed Works & Books Referenced
-- **『糸竹初心集』(Shichiku Shoshin-shū)** –  
-  - Published in 1664 by 中村宗三 (Nakamura Sōsan / Sōza)
-- **『尺八の歴史』(The History of the Shakuhachi)** by 上原稔 –  
-  - Overview of lineage from Sōsa to Sōkun
-- **『邦楽百年史』** by 山田抄太郎 –  
-  - Historical documentation of traditional music and flute traditions
+- **糸竹初心集(Shichiku Shoshin-shū)** Published in 1664 by 中村宗三 (Nakamura Sōsan / Sōza)
+- **尺八の歴史(The History of the Shakuhachi)** by 上原稔, Overview of lineage from Sōsa to Sōkun
+- **邦楽百年史** by 山田抄太郎 Historical documentation of traditional music and flute traditions
 
-#Specialist Blogs & Online Research
-- **Suichiku Hōgo (水竹芳語)** by Kunimi Masashi –  
-  - Blog series deeply analyzing Sōkun’s manuscripts, lineage, and teachings
-- **komuso.com** –  
-  - Resource on shakuhachi and komusō history, with a profile on Ōmori Sōkun
-- **Biglobe Ne.jp (盲人文化史年表)** –  
-  - Timeline entries confirming the publication of Shichiku Shoshin-shū in 1664 by Nakamura Sōsan
+#Specialist Websites, Blogs & Online Research <br>
+- **Hon-on.com** by Nick Bellando, Shin Sosa Ryu school. About hitoyogiri playing, making and old style shakuhachi
+- **Suichiku Hōgo (水竹芳語)** by Kunimi Masashi, Blog series deeply analyzing Sōkun’s manuscripts, lineage, and teachings
+- **komuso.com** Resource on shakuhachi and komusō history, with a profile on Ōmori Sōkun
+- **Biglobe Ne.jp (盲人文化史年表)** Timeline entries confirming the publication of Shichiku Shoshin-shū in 1664 by Nakamura Sōsan
 
 #Supplemental Historical References
-- **『尺八読本』(Shakuhachi Dokuhon)** by 小泉文夫 –  
-  - Includes Sōkun's place in the shakuhachi lineage
-- **『朝日日本歴史人物事典』** –  
-  - Standard biographical reference used in modern scholarship
+- **尺八読本(Shakuhachi Dokuhon)** by 小泉文夫, Includes Sōkun's place in the shakuhachi lineage
+- **朝日日本歴史人物事典** Standard biographical reference used in modern scholarship
