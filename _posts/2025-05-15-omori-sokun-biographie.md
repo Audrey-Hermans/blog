@@ -151,4 +151,4 @@ Semaine après semaine, de nouveaux fils apparaissent, de nouvelles sources surg
 La recherche a pris une telle ampleur que j’ai dû scinder l’article en deux — sans quoi nous aurions frôlé le roman !
 
 Donc, le voyage est loin d’être terminé.  
-[Rejoignez-moi dans la deuxieme partie](/omori-sokun-partie2/) pour poursuivre l’exploration de l’héritage fascinant d’Ōmori Sōkun.
+[Rejoignez-moi dans la deuxième partie](/omori-sokun-partie2/) pour poursuivre l’exploration de l’héritage fascinant d’Ōmori Sōkun.
