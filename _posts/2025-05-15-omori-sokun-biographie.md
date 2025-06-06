@@ -101,23 +101,19 @@ Et cette vision-là est, il faut le dire, bien plus conforme aux témoignages qu
 
 Voici les informations que j'ai pu récolter à partir de journaux monastiques et d’écrits de l'entourage de Sokun, conservés jusqu’à aujourd’hui:
 
-### Entre ermite et dévot errant (rōtō, 浪蕩) :
-Après Honnō-ji, Shinkurō est décrit comme ayant renoncé aux affaires mondaines (“省みて世事を捨て浪蕩し、寸暇を惜しんで尺八に沒頭し…”), ce qui suggère une existence semi-itinérante ou recluse — du moins par périodes — durant laquelle il privilégie la pratique spirituelle et musicale aux fonctions officielles ou matérielles.
+- Entre ermite et dévot errant (rōtō, 浪蕩) : Après Honnō-ji, Shinkurō est décrit comme ayant renoncé aux affaires mondaines (“省みて世事を捨て浪蕩し、寸暇を惜しんで尺八に沒頭し…”), ce qui suggère une existence semi-itinérante ou recluse — du moins par périodes — durant laquelle il privilégie la pratique spirituelle et musicale aux fonctions officielles ou matérielles.
 
-### Un ancrage kyōtoïte :
-La majorité des traces biographiques situent Sōkun dans les quartiers monastiques de Kyōto tout au long de sa vie. Son nom, fréquemment mentionné dans les journaux des temples, indique qu’il a maintenu des liens étroits avec les communautés zen de la ville.
+- Un ancrage kyōtoïte : La majorité des traces biographiques situent Sōkun dans les quartiers monastiques de Kyōto tout au long de sa vie. Son nom, fréquemment mentionné dans les journaux des temples, indique qu’il a maintenu des liens étroits avec les communautés zen de la ville.
 
-### Le patronage des temples :
-Les Rokuon-nichiroku (鹿苑日録, journaux du Daitoku-ji à l’époque Keiun) mentionnent Sōkun se produisant régulièrement lors de banquets rituels ou de célébrations d’envergure. Cela témoigne d’une intégration profonde à la vie culturelle et religieuse de Kyōto, loin de l’image d’un ermite isolé.
+- Le patronage des temples : Les Rokuon-nichiroku (鹿苑日録, journaux du Daitoku-ji à l’époque Keiun) mentionnent Sōkun se produisant régulièrement lors de banquets rituels ou de célébrations d’envergure. Cela témoigne d’une intégration profonde à la vie culturelle et religieuse de Kyōto, loin de l’image d’un ermite isolé.
 
-### Aucun ermitage permanent attesté :
-Bien qu’il se soit détourné des affaires du monde, aucune source connue ne mentionne de résidence fixe en ermitage (sankyō, 山居). Il semble plutôt avoir alterné entre les quartiers monastiques de Kyōto — où il rédigeait des manuscrits et enseignait — et des périodes de retrait dont l’histoire a perdu la trace.
+- Aucun ermitage permanent attesté : Bien qu’il se soit détourné des affaires du monde, aucune source connue ne mentionne de résidence fixe en ermitage (sankyō, 山居). Il semble plutôt avoir alterné entre les quartiers monastiques de Kyōto — où il rédigeait des manuscrits et enseignait — et des périodes de retrait dont l’histoire a perdu la trace.
 
 En résumé :
 Le jeune Taira Shinkurō s’est enraciné dans les cercles zen de Kyōto, tout en adoptant, après 1582, un mode de vie semi-nomade centré sur l'hitoyogiri.
 Aucun témoignage n’atteste d’une retraite dans un ermitage isolé : il semble plutôt avoir circulé entre les résidences monastiques et les lieux de patronage de daimyōs dans la région du grand Kyōto.
 
-D’ailleurs, il adopte le nom de *Shuan*, qui signifie “ermitage sur le pic de la montagne”...histoire de ne laisser aucun doute sur la nature de sa vocation.
+D’ailleurs, il adopte le nom de *Shuan*, qui signifie “ermitage sur le pic de la montagne”...une façon imagée d'exprimer la nature de sa vocation.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2025-05-15-liubei.webp){: .align-center}
 *Liu Bei Visits Zhuge Liang in His Hermitage Three Times (草廬三顧)** - Yosa Buson (与謝蕪村), ca. 1750–1784. Folding screen (two-panel byōbu). Nomura Art Museum, Kyoto. Source: Wikimedia Commons. Public Domain.*
