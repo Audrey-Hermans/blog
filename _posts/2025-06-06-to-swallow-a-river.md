@@ -7,8 +7,7 @@ lang: en
 tags: ["english"]
 ---
 
-# To Swallow A River  
-*The Zen koan that — may have — turned a samurai into a hermit*
+# The Zen koan that — may have — turned a samurai into a hermit
 
 While recounting the story of my favorite hermit (and — dare I say it — possible role model *sigh*), I mentioned how, as a boy of just twelve, he abruptly left the samurai path to live as a lay hermit.
 
