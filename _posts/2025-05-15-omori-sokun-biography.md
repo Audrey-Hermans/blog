@@ -101,7 +101,7 @@ The head of the Oda clan loses his life in the Incident at Honnō-ji.
 Shinkurō is only twelve years old. Suddenly, he finds himself without a lord, without a job —and at a decisive crossroads.
 
 Instead of pursuing a military or administrative career under another warlord, he chooses retreat.
-One source suggests that the young boy opted for a life of renunciation after hearing a Zen anecdote known in Japanese as Saikō-sui (西江水), literally “West River water.” I’ll explore that theory more fully [in a separate article](/to-swallow-a-river/).
+One source suggests that the young boy opted for a life of renunciation after hearing a Zen anecdote known in Japanese as Saikō-sui (西江水), literally “West River water.” I explore that theory more fully [in a separate article](/to-swallow-a-river/).
 
 One thing’s for sure: Shinkurō leaves secular life to embark on a hermit’s journey.
 
