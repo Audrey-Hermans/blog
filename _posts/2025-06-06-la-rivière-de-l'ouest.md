@@ -1,8 +1,13 @@
+---
+title: "Ōmori Sōkun et l’eau de la rivière de l’Ouest"
+date: 2025-06-06
+layout: single
+author_profile: true
+lang: fr
+tags: ["français"]
+---
 
-
-
-
-## Ōmori Sōkun et l’eau de la rivière de l’Ouest  
+## L’eau de la rivière de l’Ouest  
 *— Ou comment un vieux kōan zen peut changer une vie*
 
 > La dernière fois, je vous ai parlé de mon ermite préféré (et modèle inavoué… *soupir*) : Ōmori Sōkun.  
