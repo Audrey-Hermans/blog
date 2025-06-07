@@ -30,7 +30,7 @@ This is where I share the “why” behind the path I walk.
 ### • [Bundle](/en/bundle)
 What I carry in my backpack as an explorer of the present moment : a handful of anchors to steady me when the winds pick up.
 
-### • [Blog](/tags/#english)
+### • [Blog](/tags/english/)
 This is my logbook.
 Notes from the winding road: stumbles and surprises,
 foggy mornings, eddies in the water, stormy nights, and small wonders I don’t want to forget.
