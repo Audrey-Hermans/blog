@@ -88,16 +88,15 @@ Il sait où l’on va, alors que moi, je n’en ai pas la moindre idée (même s
 Si mon professeur estime que je peux passer à l’étape suivante, alors… je passe.  
 **Point.**
 
-Depuis, tout est devenu plus fluide.  
-Un peu comme une rivière qui reprend son cours après un éboulement.
-Pfiou!
+Depuis, ça va un peu mieux.  
+Même si je sens bien qu'il reste encore des choses à clarifier. 
 
 ## Une leçon à garder
 
-Ce que je veux garder à cette étape de mon apprentissage, c’est l’importance de la **forme** : le contenu viendra plus tard.
+Ce que je veux retenir à cette étape de mon apprentissage, c’est l’importance de la **forme** : le contenu (le sens?) viendra plus tard.
 
 C’est très japonais comme approche.  
-Avant de chercher à « faire joli », il faut d’abord apprivoiser son instrument, en profondeur.
+Il faut commencer par apprivoiser son instrument, en profondeur.
 
 Dans la culture japonaise, on accorde une grande valeur au respect des étapes :  
 être présent au cours, persévérer, apprendre avec patience — tout cela fait partie de la musique.
