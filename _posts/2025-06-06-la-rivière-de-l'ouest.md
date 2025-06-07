@@ -31,9 +31,9 @@ Malgré mes efforts, j’ai trouvé assez peu de sources pour apporter une répo
 Mais j’ai tout de même mis la main sur une phrase intéressante, perdue dans les archives du temple de Shōkoku-ji à Kyoto :
 
 > 鹿苑日録 *(Keichō 15 閏二月二十日)*  
-> > **« 西江水の話に省みて世事を捨て浪蕩、寸暇を惜しんで尺八に没頭。 »**  
-> > *“20ᵉ jour du deuxième mois intercalaire, Keichō 15, (soit 1610).*  
-> > *En méditant sur l’histoire de Saikō-sui, il abandonna les affaires mondaines pour vagabonder et, ne ménageant pas le moindre instant, se plongea entièrement dans la pratique du shakuhachi.”*
+> **« 西江水の話に省みて世事を捨て浪蕩、寸暇を惜しんで尺八に没頭。 »**  
+> *“20ᵉ jour du deuxième mois intercalaire, Keichō 15, (soit 1610).*  
+> *En méditant sur l’histoire de Saikō-sui, il abandonna les affaires mondaines pour vagabonder et, ne ménageant pas le moindre instant, se plongea entièrement dans la pratique du shakuhachi.”*
 
 Le texte fait référence à Ōmori Sōkun, et *Saikō-sui* (西江水, “l’eau de la rivière de l’Ouest”) est le nom d’une fable zen qui, selon les écrits de ce moine du XVIIᵉ siècle, aurait éveillé la vocation de Sōkun.
 
@@ -48,12 +48,12 @@ Allons voir de quoi il est question !
 
 La formule trouve son origine dans un dialogue du bouddhisme Chan (zen) chinois : Pang le Laïc (龐居士, Pang Yun, 740–808) — célèbre pratiquant zen laïc — aurait un jour posé une question profonde au grand maître Mazu Daoyi (馬祖道一).
 
-> **Pang demanda :**  
+> **Pang demande :**  
 > *« Qui est celui qui n’est dépendant d’aucune des dix mille choses ? »*  
 > *(En d’autres termes, existe-t-il quelqu’un qui soit affranchi de tout attachement mondain ?)*
 
-> **Et Mazu répondit :**  
-> *« Attends que tu puisses avaler en une seule gorgée toute l’eau de la rivière de l’Ouest, alors je te le dirai. »*  
+> **Et Mazu de répondre :**  
+> *«Je te le dirai quand tu auras bu d’un trait toute l’eau de la rivière de l’Ouest »*  
 > *(一口吸盡西江水 — yīkǒu xījìn Xījiāng shuǐ)*
 
 Cet échange est consigné dans les *Registres de Mazu*.
@@ -87,8 +87,8 @@ Une interprétation veut que, pour être libre des « dix mille choses », il fa
 
 Mazu suggère que la clé de l’éveil ne se trouve pas en fuyant le monde, mais en transcendant la dualité entre soi et le monde — c’est-à-dire en embrassant la réalité si pleinement que rien ne reste extérieur à soi.
 
-> **Face à ce défi, Pang atteignit soudain une grande clairvoyance.**  
-*Et nous voilà tous un peu jaloux.*
+> **Face à ce défi, Pang atteignit soudain une grande clairvoyance.** <br/>
+Et nous voilà tous un peu jaloux.
 
 ![image-centre]({{ site.url }}{{ site.baseurl }}/assets/images/2025-06-06-to-swallow-a-river.webp){: .align-center}  
 *Danxia Tianran rend visite au laïc Pang — attribué à Li Gonglin (†1106), XIIIᵉ ou début XIVᵉ siècle, rouleau horizontal, encre et couleurs légères sur soie. Domaine public. Source : Terebess Asia Online.*
@@ -116,8 +116,9 @@ Selon la tradition, Pang jette sa fortune à la rivière et se met à faire de l
 Ses enseignements ne sont pas dispensés en sermons, mais vécus par l’exemple et par de courts dialogues incisifs.  
 Il démontre que l’éveil est accessible à tous — et que « vivre le zen » se fait dans les tâches les plus anodines.
 
-> **Cette histoire fait de Pang un modèle à la fois historique et légendaire de la liberté par la simplicité.**  
-> En japonais, il est connu sous le nom de *Hōkoji*.
+> **Cette histoire fait de Pang un modèle à la fois historique et légendaire de la liberté par la simplicité.** <br/>
+
+En japonais, il est connu sous le nom de *Hōkoji*.
 
 ---
 
