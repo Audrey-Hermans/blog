@@ -10,7 +10,7 @@ tags: ["français"]
 ## L’eau de la rivière de l’Ouest  
 *— Ou comment un vieux kōan zen peut changer une vie*
 
-> La dernière fois, je vous ai parlé de mon ermite préféré (et modèle inavoué… *soupir*) : Ōmori Sōkun.    
+> La dernière fois, je vous ai [parlé de mon ermite préféré](/omori-sokun-biographie/) (et modèle inavoué… *soupir*) : Ōmori Sōkun.    
 > En creusant un peu, j’ai découvert qu’un ancien kōan zen aurait peut-être inspiré chez lui un changement de cap décisif.  
 > Ce petit texte obscur, qui parle d’« avaler une rivière », révèle en réalité beaucoup sur ce que signifie *vivre pleinement*.  
 > Plongeons ensemble dans cette histoire à la frontière du réel et du symbolique.
@@ -112,9 +112,9 @@ Son « miracle » ne réside pas dans un pouvoir mystique, mais dans la reconnai
 Rien dans sa routine quotidienne n’a changé — si ce n’est son esprit.  
 Couper du bois, puiser de l’eau — ces gestes aussi sont la Voie.
 
-Selon la tradition, Pang jette sa fortune à la rivière et se met à faire de l’artisanat du bois pour subvenir à ses besoins.  
-Ses enseignements ne sont pas dispensés en sermons, mais vécus par l’exemple et de courts dialogues incisifs.  
-Il démontre que l’éveil est accessible à tous — et que « vivre le zen » se fait au quotidien, dans les tâches les plus anodines.
+Selon la tradition, Pang jette sa fortune à la rivière et se met à faire de l’artisanat pour subvenir à ses besoins.  
+Ses enseignements ne sont pas dispensés en sermons, mais vécus par l’exemple et par de courts dialogues incisifs.  
+Il démontre que l’éveil est accessible à tous — et que « vivre le zen » se fait dans les tâches les plus anodines.
 
 > **Cette histoire fait de Pang un modèle à la fois historique et légendaire de la liberté par la simplicité.**  
 > En japonais, il est connu sous le nom de *Hōkoji*.
