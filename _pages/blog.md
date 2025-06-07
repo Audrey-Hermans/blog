@@ -10,6 +10,6 @@ header:
 
 Bienvenue sur mon blog / Welcome on my blog
 
-Pour la version française, c'est par ici <br>
-For the English version, click here
+Pour la version française, [c'est par ici](/tags/français/) <br/>
+For the English version, [click here](/tags/english/)
 
