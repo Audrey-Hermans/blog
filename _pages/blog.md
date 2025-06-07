@@ -8,5 +8,8 @@ header:
   image: /assets/images/header.webp
 ---
 
-Blog en Français
-Blog in English
+Bienvenue sur mon blog / Welcome on my blog
+
+Pour la version française, c'est par ici <br>
+For the English version, click here
+
