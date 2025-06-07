@@ -4,7 +4,7 @@ date: 2025-04-20
 layout: single
 author_profile: true
 lang: en
-tags: ["english","poetry"]
+tags: ["english"]
 ---
 
 ## Tucked between ink and bamboo
