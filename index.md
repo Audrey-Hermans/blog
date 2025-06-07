@@ -22,7 +22,7 @@ Avant de partir à l’aventure, mieux vaut vérifier sa boussole. Ici, je vous 
 • [Baluchon](/fr/baluchon) <br />
 Ce que j'emporte dans mon sac-à-dos d'exploratrice de l'instant ; mes ancrages pour ne pas être emportée par le grand tourbillon de la vie. 
 
-• Blog <br />
+• [Blog](/tags/français/) <br />
 Là, c’est le carnet de bord. J’y note les bosses et les fosses du chemin, les bifurcations imprévues, les éclaircies et les brumes existentielles. 
 
 • [Galerie](/fr/galerie) <br />
