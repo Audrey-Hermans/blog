@@ -1,5 +1,5 @@
 ---
-title: "Ōmori Sōkun et l’eau de la rivière de l’Ouest"
+title: "Avaler toute l’eau de la rivière de l’Ouest"
 date: 2025-06-06
 layout: single
 author_profile: true
@@ -11,8 +11,8 @@ tags: ["français"]
 *— Ou comment un vieux kōan zen peut changer une vie*
 
 > La dernière fois, je vous ai parlé de mon ermite préféré (et modèle inavoué… *soupir*) : Ōmori Sōkun.    
-> En creusant un peu, j’ai découvert qu’un ancien kōan zen aurait pu déclencher chez lui un changement de cap décisif.  
-> Ce petit texte obscur, qui parle d’« avaler une rivière », dit en réalité beaucoup sur ce que signifie *vivre pleinement*.  
+> En creusant un peu, j’ai découvert qu’un ancien kōan zen aurait peut-être inspiré chez lui un changement de cap décisif.  
+> Ce petit texte obscur, qui parle d’« avaler une rivière », révèle en réalité beaucoup sur ce que signifie *vivre pleinement*.  
 > Plongeons ensemble dans cette histoire à la frontière du réel et du symbolique.
 
 ---
@@ -46,7 +46,7 @@ Allons voir de quoi il est question !
 
 *Saikō-sui* désigne un kōan ou aphorisme bien connu des pratiquants du zen.
 
-La formule trouve son origine dans un dialogue du bouddhisme Chan (zen) chinois : le laïc Pang (龐居士, Pang Yun, 740–808) — célèbre pratiquant zen laïc — aurait un jour posé une question profonde au grand maître Mazu Daoyi (馬祖道一).
+La formule trouve son origine dans un dialogue du bouddhisme Chan (zen) chinois : Pang le Laïc (龐居士, Pang Yun, 740–808) — célèbre pratiquant zen laïc — aurait un jour posé une question profonde au grand maître Mazu Daoyi (馬祖道一).
 
 > **Pang demanda :**  
 > *« Qui est celui qui n’est dépendant d’aucune des dix mille choses ? »*  
@@ -79,7 +79,7 @@ Analysons-le ensemble.
 Quand Pang le Laïc demande comment trouver un être affranchi de tout attachement mondain, la réponse saisissante de Mazu — *« Je te le dirai quand tu auras bu d’un trait toute l’eau de la rivière de l’Ouest »* — n’est pas un défi littéral.  
 C’est une réponse qui déboussole le mental : elle nous fait basculer dans l’univers merveilleux du zen.
 
-Mazu n’explique pas par la raison ni par la logique.  
+Mazu n’enseigne pas par la raison ni par la logique.  
 À l’inverse, il propose une tâche impossible dont le but est de faire voler en éclats la pensée dualiste.  
 L’impossibilité est le point essentiel de l’exercice — le véritable éveil ne peut être saisi par la raison seule.
 
