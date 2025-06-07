@@ -89,7 +89,7 @@ Le voilà sans maître, sans emploi, et face à un carrefour décisif.<br>
 
 Au lieu de poursuivre une carrière militaire ou administrative auprès d’un autre seigneur de guerre, il choisit le retrait. <br>
 Une source suggère que le jeune garçon aurait opté pour une vie de renoncement après avoir entendu une anecdote zen connue au Japon sous le nom de Saikō-sui (西江水), littéralement « l’eau de la rivière de l’Ouest ».
-J’explorerai cette hypothèse plus en détail dans un article à part.
+J’explore cette hypothèse plus en détail [dans un article à part](/la-rivière-de-l'ouest/).
 
 Une chose est certaine : Shinkurō quitte la vie séculière pour emprunter une voie de retrait et de contemplation, sans pour autant revêtir l’habit monastique.
 
