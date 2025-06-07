@@ -88,10 +88,8 @@ Une interprétation veut que, pour être libre des « dix mille choses », il fa
 Mazu suggère que la clé de l’éveil ne se trouve pas en fuyant le monde, mais en transcendant la dualité entre soi et le monde — c’est-à-dire en embrassant la réalité si pleinement que rien ne reste extérieur à soi.
 
 > **Face à ce défi, Pang atteignit soudain une grande clairvoyance.** <br/>
-Et nous voilà tous un peu jaloux.
 
-![image-centre]({{ site.url }}{{ site.baseurl }}/assets/images/2025-06-06-to-swallow-a-river.webp){: .align-center}  
-*Danxia Tianran rend visite au laïc Pang — attribué à Li Gonglin (†1106), XIIIᵉ ou début XIVᵉ siècle, rouleau horizontal, encre et couleurs légères sur soie. Domaine public. Source : Terebess Asia Online.*
+Et nous voilà tous un peu jaloux.
 
 ---
 
