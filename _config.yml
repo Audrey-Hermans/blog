@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 google_fonts:
@@ -234,8 +234,8 @@ sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-stylesheets:
-  - assets/css/main.scss
+# stylesheets:
+#   - assets/css/main.scss
 
 # Outputting
 permalink: /:categories/:title/
@@ -276,7 +276,6 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-archives
-  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
