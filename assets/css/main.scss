@@ -1,6 +1,10 @@
-/* ↓ Swap in Fira Mono for body & headings ↓ */
-$body-font-family: 'Fira Mono', monospace !default;
+---
+---
+
+// ↓ Override before skin/style imports ↓
+$body-font-family:    'Fira Mono', monospace !default;
 $heading-font-family: 'Fira Mono', monospace !default;
 
-/* Then import the rest of the theme */
+// ↓ Import your contrast skin first, then the theme ↓
+@import "minimal-mistakes/skins/contrast";
 @import "minimal-mistakes/style";
