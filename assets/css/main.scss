@@ -1,10 +1,11 @@
 ---
 ---
 
-// ↓ Override before skin/style imports ↓
+// ← your font overrides before any imports
 $body-font-family:    'Fira Mono', monospace !default;
 $heading-font-family: 'Fira Mono', monospace !default;
 
-// ↓ Import your contrast skin first, then the theme ↓
-@import "minimal-mistakes/skins/contrast";
+// import the skin you chose (contrast)…
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'contrast' }}";
+// …then the rest of the theme
 @import "minimal-mistakes/style";
