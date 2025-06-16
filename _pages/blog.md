@@ -1,7 +1,7 @@
 ---
 layout: home
 author_profile: false
-title: "Blog"
+title: "Blog (bilingual)"
 lang: fr
 permalink: /blog/
 header:
