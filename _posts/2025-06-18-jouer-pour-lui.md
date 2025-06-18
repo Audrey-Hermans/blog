@@ -18,30 +18,31 @@ Juste un short, une quarantaine de secondes à peine… et pourtant, à ma grand
 ➡️ [Regarde la vidéo ici](https://youtube.com/shorts/QWq3AGpuRRQ).
 
 Ce geste, simple en apparence, m’a permis de comprendre quelque chose que je cherchais depuis des mois.  
-Ou plutôt, de repenser mon approche pour atteindre une **autre** question, plus profonde, que je portais sans le savoir.
+Ou plutôt, de repenser mon approche pour atteindre une *autre* question, plus profonde, que je portais sans le savoir.
 
 Depuis longtemps, je me demande :  
 **“Comment jouer pour les autres ?”**  
 
-Mais avec le recul, je me rends compte que la vraie question, c’était :  
+Mais avec le recul, je me rends compte que la vraie question, c’était : 
 
 **“Comment dialoguer avec l’instant ?”**  
-Parce que c’est en jouant sans chercher à plaire qu’on peut, paradoxalement, vraiment toucher.
+Parce que c’est en jouant *sans chercher à plaire* qu’on peut, paradoxalement, vraiment toucher.
 
 Si tu veux un condensé de ce que je m'apprête à expliquer, ➡️ [c'est par ici](https://youtube.com/shorts/jdNtvynU6-E).
 
 Tu es toujours là? Cool! Reprenons.
-À partir du moment où je me mets à l’écoute de la qualité d’un moment, quelque chose peut émerger.  
-Et ce qui émerge — peut-être est-ce cela qui mérite d’être partagé.  
-Parce que ça vient du cœur.
+Dès l'instant où je me mets à l’écoute de la qualité d’un moment, quelque chose peut naître.  
+Et ce qui émerge du silence — peut-être est-ce cela qui mérite d’être offert.  
+Parce que cela émane du cœur, sans détour.
 
-C’est plus simple de jouer quand on laisse la musique respirer, évoluer d’instant en instant.  
-Mais avec le shakuhachi, je me sentais souvent enfermée dans un carcan esthétique, 
-avec des exigences de maîtrise technique qui prenaient toute la place — même si ma pauvre flûte n'y était pour rien.
+C’est plus simple de jouer quand on laisse la musique respirer, évoluer d’instant en instant sans contrainte.  
+Pourtant avec le shakuhachi, j'avais souvent la sensation d'être enfermée dans un carcan esthétique, 
+criblé d'exigences de maîtrise technique qui prenaient toute la place — *même si ma pauvre flûte n'y était pour rien*.
 
-Et dans ce cadre figé, il n’y avait plus d’espace pour ce dialogue sacré.
+Et dans ce cadre figé, il n’y avait plus d’espace pour le dialogue sacré auquel j'aspire.
 
 ---
+Ce que j'aimerais retenir de cette leçon, c'est que :
 
 👉 Si je veux jouer pour les autres… je dois d’abord **ne pas** jouer pour les autres.  
 👉 Si je veux saisir la mélodie d’un moment… je dois d’abord **écouter**, vraiment, et la laisser être — sans chercher à la figer dans une forme idéale.
