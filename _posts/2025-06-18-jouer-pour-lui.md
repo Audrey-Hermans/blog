@@ -18,7 +18,7 @@ Juste un short, une quarantaine de secondes à peine… et pourtant, à ma grand
 ➡️ [Regarde la vidéo ici](https://youtube.com/shorts/QWq3AGpuRRQ).
 
 Ce geste, simple en apparence, m’a permis de comprendre quelque chose que je cherchais depuis des mois.  
-Ou plutôt, de reformuler pour atteindre une **autre** question, plus profonde, que je portais sans le savoir.
+Ou plutôt, de repenser mon approche pour atteindre une **autre** question, plus profonde, que je portais sans le savoir.
 
 Depuis longtemps, je me demande :  
 **“Comment jouer pour les autres ?”**  
@@ -28,7 +28,7 @@ Mais avec le recul, je me rends compte que la vraie question, c’était :
 **“Comment dialoguer avec l’instant ?”**  
 Parce que c’est en jouant sans chercher à plaire qu’on peut, paradoxalement, vraiment toucher.
 
-Si tu veux un condensé de ce que je m'apprête à expliquer, ➡️ [Regarde la vidéo ici](https://youtube.com/shorts/jdNtvynU6-E).
+Si tu veux un condensé de ce que je m'apprête à expliquer, ➡️ [c'est par ici](https://youtube.com/shorts/jdNtvynU6-E).
 
 Tu es toujours là? Cool! Reprenons.
 À partir du moment où je me mets à l’écoute de la qualité d’un moment, quelque chose peut émerger.  
