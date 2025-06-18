@@ -12,10 +12,8 @@ Aujourd’hui, j’ai envie de partager une pensée qui tient presque d’une fo
 **Comment jouer pour les autres ?**  
 Réponse : **en ne jouant pas pour les autres.**
 
-C’est cette idée qui m’a permis de poster ma première vidéo de shakuhachi la semaine dernière.  
+C’est cette idée qui m’a permis de poster [ma première vidéo de shakuhachi](https://youtube.com/shorts/QWq3AGpuRRQ) la semaine dernière.  
 Juste un short, une quarantaine de secondes à peine… et pourtant, à ma grande surprise, elle a été vue par pas mal de monde.
-
-➡️ [Regarde la vidéo ici](https://youtube.com/shorts/QWq3AGpuRRQ).
 
 Ce geste, simple en apparence, m’a permis de comprendre quelque chose que je cherchais depuis des mois.  
 Ou plutôt, de repenser mon approche pour atteindre une *autre* question, plus profonde, que je portais sans le savoir.
