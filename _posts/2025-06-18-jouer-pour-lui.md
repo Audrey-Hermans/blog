@@ -33,11 +33,19 @@ Dès l'instant où je me mets à l’écoute de la qualité d’un moment, quelq
 Et ce qui émerge du silence — peut-être est-ce cela qui mérite d’être offert.  
 Parce que cela émane du cœur, sans détour.
 
-C’est plus simple de jouer quand on laisse la musique respirer, évoluer d’instant en instant sans contrainte.  
-Pourtant avec le shakuhachi, j'avais souvent la sensation d'être enfermée dans un carcan esthétique, 
-criblé d'exigences de maîtrise technique qui prenaient toute la place — *même si ma pauvre flûte n'y était pour rien*.
+Cela, je l'avais bien compris avec l'hitoyogiri. <br/>
+C’est plus simple de jouer quand on laisse la musique respirer, évoluer d’instant en instant sans contrainte. 
 
-Et dans ce cadre figé, il n’y avait plus d’espace pour le dialogue sacré auquel j'aspire.
+Mais avec le shakuhachi, l’expérience était toute autre.
+Je me sentais enfermée dans un carcan esthétique, criblé d’exigences techniques si nombreuses qu’elles semblaient occuper tout l’espace — *même si ma pauvre flûte n’y était pour rien*.
+
+Avec le temps, j’ai compris que cette différence ne tenait pas tant aux instruments eux-mêmes qu’à l’environnement musical dans lequel je baignais.
+
+Côté hitoyogiri : calme, écoute, contemplation.
+Côté shakuhachi : une effervescence joyeuse, un désir insatiable d’apprendre toujours davantage, de perfectionner le geste, d’explorer, collectionner…
+
+Un cadre précieux et inspirant pour beaucoup.
+Mais dans cette dynamique, je ne trouvais plus l’espace intérieur nécessaire au dialogue sacré auquel j’aspirais.
 
 ---
 Ce que j'aimerais retenir de cette leçon, c'est que :
