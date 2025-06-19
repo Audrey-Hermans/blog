@@ -20,7 +20,7 @@ Ou plutôt, de repenser mon approche pour atteindre une *autre* question, plus p
   
 **“Comment jouer pour les autres ?”**  
 
-Avec le recul, je me rends compte que la vraie question, celle qui résoud tous les problèmes quand on a envie de partager sa musique, c'est : 
+Avec le recul, je me rends compte que la vraie question, celle qui résoud tous (enfin, presque) les problèmes lorsqu'on a envie de partager sa musique, c'est : 
 
 **“Comment dialoguer avec l’instant ?”**  
 Parce que c’est en jouant *sans chercher à plaire* qu’on peut, paradoxalement, vraiment toucher.
@@ -28,7 +28,7 @@ Parce que c’est en jouant *sans chercher à plaire* qu’on peut, paradoxaleme
 Si tu veux un condensé en vidéo de ce que je m'apprête à expliquer, ➡️ [c'est par ici](https://youtube.com/shorts/jdNtvynU6-E).
 
 Tu es toujours là? Cool! Reprenons.
-Dès l'instant où on se mets à l’écoute de la qualité d’un moment, on crée un espace où quelque chose peut naître.  
+Dès l'instant où on se met à l’écoute de la qualité d’un moment, on crée un espace où quelque chose peut naître.  
 Et ce qui émerge — peut-être est-ce cela qui mérite d’être offert.  
 Parce que cela émane du cœur, sans détour.
 
