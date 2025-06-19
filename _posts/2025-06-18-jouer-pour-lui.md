@@ -12,25 +12,24 @@ Aujourd’hui, j’ai envie de partager une pensée qui tient presque d’une fo
 **Comment jouer pour les autres ?**  
 Réponse : **en ne jouant pas pour les autres.**
 
-C’est cette idée qui m’a permis de poster [ma première vidéo de shakuhachi](https://youtube.com/shorts/QWq3AGpuRRQ) la semaine dernière.  
+C’est en appliquant cette idée -- un peu par accident, que j'ai posté [ma première vidéo de shakuhachi](https://youtube.com/shorts/QWq3AGpuRRQ) la semaine dernière.  
 Juste un short, une quarantaine de secondes à peine… et pourtant, à ma grande surprise, elle a été vue par pas mal de monde.
 
-Ce geste, simple en apparence, m’a permis de comprendre quelque chose que je cherchais depuis des mois.  
-Ou plutôt, de repenser mon approche pour atteindre une *autre* question, plus profonde, que je portais sans le savoir.
-
-Depuis longtemps, je me demande :  
+Cela m’a permis de comprendre quelque chose que je cherchais depuis des mois.  
+Ou plutôt, de repenser mon approche pour atteindre une *autre* question, plus profonde, que je ne suis pas la seule à porter.
+  
 **“Comment jouer pour les autres ?”**  
 
-Mais avec le recul, je me rends compte que la vraie question, c’était : 
+Avec le recul, je me rends compte que la vraie question, celle qui résoud tous les problèmes quand on a envie de partager sa musique, c'est : 
 
 **“Comment dialoguer avec l’instant ?”**  
 Parce que c’est en jouant *sans chercher à plaire* qu’on peut, paradoxalement, vraiment toucher.
 
-Si tu veux un condensé de ce que je m'apprête à expliquer, ➡️ [c'est par ici](https://youtube.com/shorts/jdNtvynU6-E).
+Si tu veux un condensé en vidéo de ce que je m'apprête à expliquer, ➡️ [c'est par ici](https://youtube.com/shorts/jdNtvynU6-E).
 
 Tu es toujours là? Cool! Reprenons.
-Dès l'instant où je me mets à l’écoute de la qualité d’un moment, quelque chose peut naître.  
-Et ce qui émerge du silence — peut-être est-ce cela qui mérite d’être offert.  
+Dès l'instant où on se mets à l’écoute de la qualité d’un moment, on crée un espace où quelque chose peut naître.  
+Et ce qui émerge — peut-être est-ce cela qui mérite d’être offert.  
 Parce que cela émane du cœur, sans détour.
 
 Cela, je l'avais bien compris avec l'hitoyogiri. <br/>
@@ -50,8 +49,8 @@ Mais dans cette dynamique, je ne trouvais plus l’espace intérieur nécessaire
 ---
 Ce que j'aimerais retenir de cette leçon, c'est que :
 
-👉 Si je veux jouer pour les autres… je dois d’abord **ne pas** jouer pour les autres.  
-👉 Si je veux saisir la mélodie d’un moment… je dois d’abord **écouter**, vraiment, et la laisser être — sans chercher à la figer dans une forme idéale.
+👉 Pour jouer pour les autres… ça aide de **ne pas** jouer pour les autres.  
+👉 Pour saisir la beauté d’un moment… c'est utile d'**écouter**, vraiment, et de laisser être ce qui émerge — sans chercher à le figer dans une forme idéale.
 
 ---
 
