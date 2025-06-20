@@ -16,7 +16,7 @@ C’est en appliquant cette idée -- un peu par accident, que j'ai posté [ma pr
 Juste un short, une quarantaine de secondes à peine… et pourtant, à ma grande surprise, elle a été vue par pas mal de monde.
 
 Cela m’a permis de comprendre quelque chose que je cherchais depuis des mois.  
-Ou plutôt, de repenser mon approche pour atteindre une *autre* question, plus profonde, que je ne suis pas la seule à porter.
+Ou plutôt, de repenser mon approche pour atteindre une *autre* question, plus profonde, que je ne suis pas la seule musicienne à porter.
   
 **“Comment jouer pour les autres ?”**  
 
