@@ -18,10 +18,10 @@ Today I want to offer a thought that almost feels like a Zen koan:
 
 Short and paradoxical.
 
-Last week, almost by accident, I posted my first shakuhachi video -—a forty-second clip, nothing more. To my surprise, it found an audience.
+Last week, almost by accident, I posted [my first shakuhachi video](https://youtube.com/shorts/QWq3AGpuRRQ)  —a forty-second clip, nothing more. To my surprise, it found an audience.
 
 That moment taught me something I’d been chasing for months. Or rather, it forced me to rethink my approach so I could tackle 
-a deeper question -—one I know many of us musicians share:
+a deeper question —one I know many of us musicians share:
 
 > **“How do you play for others?”**
 
@@ -41,6 +41,7 @@ But about presence.<br/>
 > **“How do you connect with the moment?”**
 
 Paradoxically, it’s when you stop aiming to please that you truly touch people.
+[Here's a short video about it](https://youtube.com/shorts/jdNtvynU6-E).
 
 ---
 
