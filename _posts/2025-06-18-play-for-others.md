@@ -47,13 +47,13 @@ Paradoxically, it’s when you stop aiming to please that you truly touch people
 
 ### Playing vs. Performing
 
-I first experienced this freedom with the hitoyogiri. There’s something effortless about letting the music breathe —instant to instant,
+I first experienced this freedom with the hitoyogiri. There’s something effortless about letting the music breathe -instant to instant,
 without shape or agenda.
 
 *Short pause.*
 
 But with the shakuhachi, I felt trapped: an aesthetic cage crammed with endless technical demands. 
-My poor flute was innocent —-*yet I blamed every missed note on myself*.
+My poor flute was innocent —*yet I blamed every missed note on myself*.
 
 Over time, I saw that the instruments weren’t the real issue. It was the environment I brought with me.
 
