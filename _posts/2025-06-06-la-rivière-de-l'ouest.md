@@ -17,7 +17,7 @@ tags: ["français"]
 
 ---
 
-### Enquête dans la pierre tombale d'un maître de musique
+### La pierre tombale d'un maître de musique
  
 Revenons donc sur le moment pivot où Ōmori Sōkun choisit le renoncement plutôt qu’une carrière militaire prometteuse.
 
