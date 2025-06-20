@@ -27,15 +27,13 @@ Nous sommes en 1582 — deux décennies avant le début de l’ère Tokugawa. Le
 
 > *Rappelons-le, dès 1600, début de la période Edo, le Japon entre dans une longue période de paix, condamnant de nombreux samouraïs à se reconvertir dans des fonctions administratives ou des quêtes spirituelles, faute de candidats à occir…*
 
-Mon professeur d'hitoyogiri m'a apporté la réponse, venue tout droit de la stèle funéraire d'Omori Sokun
+Mon professeur d'hitoyogiri m'a apporté la réponse, venue tout droit de la stèle funéraire d'Ōmori Sokun
 située au temple Konkai Komyō-ji de Kyōto:
 
-> 鹿苑日録 *(Keichō 15 閏二月二十日)*  
-> **« 西江水の話に省みて世事を捨て浪蕩、寸暇を惜しんで尺八に没頭。 »**  
-> *“20ᵉ jour du deuxième mois intercalaire, Keichō 15, (soit 1610).*  
+> **« 西江水の話に省みて世事を捨て浪蕩、寸暇を惜しんで尺八に没頭。 »**   
 > *En méditant sur l’histoire de Saikō-sui, il abandonna les affaires mondaines pour vagabonder et, ne ménageant pas le moindre instant, se plongea entièrement dans la pratique du shakuhachi.”*
 
-Selon cette épitaphe, c’est bien le koan de Saikō-sui qui, gravé dans l’esprit du jeune Ōmori, l’incita à abandonner l’épée pour la flûte.
+Selon cette épitaphe, c’est le koan de Saikō-sui qui incita Sokun à abandonner l’épée pour la flûte.
 
 Intrigant.  
 Allons voir de quoi il est question !
