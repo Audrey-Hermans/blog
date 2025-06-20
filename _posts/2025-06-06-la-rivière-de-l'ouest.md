@@ -17,7 +17,7 @@ tags: ["français"]
 
 ---
 
-### Enquête dans les archives d'un temple zen
+### Enquête dans la pierre tombale d'un maître de musique
  
 Revenons donc sur le moment pivot où Ōmori Sōkun choisit le renoncement plutôt qu’une carrière militaire prometteuse.
 
@@ -27,15 +27,15 @@ Nous sommes en 1582 — deux décennies avant le début de l’ère Tokugawa. Le
 
 > *Rappelons-le, dès 1600, début de la période Edo, le Japon entre dans une longue période de paix, condamnant de nombreux samouraïs à se reconvertir dans des fonctions administratives ou des quêtes spirituelles, faute de candidats à occir…*
 
-Malgré mes efforts, j’ai trouvé assez peu de sources pour apporter une réponse ferme et assurée à cette question.  
-Mais j’ai tout de même mis la main sur une phrase intéressante, perdue dans les archives du temple de Shōkoku-ji à Kyoto :
+Mon professeur d'hitoyogiri m'a apporté la réponse, venue tout droit de la stèle funéraire d'Omori Sokun
+située au temple Konkai Komyō-ji de Kyōto:
 
 > 鹿苑日録 *(Keichō 15 閏二月二十日)*  
 > **« 西江水の話に省みて世事を捨て浪蕩、寸暇を惜しんで尺八に没頭。 »**  
 > *“20ᵉ jour du deuxième mois intercalaire, Keichō 15, (soit 1610).*  
 > *En méditant sur l’histoire de Saikō-sui, il abandonna les affaires mondaines pour vagabonder et, ne ménageant pas le moindre instant, se plongea entièrement dans la pratique du shakuhachi.”*
 
-Le texte fait référence à Ōmori Sōkun, et *Saikō-sui* (西江水, “l’eau de la rivière de l’Ouest”) est le nom d’une fable zen qui, selon les écrits de ce moine du XVIIᵉ siècle, aurait éveillé la vocation de Sōkun.
+Selon cette épitaphe, c’est bien le koan de Saikō-sui qui, gravé dans l’esprit du jeune Ōmori, l’incita à abandonner l’épée pour la flûte.
 
 Intrigant.  
 Allons voir de quoi il est question !
