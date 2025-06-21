@@ -13,9 +13,9 @@ While recounting [the story of my favorite hermit](/omori-sokun-biography/) (and
 
 What could have led someone so young, in the rigid world of warrior training, to make such a radical turn? Especially in 1582 — two decades *before* the Tokugawa era began, when Japan would enter a long period of peace and many samurai, no longer needed for warfare, turned to administrative work or spiritual pursuits, like the *komusō* monks.
 
-I haven’t found a definitive answer. But I did come across a possible clue — a Zen fable, known as *Saikō-sui* (西江水), or “West River Water,” which may have played a role in his transformation.
+There is no definitive answer, but a possible clue was inscribed on Sokun's tombstone — a Zen fable, known as *Saikō-sui* (西江水), or “West River Water,” which may have played a role in his transformation.
 
-I couldn’t confirm the connection with absolute certainty, but the story itself gripped me.
+Even though we may never know whether it's true, the story itself gripped me.
 
 And so, I’d like to share it with you.
 
@@ -118,13 +118,7 @@ That meaning is not found in titles or wealth, but in the quiet, persistent act 
 And that’s quietly profound, isn’t it?
 
 # Sources
-“Rokuon Nichiroku”, the official temple diary kept at Rokuon‐in, a subtemple of Shōkoku‐ji in Kyoto. 
-鹿苑日録 (Keichō 15 閏二月二十日)
-(i.e. the entry dated the 20th day of the intercalary 2nd month, Keichō 15 [1610])
-
-西江水の話に省みて世事を捨て浪蕩、寸暇を惜しんで尺八に没頭。
-
-“Upon hearing reports of Xiejie Shui (西江水) in China, he abandoned worldly affairs to wander recklessly, immersing himself in shakuhachi without sparing a moment”. 
-
-This quote is also cited in Kisokuseikan's blog: https://kisokuseikan.seesaa.net/
+Shin Sosa Ryu hitoyogiri school - www.hon-on.com
+Terebess - https://terebess.hu/zen/pang.html?utm_source=chatgpt.com
+Rinzai school - Engaku-ji (Kamakura) https://www.engakuji.or.jp/blog/36376/
 
