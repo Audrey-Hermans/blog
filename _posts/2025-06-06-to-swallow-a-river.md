@@ -118,7 +118,7 @@ That meaning is not found in titles or wealth, but in the quiet, persistent act 
 And that’s quietly profound, isn’t it?
 
 # Sources
-Shin Sosa Ryu hitoyogiri school - www.hon-on.com
-Terebess - https://terebess.hu/zen/pang.html?utm_source=chatgpt.com
-Rinzai school - Engaku-ji (Kamakura) https://www.engakuji.or.jp/blog/36376/
+- Shin Sosa Ryu hitoyogiri school - www.hon-on.com <br/>
+- Terebess - https://terebess.hu/zen/pang.html?utm_source=chatgpt.com <br/>
+- Rinzai school - Engaku-ji (Kamakura) https://www.engakuji.or.jp/blog/36376/ <br/>
 
