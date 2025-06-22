@@ -10,7 +10,7 @@ tags: ["english"]
 
 A few days ago, a friend asked me this question after listening to my playing:
 
-> *“Wow, is the hitoyogiri that hard to play? Some of your notes sounded a bit off.”*
+> *“Is the hitoyogiri that hard to play? Some of your notes sounded a bit off...is it normal?”*
 
 A precious — and inspiring — remark that made me want to write this article.
 
