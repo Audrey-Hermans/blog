@@ -6,7 +6,7 @@ author_profile: true
 lang: en
 tags: ["english"]
 ---
-# 🎐 Why Does the Hitoyogiri Sound “Off” to Modern Ears?
+# 🎐 The short answer
 
 A few days ago, someone asked me this question after watching one of my videos:
 
