@@ -13,7 +13,7 @@ Je vous explique le comment du pourquoi dans cet article!
 
 ## 1. Une flûte plus courte = une justesse plus instable
 
-Le hitoyogiri est plus court que le shakuhachi (notamment le shakuhachi 1.8), ce qui signifie :
+L'hitoyogiri est plus court que le shakuhachi (notamment le shakuhachi 1.8), ce qui signifie :
 
 - Une **colonne d’air plus petite** → le moindre changement (souffle, embouchure, angle) a un impact immédiat.
 - **Moins de marge de tolérance** : un petit décalage, et hop, tu es trop haut ou trop bas.
@@ -44,7 +44,7 @@ L’hitoyogiri utilise un **système de doigtés non tempéré**, hérité d’u
 
 ## En résumé :
 
-✅ Oui, le son du hitoyogiri peut sembler plus **facile à produire** (petit format, embouchure proche),  
+✅ Oui, le son de l'hitoyogiri peut sembler plus **facile à produire** (petit format, embouchure proche),  
 🚫 mais il est plus difficile à **stabiliser** en justesse.
 
 > C’est un instrument qui pardonne moins,  
