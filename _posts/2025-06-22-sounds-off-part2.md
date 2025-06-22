@@ -8,7 +8,7 @@ tags: ["english"]
 ---
 # 🎐 A More Technical Explanation
 
-As we saw in the previous article: despite its simple appearance, the *hitoyogiri* presents a real challenge in terms of intonation, and invites a different kind of listening.
+As we saw [in the previous article](/sounds-off-part1/): despite its simple appearance, the *hitoyogiri* presents a real challenge in terms of intonation, and invites a different kind of listening.
 
 Let me break down the how and why in this follow-up.
 
