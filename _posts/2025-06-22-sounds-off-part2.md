@@ -12,7 +12,6 @@ As we saw [in the previous article](/sounds-off-part1/): despite its simple appe
 
 Let me break down the how and why in this follow-up.
 
----
 
 ## 1. A Shorter Flute = Less Stable Pitch
 
@@ -23,7 +22,6 @@ The *hitoyogiri* is shorter than the *shakuhachi* (especially the 1.8 shakuhachi
 
 > A longer *shakuhachi* has a **more stable air column**, especially in the lower register, which gives more room to “search” for the note.
 
----
 
 ## 2. Pitch… is Relative
 
@@ -37,7 +35,6 @@ As a result:
 > And for a modern ear… this can be frustrating.  
 > Because it craves **a fixed note**, while the *hitoyogiri*… **sings around it**.
 
----
 
 ## 3. Shakuhachi: Flexible, Yet Centered
 
@@ -45,7 +42,6 @@ As a result:
 - Once your embouchure is well set, you can **feel the center of the note**.
 - On the *hitoyogiri*, that center is harder to find — and to hold — especially in the higher register, where everything can spin off quickly.
 
----
 
 ## In Summary:
 
@@ -55,7 +51,6 @@ As a result:
 > It’s an instrument that forgives nothing,  
 > but sings in its own way — with fluctuations, inflections, and an **ancient sense of pitch**.
 
----
 
 # 🎵 Why It Sounds “Funny” to the Modern Ear
 
@@ -65,7 +60,6 @@ The note doesn’t simply appear — it must be shaped.
 
 That’s what makes the sound so **alive**… and also a bit **strange** to modern ears.
 
----
 
 ## 🎼 What If It’s Not “Wrong”… But Ancient?
 
@@ -84,7 +78,6 @@ It’s a bit like listening to bagpipes or Gregorian chant when you’ve grown u
 
 > It takes a little time to adjust.
 
----
 
 # 🌿 An Ancient Flute for a Different Kind of Listening
 
@@ -96,10 +89,9 @@ It asks for patient ears,
 an open heart,  
 and a taste for **living imperfection**.
 
----
 
 So if you hear a “wrong note” in one of my videos…
 
-> 🎐 …maybe it’s me doing something wrong!  
-> …or maybe it’s an echo from ancient Japan, inviting you to travel through time.
+> maybe it’s me doing something wrong!  
+> or maybe it’s an echo from ancient Japan, inviting you to travel through time.
 
