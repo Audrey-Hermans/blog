@@ -54,7 +54,7 @@ L’hitoyogiri utilise un **système de doigtés non tempéré**, hérité d’u
 
 # 🎵 Et malgré tout… ça sonne faux à une oreille moderne ?
 
-On l’a vu : sur le hitoyogiri, il ne suffit pas de boucher les bons trous.  
+On l’a vu : sur l'hitoyogiri, il ne suffit pas de boucher les bons trous.  
 Il faut **souffler, ajuster, sentir**.  
 La note ne vient pas toute seule — elle se façonne.
 
