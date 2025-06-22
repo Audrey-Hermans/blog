@@ -8,7 +8,7 @@ tags: ["english"]
 ---
 # 🎐 The short answer
 
-A few days ago, someone asked me this question after watching one of my videos:
+A few days ago, a friend asked me this question after listening to my playing:
 
 > *“Wow, is the hitoyogiri that hard to play? Some of your notes sounded a bit off.”*
 
