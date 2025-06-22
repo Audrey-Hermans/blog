@@ -38,6 +38,9 @@ As a result:
 
 ## 3. Shakuhachi: Flexible, Yet Centered
 
+And now it's time to bust a myth...or at least to clarify a fairly common shortcut used in the shakuhachi world : the hitoyogiri
+is easier to play than the shakuhachi. 
+
 - On a good **shakuhachi**, each fingering brings you into a zone of pitch that you can shape using *meri* and *kari* techniques.
 - Once your embouchure is well set, you can **feel the center of the note**.
 - On the *hitoyogiri*, that center is harder to find — and to hold — especially in the higher register, where everything can spin off quickly.
