@@ -8,7 +8,7 @@ tags: ["français"]
 ---
 # 🎐 L''explication plus technique. 
 
-On l'a vu dans l'article précédent : sous ses airs simples, l'hitoyogiri présente un vrai défi de justesse, et invite à une écoute différente.
+On l'a vu [dans l'article précédent](/sonne-faux-partie1/) : sous ses airs simples, l'hitoyogiri présente un vrai défi de justesse, et invite à une écoute différente.
 Je vous explique le comment du pourquoi dans cet article!
 
 ## 1. Une flûte plus courte = une justesse plus instable
