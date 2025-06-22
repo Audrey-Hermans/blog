@@ -48,7 +48,8 @@ L'hitoyogiri **ne pardonne rien**. Un souffle trop fort, une lèvre trop tendue,
 Et pourtant, c’est ce terrain glissant qui me passionne.  
 Car dans cet inconfort naît une expression sincère.
 
-> Je ne cherche pas à “jouer juste” — je cherche à dire *vrai*.
+> Dans une certaine mesure, je ne cherche pas à jouer "parfaitement juste” — je cherche à accueillir l'instant, dans toute sa fluidité.
+> ...parfaitement imparfait.
 
 ---
 
