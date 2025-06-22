@@ -54,4 +54,4 @@ In that instability, a kind of *truthful* expression emerges.
 
 ---
 
-👉 *But the story doesn’t end there... Because beyond this natural instability, the hitoyogiri hides another layer of complexity — which I’ll explore with you next.*
+👉 *But the story doesn’t end there... Because beyond this natural instability,[the hitoyogiri hides another layer of complexity — which I’ll explore with you next](/sounds-off-part2/)*
