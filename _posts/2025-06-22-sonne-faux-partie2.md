@@ -6,7 +6,7 @@ author_profile: true
 lang: fr
 tags: ["français"]
 ---
-# 🎐 Pourquoi ça sonne faux, partie 2. 
+# 🎐 L''explication plus technique. 
 
 On l'a vu dans l'article précédent : sous ses airs simples, l'hitoyogiri présente un vrai défi de justesse, et invite à une écoute différente.
 Je vous explique le comment du pourquoi dans cet article!
@@ -96,4 +96,4 @@ un goût pour **l’imperfection vivante**.
 Alors, si tu entends une “fausse note” dans mes vidéos…
 
 > 🎐 …c’est peut-être moi qui fais n'importe quoi!  
-> …ou c'est un écho du Japon ancien qui traverse le temps d'un instant.
+> …ou c'est un écho du Japon ancien qui t'invite à voyager dans le temps.
