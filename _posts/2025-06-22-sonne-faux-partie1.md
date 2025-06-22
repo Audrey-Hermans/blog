@@ -1,5 +1,5 @@
 ---
-title: "Pourquoi l’hitoyogiri sonne-t-il “faux” aux oreilles modernes ?"
+title: "Pourquoi ça sonne “faux”? -en bref!"
 date: 2025-06-22
 layout: single
 author_profile: true
