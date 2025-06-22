@@ -26,8 +26,8 @@ To answer it clearly, I’d like to break the question into two parts:
 
 Imagine you're trying to capture a landscape.
 
-- With a **recorder**, it’s like using a camera in auto mode: you frame the shot, press the button, *click*, and the picture is sharp. All you need to do is cover the right holes, and the note comes out clean, well-pitched — “guaranteed.”
-- With a **hitoyogiri** (or a shakuhachi), you’re painting that same landscape by hand, with a brush. You have to choose the angle, the pressure, the thickness of each stroke. In flute terms: every note must be *shaped* — with your breath, your lips, your fingers, your posture. There’s no automatic note — every sound is handmade.
+- With a **recorder**, it’s like using a camera in auto mode: you frame the shot, press the button, *click*, and the picture is sharp. On the recorder, all you need to do is cover the right holes, and the note comes out clean, well-pitched — “guaranteed.”
+- With a **hitoyogiri** (or a shakuhachi), you’re painting that same landscape by hand, with a brush. You have to choose the angle, the pressure, the thickness of each stroke. In flute terms: every note must be *shaped* — with your breath, your lips, your fingers, your posture. There’s no automatic note — every sound is "handmade".
 
 
 ### 🌬 A Matter of Mouthpiece
