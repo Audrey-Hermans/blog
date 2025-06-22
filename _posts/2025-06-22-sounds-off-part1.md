@@ -19,7 +19,6 @@ To answer it clearly, I’d like to break the question into two parts:
 1. Is it difficult to play “in tune” on a hitoyogiri?  
 2. And even if it’s played well… why does it *still* sound “off”?
 
----
 
 ## 🎯 1. Is it hard to play in tune?
 
@@ -30,7 +29,6 @@ Imagine you're trying to capture a landscape.
 - With a **recorder**, it’s like using a camera in auto mode: you frame the shot, press the button, *click*, and the picture is sharp. All you need to do is cover the right holes, and the note comes out clean, well-pitched — “guaranteed.”
 - With a **hitoyogiri** (or a shakuhachi), you’re painting that same landscape by hand, with a brush. You have to choose the angle, the pressure, the thickness of each stroke. In flute terms: every note must be *shaped* — with your breath, your lips, your fingers, your posture. There’s no automatic note — every sound is handmade.
 
----
 
 ### 🌬 A Matter of Mouthpiece
 
@@ -39,7 +37,6 @@ Imagine you're trying to capture a landscape.
 
 > 🎵 In short: the **modern ear craves fixed points**. The hitoyogiri offers a **shifting landscape**.
 
----
 
 ### 🎭 The Beauty of Unstable Sound
 
@@ -52,6 +49,5 @@ In that instability, a kind of *truthful* expression emerges.
 > I’m trying to meet the moment as it is, fluid and alive.  
 > …perfectly imperfect.
 
----
 
 👉 *But the story doesn’t end there... Because beyond this natural instability,[the hitoyogiri hides another layer of complexity — which I’ll explore with you next](/sounds-off-part2/)*
