@@ -53,5 +53,5 @@ Car dans cet inconfort naît une expression sincère.
 
 ---
 
-👉 *Mais l’histoire ne s’arrête pas là... Car en plus de cette instabilité naturelle, l'hitoyogiri cache une autre complexité, que je vous raconte ici*
+👉 *Mais l’histoire ne s’arrête pas là... Car en plus de cette instabilité naturelle, l'hitoyogiri cache une autre complexité, [que je vous raconte ici](/sonne-faux-partie2/)*
 
