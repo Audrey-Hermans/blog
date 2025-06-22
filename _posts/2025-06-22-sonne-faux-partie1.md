@@ -8,7 +8,7 @@ tags: ["français"]
 ---
 # 🎐 Pourquoi l’hitoyogiri sonne-t-il “faux” aux oreilles modernes ?
 
-Il y a quelques jours, quelqu’un m’a posé cette question après avoir écouté une de mes vidéos :
+Il y a quelques jours, un ami m’a posé cette question après avoir écouté une de mes vidéos :
 
 > *« Tiens, c’est si difficile à jouer, l’hitoyogiri ? J’ai entendu une fausse note par-ci par-là. »*
 
