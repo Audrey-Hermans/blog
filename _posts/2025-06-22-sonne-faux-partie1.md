@@ -39,7 +39,10 @@ Imagine que tu veux représenter un paysage.
 
 > 🎵 En bref : L’**oreille moderne cherche un point fixe**. L'hitoyogiri propose un **terrain mouvant**.
 
----
+###🌬 Hauteur relative vs. hauteur absolue
+
+- Une flûte à bec moderne possède généralement une hauteur absolue, ce qui signifie qu’elle est accordée selon une référence normalisée – en général à 440 Hz (hertz). Cela permet de jouer juste avec d’autres instruments modernes, que ce soit en ensemble ou en orchestre.
+- En revanche, l'hitoyogiri utilise une hauteur relative. Chaque flûte est fabriquée à la main, et son accord peut varier – parfois jusqu’à un quart de ton – en fonction de l’artisan, du musicien et de la tradition historique. La gamme utilisée n’est pas fondée sur des mesures standardisées modernes, mais plutôt accordée à l’oreille, souvent en fonction du chant ou des préférences esthétiques locales. Ainsi, deux hitoyogiri ne sonnent jamais exactement de la même manière, et ne sont généralement pas compatibles avec les systèmes d’accord occidentaux modernes.
 
 ### 🎭 Une justesse vivante (et impitoyable)
 
