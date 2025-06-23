@@ -38,6 +38,12 @@ Imagine you're trying to capture a landscape.
 > 🎵 In short: the **modern ear craves fixed points**. The hitoyogiri offers a **shifting landscape**.
 
 
+### 🌬 Relative vs Absolute pitch
+
+- A modern recorder typically has absolute pitch, meaning it is tuned to a standardized reference—usually A = 440 Hz (hertz). This allows it to play in tune with other modern instruments in ensembles or orchestras.
+- The hitoyogiri, by contrast, is tuned using relative pitch. Each flute is handmade, and its pitch can vary—sometimes by as much as a quarter tone—depending on the individual maker, player, and historical tradition. The scale it uses was not based on modern standardized measurements, but rather on tuning by ear, often tailored to vocal styles or regional aesthetics. As a result, no two hitoyogiri flutes sound exactly alike, and they often don’t align perfectly with modern Western tuning systems.
+
+
 ### 🎭 The Beauty of Unstable Sound
 
 The hitoyogiri **forgives nothing**. A breath too strong, lips too tight, a slightly wrong angle… and the sound slips away, or veers sharply.
