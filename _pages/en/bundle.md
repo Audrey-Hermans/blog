@@ -42,22 +42,6 @@ The shakuhachi changed that.
 I even started a [YouTube channel](#) to talk about it. 
 Imagine that.
 
-## A Deck of Cards
-
-So here’s the thing.  
-Don’t burn me at the stake, but my method for seing through myself involves… **a Tarot de Marseille**.
-
-Yes, I know.  
-And no, I don’t tell the future. I read the *present* and believe me, that’s already enough of an adventure.
-
-I always carry a mini tarot deck in my pocket.  
-It’s like a personal translator when I’m lost in the static of daily life.  
-It whispers things like, *“You’re feeling anger, not guilt, you know.”*
-And I go,*“Ah, I see. Thanks.”*
-
-If you ever struggle to tell the difference between what you think you want and what you actually need given the moment, the tarot can be a surprisingly grounded way to tune in... without losing your mind.
-It gives the unconscious a chance to speak its favorite language: images.
-
 ## A Pencil for Spontaneous Expression
 
 A pencil might seem like a humble thing.  
