@@ -35,10 +35,10 @@ it's a wonderful way to check the weather inside myself and predict the imminent
 Playing the shakuhachi means getting acquainted with your breath. Not the one you *wish* you had, but the one that’s actually there, in the moment.  
 It’s like a martial art of self-kindness. You don't fight it, you lean into it.
 
-It might sound lofty… but breath rises from deep within us, so why wouldn’t it carry a few truths along the way?
-For instance, all the things we are unknowingly brooding on, or simply processing beneath the rush of our busy lives.
-It's especially useful to me because I often struggle to identify what I am really feeling —you know, all those things buried underneath all the “shoulds” and expectations.
-The shakuhachi changed that.
+It might sound lofty… but breath rises from deep within us, so why wouldn’t it carry a few truths along the way? <br />
+For instance, all the things we are unknowingly brooding on, or simply processing beneath the rush of our busy lives. <br />
+It's especially useful to me because I often struggle to identify what I am really feeling —you know, all those things buried underneath all the “shoulds” and expectations. <br />
+The shakuhachi changed that. <br />
 I even started a [YouTube channel](#) to document the journey. 
 Imagine that.
 
