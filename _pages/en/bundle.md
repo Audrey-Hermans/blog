@@ -26,20 +26,20 @@ To help you pack yours, I suggest three magical questions *(no wand required)*:
 ## A Tale of Shakuhachi *(bless you)*
 
 Everyone talks about the importance of breath.  
-Very few think to pick up a flute and find out how it actually works.
+Hardly anyone thinks to put it into practice: pick up a flute and just listen to what comes out of it.
 
 I play the **shakuhachi**, a Japanese bamboo flute once used by Zen monks in pursuit of spiritual awakening.  
-Well, I’m still stuck somewhere between “snooze” and “slow awakening,” but one thing’s certain:  
-I’ve never found a better way to check the weather inside myself without triggering a full-blown storm.
+Well, I’m still stuck somewhere between “snooze” and “just fell off the bed”, but one thing’s certain:  
+it's a wonderful way to check the weather inside myself and predict the imminent formation of full-blown storms.
 
 Playing the shakuhachi means getting acquainted with your breath. Not the one you *wish* you had, but the one that’s actually there, in the moment.  
-It’s like a martial art of self-kindness.
+It’s like a martial art of self-kindness. You don't fight it, you lean into it.
 
 It might sound lofty… but breath rises from deep within us, so why wouldn’t it carry a few truths along the way?
-
-I often struggle to identify what I am really feeling, buried underneath all the “shoulds” and expectations.
+For instance, all the things we are unknowingly brooding on, or simply processing beneath the rush of our busy lives.
+It's especially useful to me because I often struggle to identify what I am really feeling —you know, all those things buried underneath all the “shoulds” and expectations.
 The shakuhachi changed that.
-I even started a [YouTube channel](#) to talk about it. 
+I even started a [YouTube channel](#) to document the journey. 
 Imagine that.
 
 ## A Pencil for Spontaneous Expression
