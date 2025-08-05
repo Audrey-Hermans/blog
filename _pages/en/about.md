@@ -43,9 +43,8 @@ We cheer each other on — because deep down, we’re all walking in the same di
 
 Here’s what’s in my bundle:
 
-- my flute, to listen to my breath  
-- a card deck, to read myself in the moment  
-- a pencil, always ready to shape whatever inspiration shows up
+- my flute, to listen to my breath   
+- and a pencil, always ready to shape whatever inspiration shows up
 
 [Meet me on the bundle page](/en/bundle/) — I’ll show you how I pack my bag to travel light, without leaving behind what truly matters.
 
