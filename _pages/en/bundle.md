@@ -59,7 +59,7 @@ A shout-out here to Max, Serge, and Jérôme, each of whom, in their own way, he
 If you’re anything like me, your pockets probably hold a stone, a shell, or a scrap of bark picked up on a walk.  
 Maybe even a book, if your pockets are particularly ambitious.
 
-These samll objects have a quiet but powerful gift: **they bring us back to ourselves through touch**.
+These small objects have a quiet but powerful gift: **they bring us back to ourselves through touch**.
 
 Over time, my bundle has evolved into a kind of **anchoring toolkit**.  
 These days, I never leave home without my survival kit:
