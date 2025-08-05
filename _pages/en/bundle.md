@@ -29,8 +29,8 @@ Everyone talks about the importance of breath.
 Hardly anyone thinks to put it into practice: pick up a flute and just listen to what comes out of it.
 
 I play the **shakuhachi**, a Japanese bamboo flute once used by Zen monks in pursuit of spiritual awakening.  
-Well, I’m still stuck somewhere between “snooze” and “just fell off the bed”, but one thing’s certain:  
-it's a wonderful way to check the weather inside myself and predict the imminent formation of full-blown storms.
+Well, as for awakening, I’m still stuck somewhere between hitting snooze and tumbling out of bed, but one thing’s certain:  
+it's a wonderful way to check the weather inside myself and know when full-blown storms are brewing — sometimes it even helps deflate them!
 
 Playing the shakuhachi means getting acquainted with your breath. Not the one you *wish* you had, but the one that’s actually there, in the moment.  
 It’s like a martial art of self-kindness. You don't fight it, you lean into it.
