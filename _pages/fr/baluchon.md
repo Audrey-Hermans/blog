@@ -40,17 +40,6 @@ Moi, j’ai longtemps eu du mal à reconnaître ce que je ressentais — derriè
 Le shakuhachi a changé ça. <br />
 Et j’ai même créé une [chaîne YouTube](https://www.youtube.com/@ShakuhachiDiaries-v4d) pour en parler. C’est dire.
 
-### Un jeu de cartes
-
-Alors voilà. <br />
-Ne m’envoyez pas au bûcher, mais ma méthode de lâcher-prise passe par… le Tarot de Marseille.
-
-Oui, je sais. Non, je ne prédis pas l’avenir. Je lis le présent, et croyez-moi, c’est déjà suffisamment de sport.
-
-J’ai toujours un mini tarot dans la poche. C’est mon traducteur personnel quand je suis paumée dans le brouhaha du quotidien. Il me murmure à l’oreille des trucs comme : _« Tu ressens de la colère, pas de la culpabilité, hein. »_ Et moi je réponds : _« Ah, tiens, merci. »_
-
-Si vous avez parfois du mal à faire la différence entre ce que vous pensez vouloir et ce dont vous avez réellement besoin, le tarot est d'une aide précieuse. Il offre à l'inconscient une voie royale pour s'exprimer librement à travers son langage préféré : l'image.
-
 ### Un crayon pour l’expression spontanée
 
 Un crayon, c’est un peu bête. Mais il m’a appris une chose essentielle :<br />
@@ -68,7 +57,7 @@ Peut-être même un livre, si vos poches sont du genre ambitieux.
 
 Ces objets ont un pouvoir discret mais puissant : _celui de nous ramener à nous-même par le toucher._
 
-Avec le temps, mon baluchon est devenu un véritable arsenal d’objets d’ancrage. Ceux qui me connaissent savent que je ne sors jamais sans mon kit de survie : casque à réduction de bruit, lunettes teintées, foulard et bonnet — un attirail pour atténuer les surcharges sensorielles et recréer un cocon, même au beau milieu du chaos.
+Avec le temps, mon baluchon est devenu un véritable arsenal d’objets d’ancrage. Ceux qui me connaissent savent que je ne sors jamais sans mon kit de survie : casque à réduction de bruit, lunettes teintées, foulard et parfois bonnet — un attirail pour atténuer les surcharges sensorielles et recréer un cocon, même au beau milieu du chaos.
 
 Au départ, c’était un réflexe de défense, à moitié inconscient. Mais un jour, j’ai réalisé à quel point ces objets me faisaient du bien…<br />
 Et surtout, à quel point leur absence me rendait vulnérable.
